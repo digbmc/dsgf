@@ -1,0 +1,11 @@
+---
+title: "DSGF"
+---
+
+# Digital Scholarship Graduate Fellows
+
+Repository for Digital Scholarship Graduate Fellows at Bryn Mawr College, AY 2025-2026.
+
+Led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)
+
+[Syllabus](syllabus.md)
