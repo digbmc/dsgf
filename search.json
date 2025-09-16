@@ -243,22 +243,33 @@
     "text": "Sessions\nMeeting notes will appear below."
   },
   {
-    "objectID": "syllabus.html#tentative-schedule",
-    "href": "syllabus.html#tentative-schedule",
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
     "title": "Syllabus",
-    "section": "Tentative schedule",
-    "text": "Tentative schedule\n\n\n\nID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nComputational thinking + start command line\nOct\n\n\n3\nGitHub Pages\ntbd\n\n\n4\nHTML/CSS\ntbd\n\n\n5\n3D Scanning\ntbd\n\n\n6\nMapping/GIS\ntbd\n\n\n7\nDigital exhibits\ntbd\n\n\n8\nProject management\ntbd",
+    "section": "",
+    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nComputational thinking + start command line\nOct\n\n\n3\nGitHub Pages\ntbd\n\n\n4\nHTML/CSS\ntbd\n\n\n5\n3D Scanning\ntbd\n\n\n6\nMapping/GIS\ntbd\n\n\n7\nDigital exhibits\ntbd\n\n\n8\nProject management\ntbd",
     "crumbs": [
       "Home",
       "Syllabus"
     ]
   },
   {
-    "objectID": "syllabus.html#sessions",
-    "href": "syllabus.html#sessions",
+    "objectID": "syllabus.html#tentative-schedule-2025-2026",
+    "href": "syllabus.html#tentative-schedule-2025-2026",
     "title": "Syllabus",
-    "section": "Sessions",
-    "text": "Sessions\n\nIntroduction - 2025.09.17\n\nOverview of DSGF program & expectations\nWhat is Digital Scholarship?\nSMART goals & learning plans\n\n\n\nMapping & GIS\n\nUnderstanding GIS data types\nWebmapping tools for ArcGIS Online\nCreating a map “experience”",
+    "section": "",
+    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nComputational thinking + start command line\nOct\n\n\n3\nGitHub Pages\ntbd\n\n\n4\nHTML/CSS\ntbd\n\n\n5\n3D Scanning\ntbd\n\n\n6\nMapping/GIS\ntbd\n\n\n7\nDigital exhibits\ntbd\n\n\n8\nProject management\ntbd",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#workshops",
+    "href": "syllabus.html#workshops",
+    "title": "Syllabus",
+    "section": "Workshops",
+    "text": "Workshops\n\nIntroduction - 2025.09.17\n\nOverview of DSGF program & expectations\nWhat is Digital Scholarship?\nSMART goals & learning plans\n\n\n\nMapping & GIS\n\nUnderstanding GIS data types\nWebmapping tools for ArcGIS Online\nCreating a map “experience”",
     "crumbs": [
       "Home",
       "Syllabus"
