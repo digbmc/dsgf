@@ -1,11 +1,20 @@
 ---
-title: "DSGF"
+title: "Digital Scholarship Graduate Fellows"
+listing:
+    contents: meetings
+    type: table
 ---
 
-# Digital Scholarship Graduate Fellows
+## About
 
-Repository for Digital Scholarship Graduate Fellows at Bryn Mawr College, AY 2025-2026.
+This site is a hub for the [Digital Scholarship Graduate Fellows Program](https://digitalscholarship.blogs.brynmawr.edu/dsgf/) at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist).
 
-Led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)
+## Quick links
 
-[Syllabus](syllabus.md)
+- [Syllabus](syllabus.md)
+- [GitHub Repository](https://github.com/digbmc/dsgf)
+- [Last year's program](https://github.com/digbmc/dsgf-2024)
+
+## Sessions
+
+Meeting notes will appear below.
