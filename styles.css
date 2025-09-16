@@ -1,0 +1,17 @@
+/* css styles */
+
+body {
+    color:whitesmoke;
+}
+
+a {
+    color:aquamarine;
+}
+
+.nav-footer a {
+    color:aquamarine;
+}
+
+.sidebar-navigation a {
+    color: lightgrey;
+}

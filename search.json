@@ -1,0 +1,257 @@
+[
+  {
+    "objectID": "meetings/introduction.html",
+    "href": "meetings/introduction.html",
+    "title": "Introduction to the DSGF Program",
+    "section": "",
+    "text": "Introductions\nProgram overview and logistics\nWhat is Digital Scholarship?\nGoals and learning plans\nOverview of GitHub and Markdown",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Introduction to the DSGF Program"
+    ]
+  },
+  {
+    "objectID": "meetings/introduction.html#agenda",
+    "href": "meetings/introduction.html#agenda",
+    "title": "Introduction to the DSGF Program",
+    "section": "",
+    "text": "Introductions\nProgram overview and logistics\nWhat is Digital Scholarship?\nGoals and learning plans\nOverview of GitHub and Markdown",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Introduction to the DSGF Program"
+    ]
+  },
+  {
+    "objectID": "meetings/introduction.html#notes",
+    "href": "meetings/introduction.html#notes",
+    "title": "Introduction to the DSGF Program",
+    "section": "Notes",
+    "text": "Notes",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Introduction to the DSGF Program"
+    ]
+  },
+  {
+    "objectID": "meetings/introduction.html#reminders-and-action-items",
+    "href": "meetings/introduction.html#reminders-and-action-items",
+    "title": "Introduction to the DSGF Program",
+    "section": "Reminders and action items",
+    "text": "Reminders and action items\n\nBrainstorm 3-4 goals and select the most relevant to draft a SMART goal\nSign up for a GitHub account & share your username\nPrepare for next session\n\nWatch all 6 Code.org videos on computers\nOptional: read “Hello, World” by Meredith Broussard (from Artificial Unintelligence, MIT 2018). NB: if direct link doesn’t work, use TriPod link\n\nEmail us a bio and headshot for the DS website\nJoin the slack channel for our group\nInstall software\n\nText editor: Visual Studio Code\nFor a PC: install git bash using these instructions",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Introduction to the DSGF Program"
+    ]
+  },
+  {
+    "objectID": "logs/sample.html",
+    "href": "logs/sample.html",
+    "title": "My Name",
+    "section": "",
+    "text": "DSGF Log 2024-2025\n\n\n\n\n\nWhat I’ve accomplished since our last meeting\nOther updates to share with the team\n\n\n\n\n\nWhat I’ve accomplished since our last meeting\nOther updates to share with the team\n\n\n\n\n\n\n\nA specific description of your goal using the SMART framework\n\n\n\n\nFirst milestone - due date\nSecond milestone - due date\nThird milestone - due date\n\n\n\n\n\n\n\nLog in to GitHub and navigate to the logs folder\nSelect Add file -&gt; Create new file. Give it a filename that includes your name or initials and the suffix ‘.md’ (for markdown): e.g. ‘Alice.md’\nCreate sections for your goals and biweekly updates (copy/paste from this file or use it as a guide)\nFollow the markdown guide for formatting",
+    "crumbs": [
+      "Home",
+      "Logs",
+      "My Name"
+    ]
+  },
+  {
+    "objectID": "logs/sample.html#updates",
+    "href": "logs/sample.html#updates",
+    "title": "My Name",
+    "section": "",
+    "text": "What I’ve accomplished since our last meeting\nOther updates to share with the team\n\n\n\n\n\nWhat I’ve accomplished since our last meeting\nOther updates to share with the team",
+    "crumbs": [
+      "Home",
+      "Logs",
+      "My Name"
+    ]
+  },
+  {
+    "objectID": "logs/sample.html#smart-goals",
+    "href": "logs/sample.html#smart-goals",
+    "title": "My Name",
+    "section": "",
+    "text": "A specific description of your goal using the SMART framework\n\n\n\n\nFirst milestone - due date\nSecond milestone - due date\nThird milestone - due date",
+    "crumbs": [
+      "Home",
+      "Logs",
+      "My Name"
+    ]
+  },
+  {
+    "objectID": "logs/sample.html#instructions",
+    "href": "logs/sample.html#instructions",
+    "title": "My Name",
+    "section": "",
+    "text": "Log in to GitHub and navigate to the logs folder\nSelect Add file -&gt; Create new file. Give it a filename that includes your name or initials and the suffix ‘.md’ (for markdown): e.g. ‘Alice.md’\nCreate sections for your goals and biweekly updates (copy/paste from this file or use it as a guide)\nFollow the markdown guide for formatting",
+    "crumbs": [
+      "Home",
+      "Logs",
+      "My Name"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html",
+    "href": "resources/smart-goals.html",
+    "title": "SMART Goals",
+    "section": "",
+    "text": "When you set goals, make sure they are SMART: Specific, Measurable, Achievable, Relevant, and Time-bound\n\n\n\nWhat will be accomplished? What specific actions will you take?\nThink of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.\n\n\n\n\n\nWhat “data” will you use to measure your goal or to determine if it has been met?\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?\nMeasurement methods can be both quantitative and qualitative. Use the measurement form that best suites your specific goal.\n\n\n\n\n\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources?\nIf you don’t currently have the skills need to achieve the goal, how will you acquire them? These can be some of your measurable milestones.\n\n\n\n\n\nDoes this particular goal align with broader project or personal goals?\nHow is the outcome important?\n\n\n\n\n\nWhat is the time frame for accomplishing this goal?\nIs it realistic?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html#specific",
+    "href": "resources/smart-goals.html#specific",
+    "title": "SMART Goals",
+    "section": "",
+    "text": "What will be accomplished? What specific actions will you take?\nThink of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html#measurable",
+    "href": "resources/smart-goals.html#measurable",
+    "title": "SMART Goals",
+    "section": "",
+    "text": "What “data” will you use to measure your goal or to determine if it has been met?\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?\nMeasurement methods can be both quantitative and qualitative. Use the measurement form that best suites your specific goal.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html#achievable",
+    "href": "resources/smart-goals.html#achievable",
+    "title": "SMART Goals",
+    "section": "",
+    "text": "Can you reasonably accomplish the goal? Do you have the necessary skills or resources?\nIf you don’t currently have the skills need to achieve the goal, how will you acquire them? These can be some of your measurable milestones.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html#relevant",
+    "href": "resources/smart-goals.html#relevant",
+    "title": "SMART Goals",
+    "section": "",
+    "text": "Does this particular goal align with broader project or personal goals?\nHow is the outcome important?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html#time-bound",
+    "href": "resources/smart-goals.html#time-bound",
+    "title": "SMART Goals",
+    "section": "",
+    "text": "What is the time frame for accomplishing this goal?\nIs it realistic?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "expectations.html",
+    "href": "expectations.html",
+    "title": "Program Expectations",
+    "section": "",
+    "text": "Program Expectations\nYou will receive a stipend of $1000. You will be expected to:\n\nParticipate in meetings and workshops\n\nWe will have 8 sessions that will include discussion and collaborative learning.\nIf you need to miss a meeting, please let the whole team know ASAP and take steps to make up the work.\nPrepare for each meeting as indicated (readings, tasks, workshop tasks).\n\nComplete a learning plan or project\n\nEach fellow will develop (in consultation with Alice and Jeff) a learning goal related to digital skill-building for research in your discipline.\nThis could take the shape of a small-scale digital scholarship project, or a set of tutorials/learning activities you intend to complete.\nYou will be responsible for developing a schedule for accomplishing your goal by the end of the DSGF program and sharing regular updates on your progress with the team.\n\nPresent at the DS Graduate Showcase in the Spring\n\nYour brief presentation (5-10 mins) could focus on your learning project or goal, an overview of digital methods in your discipline, a teaching or research tool demo, etc.",
+    "crumbs": [
+      "Home",
+      "Program Expectations"
+    ]
+  },
+  {
+    "objectID": "resources/markdown-guide.html",
+    "href": "resources/markdown-guide.html",
+    "title": "Markdown Guide",
+    "section": "",
+    "text": "This markdown cheatsheet is a good resource for more advanced formatting, but here are the basics:\n\n\n\n# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Markdown Guide"
+    ]
+  },
+  {
+    "objectID": "resources/markdown-guide.html#raw-markdown-syntax",
+    "href": "resources/markdown-guide.html#raw-markdown-syntax",
+    "title": "Markdown Guide",
+    "section": "",
+    "text": "# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Markdown Guide"
+    ]
+  },
+  {
+    "objectID": "resources/markdown-guide.html#second-level-heading",
+    "href": "resources/markdown-guide.html#second-level-heading",
+    "title": "Markdown Guide",
+    "section": "Second-level heading",
+    "text": "Second-level heading\n\nOrdered list\nordered list\n\n\nUnordered list\nUnordered list\n\nUse multiple returns or consecutive lines will run together\nItalics or Bold\nHyperlinks: dsgf github site\nImages:",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Markdown Guide"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DSGF",
+    "section": "",
+    "text": "Digital Scholarship Graduate Fellows\nRepository for Digital Scholarship Graduate Fellows at Bryn Mawr College, AY 2025-2026.\nLed by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)\nSyllabus"
+  },
+  {
+    "objectID": "syllabus.html#tentative-schedule",
+    "href": "syllabus.html#tentative-schedule",
+    "title": "Syllabus",
+    "section": "Tentative schedule",
+    "text": "Tentative schedule\n\n\n\nID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nComputational thinking + start command line\nOct\n\n\n3\nGitHub Pages\ntbd\n\n\n4\nHTML/CSS\ntbd\n\n\n5\n3D Scanning\ntbd\n\n\n6\nMapping/GIS\ntbd\n\n\n7\nDigital exhibits\ntbd\n\n\n8\nProject management\ntbd",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#sessions",
+    "href": "syllabus.html#sessions",
+    "title": "Syllabus",
+    "section": "Sessions",
+    "text": "Sessions\n\nIntroduction - 2025.09.17\n\nOverview of DSGF program & expectations\nWhat is Digital Scholarship?\nSMART goals & learning plans\n\n\n\nMapping & GIS\n\nUnderstanding GIS data types\nWebmapping tools for ArcGIS Online\nCreating a map “experience”",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#options",
+    "href": "syllabus.html#options",
+    "title": "Syllabus",
+    "section": "Options",
+    "text": "Options\n\nComputational thinking\n\nBasics of how computers work\nCommand line introduction\n\n\n\nMarkdown, Git, GitHub Pages\n\nText encoding in Markdown\nVersioning with Git\nWeb publishing with GitHub Pages\n\n\n\nWeb Development\n\nHTML\nCSS\nHow the internet works\n\n\n\n3D Scanning\n\n3D Scanning Technologies\n3D scanning practice\nSharing 3D scans\n\n\n\nDigital Exhibits\n\nDigital collections and metadata\nExhibit tools (Scalar, CollectionBuilder)\n\n\n\nProject Management\n\nStrategies and practices for long-term projects\nDigital Scholarship project charters\n\n\n\n\nData management\n\nData structures and types\nCleaning data with OpenRefine\n\n\n\nData visualization\n\nDesign & data storytelling\n\n\n\nText analysis\n\nMachine learning basics\nVoyant tools & Constellate\n\n\n\nSustainability & preservation\n\nDigital preservation\nStatic websites\nEnvironmental impact of web\n\n\n\nDigital Pedagogy\n\nHow to plan to use tech in teaching\nEdTech resources\n\n\n\nCritical Making\n\nAvaialble machines\nProjects involving critical making\n\n\n\nWeb Design & Professional Websites\n\nAvailable sites\nPurpose of sites",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
+  }
+]
