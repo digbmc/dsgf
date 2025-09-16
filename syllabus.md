@@ -3,9 +3,7 @@ title: Syllabus
 order: 1
 ---
 
-## 2025-2026 DSGF Program Workshops
-
-## Tentative schedule
+## Tentative schedule, 2025-2026
 
 | ID  | Session                                     | Date    |
 | --- | ------------------------------------------- | ------  |
@@ -18,7 +16,7 @@ order: 1
 | 7   | Digital exhibits                            | tbd |
 | 8   | Project management                          | tbd  |
 
-## Sessions
+## Workshops
 
 ### [Introduction](meetings/introduction.md) - 2025.09.17
 - Overview of DSGF program & expectations
@@ -29,7 +27,6 @@ order: 1
 - Understanding GIS data types
 - Webmapping tools for ArcGIS Online
 - Creating a map "experience"
-
 
 ## Options
 
