@@ -1,6 +1,10 @@
-# Program Expectations
+---
+title: Expectations
+---
 
-You will receive a stipend of $1000. You will be expected to:
+## DSGF Program Requirements
+
+To support your participation in this program, you will receive a stipend of $1000, paid in two installments. You will be expected to:
 
 - Participate in meetings and workshops
   - We will have 8 sessions that will include discussion and collaborative learning.

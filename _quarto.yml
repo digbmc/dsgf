@@ -22,7 +22,7 @@ website:
     - auto: meetings
     - auto: resources
     - text: Logs
-      href: logs.md
+      href: logs/
     - expectations.md
 
 

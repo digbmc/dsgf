@@ -1,0 +1,22 @@
+---
+title: Logs
+listing:
+    contents: /
+    type: table
+---
+
+## Instructions for adding a log entry
+
+- Log in to GitHub and navigate to the `logs` folder: [https://github.com/digbmc/dsgf/tree/main/logs](https://github.com/digbmc/dsgf/tree/main/logs)
+- Select Add file -> Create new file. Give it a filename that is unique and ends with the suffix '.md' (for markdown): e.g. 'alice-learning-plan.md'
+- Give your log a yaml header that includes your name, the date, and a title
+
+    ```yaml
+    title: My update
+    date: 2025.09.17
+    author: Alice
+    ```
+- Follow the [markdown guide](../resources/markdown-guide.md) for formatting. For advanced features, please see the [authoring section of the Quarto guide](https://quarto.org/docs/authoring/markdown-basics.html).
+- Once your post is deployed, you will see your entry below.
+
+## Updates

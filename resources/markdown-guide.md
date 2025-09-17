@@ -1,11 +1,10 @@
 # Markdown Guide
 
-[This markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) is a good resource for more advanced formatting, but here are the basics:
+Markdown is a simple markup language that prioritizes human-readability as well as machine-readability.
 
 ## Raw markdown syntax
 
-```
-
+```markdown
 # First-level heading
 
 ## Second-level heading
@@ -51,3 +50,7 @@ Hyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)
 Images:
 ![Image of the ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)
 
+# Advanced
+
+- For advanced features, please see the [authoring section of the Quarto guide](https://quarto.org/docs/authoring/markdown-basics.html).
+- [This markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) is also good resource for more advanced formatting.
