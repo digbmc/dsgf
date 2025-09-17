@@ -19,3 +19,7 @@ a {
 .quarto-title-breadcrumbs .breadcrumb li:last-of-type a {
     color:aquamarine;
 }
+
+.nav-page a {
+    color: lightgray
+}
