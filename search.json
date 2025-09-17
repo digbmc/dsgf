@@ -97,11 +97,155 @@
     "text": "Sessions\nMeeting notes will appear below."
   },
   {
+    "objectID": "resources/ds-project-planning.html",
+    "href": "resources/ds-project-planning.html",
+    "title": "Project Planning Guide",
+    "section": "",
+    "text": "This document is for the purposes of inspiring discussion, clarifying expectations, and surfacing values and assumptions about a given digital scholarship project. The questions are meant as a guide to discussions around important issues related to the project. Responses or notes made by the assigned DS team member will contribute to the creation of a Project Charter.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#goalsobjectives",
+    "href": "resources/ds-project-planning.html#goalsobjectives",
+    "title": "Project Planning Guide",
+    "section": "Goals/Objectives",
+    "text": "Goals/Objectives\nWhat are the goals/objectives for this project?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#deliverables",
+    "href": "resources/ds-project-planning.html#deliverables",
+    "title": "Project Planning Guide",
+    "section": "Deliverables",
+    "text": "Deliverables\nWhat will this project produce?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#schedule",
+    "href": "resources/ds-project-planning.html#schedule",
+    "title": "Project Planning Guide",
+    "section": "Schedule",
+    "text": "Schedule\nWhat are the major milestones for the project? And when will they be completed?\nWhen are appropriate points for reporting back to DS/TLR regarding the status of the project? (use actual dates whenever possible)",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#audience",
+    "href": "resources/ds-project-planning.html#audience",
+    "title": "Project Planning Guide",
+    "section": "Audience",
+    "text": "Audience\nWho is the intended audience of this project?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#team-members",
+    "href": "resources/ds-project-planning.html#team-members",
+    "title": "Project Planning Guide",
+    "section": "Team Members",
+    "text": "Team Members\nWho are the team members? And what are their roles and responsibilities for this project?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#technical-requirements",
+    "href": "resources/ds-project-planning.html#technical-requirements",
+    "title": "Project Planning Guide",
+    "section": "Technical Requirements",
+    "text": "Technical Requirements\nWhat hardware and software are necessary for this project? When will they be needed? Who on the team will be responsible for training, maintenance, etc.?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#communication",
+    "href": "resources/ds-project-planning.html#communication",
+    "title": "Project Planning Guide",
+    "section": "Communication",
+    "text": "Communication\nHow will team members communicate? And how frequently?\nex. Director will check in with team members weekly via email and report updates out to entire team via weekly email\nex. Through updates at monthly meetings about the project\nex. Via Slack as issues, questions, development arise",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#credit-attribution-and-intellectual-property",
+    "href": "resources/ds-project-planning.html#credit-attribution-and-intellectual-property",
+    "title": "Project Planning Guide",
+    "section": "Credit, Attribution, and Intellectual Property",
+    "text": "Credit, Attribution, and Intellectual Property\nHow should the project be cited?\nHow will team members be credited in the project?\nex. All team members will be listed on the project website with their roles and dates of working on the project. When referring to individual contributions, a team member can speak of that contribution as his or hers. When referring to the whole project, team members should always credit the team. We encourage everyone to share with the team when they make public mentions of the project.\nWho will retain the intellectual property for this project?\nHow will the IP of the project be licensed?\nex. Creative Commons Attribution-NonCommercial International 4.0\nex. Patent\nex. MIT license",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#preservation-and-long-term-access",
+    "href": "resources/ds-project-planning.html#preservation-and-long-term-access",
+    "title": "Project Planning Guide",
+    "section": "Preservation and Long-Term Access",
+    "text": "Preservation and Long-Term Access\nHow long should the project be actively maintained? Who is responsible for updating project content? Who is responsible for updating hardware/software for this project?\nHow will the project be archived? What restrictions (if any) should there be to access the project now? In future?\nWhat documentation about the project is required? Who will create it? Where will it be stored?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#outside-of-scope",
+    "href": "resources/ds-project-planning.html#outside-of-scope",
+    "title": "Project Planning Guide",
+    "section": "Outside of Scope",
+    "text": "Outside of Scope\nWhat is outside of the scope of this project?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#dependencies-concerns",
+    "href": "resources/ds-project-planning.html#dependencies-concerns",
+    "title": "Project Planning Guide",
+    "section": "Dependencies & Concerns",
+    "text": "Dependencies & Concerns\nWhat does the completion of this project depend on?\nWhat concerns do team members have about this project?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
     "objectID": "resources/markdown-guide.html",
     "href": "resources/markdown-guide.html",
     "title": "Markdown Guide",
     "section": "",
-    "text": "Markdown is a simple markup language that prioritizes human-readability as well as machine-readability.\n\n\n# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
+    "text": "Markdown is a simple markup language that prioritizes human-readability as well as machine-readability.",
     "crumbs": [
       "Home",
       "Resources",
@@ -112,8 +256,20 @@
     "objectID": "resources/markdown-guide.html#raw-markdown-syntax",
     "href": "resources/markdown-guide.html#raw-markdown-syntax",
     "title": "Markdown Guide",
-    "section": "",
-    "text": "# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
+    "section": "Raw markdown syntax",
+    "text": "Raw markdown syntax\n# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Markdown Guide"
+    ]
+  },
+  {
+    "objectID": "resources/markdown-guide.html#rich-text",
+    "href": "resources/markdown-guide.html#rich-text",
+    "title": "Markdown Guide",
+    "section": "Rich text",
+    "text": "Rich text",
     "crumbs": [
       "Home",
       "Resources",
@@ -152,6 +308,150 @@
     "crumbs": [
       "Home",
       "Expectations"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html",
+    "href": "resources/project-charter-template-ds.html",
+    "title": "Project Charter Template",
+    "section": "",
+    "text": "This document is intended to clarify expectations and support the successful completion of [PROJECT TITLE] a project supported by the Digital Scholarship program at Bryn Mawr College. The following is proposed by the project team, in consultation with Alice McGrath (Digital Scholarship Specialist).",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#project-title",
+    "href": "resources/project-charter-template-ds.html#project-title",
+    "title": "Project Charter Template",
+    "section": "Project title",
+    "text": "Project title\nShort summary of the project, including necessary background information.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#goals-and-objectives",
+    "href": "resources/project-charter-template-ds.html#goals-and-objectives",
+    "title": "Project Charter Template",
+    "section": "Goals and objectives",
+    "text": "Goals and objectives\n\nList what you hope to accomplish by undertaking this project\nInclude any guiding principles that will shape your success criteria",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#deliverables",
+    "href": "resources/project-charter-template-ds.html#deliverables",
+    "title": "Project Charter Template",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nList the things you will create in technical terms\nInclude any publication or other professional materials that will arise from it",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#team-members-roles-and-responsibilities",
+    "href": "resources/project-charter-template-ds.html#team-members-roles-and-responsibilities",
+    "title": "Project Charter Template",
+    "section": "Team members roles and responsibilities",
+    "text": "Team members roles and responsibilities\n\nPerson A - Project director\n\nDirecting the project\nCommunicating results of research\n\n\n\nPerson B - Consultant\n\nHelp determine best course of action",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#technical-requirements",
+    "href": "resources/project-charter-template-ds.html#technical-requirements",
+    "title": "Project Charter Template",
+    "section": "Technical requirements",
+    "text": "Technical requirements\n[What hardware and software are necessary for this project? When will they be needed? Who on the team will be responsible for training, maintenance, etc.]\n\n\n\n\n\n\n\n\n\n\nTechnology\nFunction\nPhase\nResponsibility\nFunding\n\n\n\n\nHardware or software\nWhat it does\nWhen needed (i.e. development, publication, etc.\nTeam member responsible\nCost",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#schedule",
+    "href": "resources/project-charter-template-ds.html#schedule",
+    "title": "Project Charter Template",
+    "section": "Schedule",
+    "text": "Schedule\n\nMilestones\n\nMajor steps along the way\nImportant dates\nSet some deadlines here\n\n\n\n\nID\nTask\nTime\nDependencies\nDue\nPerson\nComplete\n\n\n\n\n1\nResearch\n1 week\n\n\nPI\n\n\n\n2\nBuild website\n1 week\n1",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#anticipated-concerns",
+    "href": "resources/project-charter-template-ds.html#anticipated-concerns",
+    "title": "Project Charter Template",
+    "section": "Anticipated concerns",
+    "text": "Anticipated concerns\n\nLogistical difficulties you may encounter\nSkills you will need to build or areas in which you may need consultation",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#success-criteria",
+    "href": "resources/project-charter-template-ds.html#success-criteria",
+    "title": "Project Charter Template",
+    "section": "Success criteria",
+    "text": "Success criteria\n\nPublished prototype of digital scholarship project.\nResearch abstract ready to submit to a conference.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#communication",
+    "href": "resources/project-charter-template-ds.html#communication",
+    "title": "Project Charter Template",
+    "section": "Communication",
+    "text": "Communication\nWhen and how the team members will communicate, including what channels and modes they will use to discuss and share resources, and who is responsible for keeping everyone informed.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#credit-attribution",
+    "href": "resources/project-charter-template-ds.html#credit-attribution",
+    "title": "Project Charter Template",
+    "section": "Credit & attribution",
+    "text": "Credit & attribution\nThe Digital Scholarship program is committed to fair and equal attribution and credit for all work performed on digital scholarship projects. When this project is referenced (for example, in conference presentations or blog posts) the full project team will be attributed. Any code, data, or components produced for this project will be released open source.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#preservation-long-term-access",
+    "href": "resources/project-charter-template-ds.html#preservation-long-term-access",
+    "title": "Project Charter Template",
+    "section": "Preservation & long-term access",
+    "text": "Preservation & long-term access\nThe website and materials will be backed up and maintained solely by the Project Director. The Digital Scholarship program will maintain public access to the project and web platform until an external grant to expand the project has been awarded, or for three years, or until the platform is no longer useful, whichever is soonest. All LITS digital projects are periodically reviewed according to the LITS Sunsetting Policy.\nNB: all arrangements delineated in this charter are subject to change as the project evolves. Major changes to any of these sections may necessitate a team meeting.\nRevised April 30, 2020",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
     ]
   },
   {
@@ -274,7 +574,7 @@
     "href": "syllabus.html#workshops",
     "title": "Syllabus",
     "section": "Workshops",
-    "text": "Workshops\n\nIntroduction - 2025.09.17\n\nOverview of DSGF program & expectations\nWhat is Digital Scholarship?\nSMART goals & learning plans\n\n\n\nMapping & GIS\n\nUnderstanding GIS data types\nWebmapping tools for ArcGIS Online\nCreating a map “experience”",
+    "text": "Workshops\n\nIntroduction - 2025.09.17\n\nOverview of DSGF program & expectations\nWhat is Digital Scholarship?\nSMART goals & learning plans",
     "crumbs": [
       "Home",
       "Syllabus"
@@ -285,7 +585,7 @@
     "href": "syllabus.html#options",
     "title": "Syllabus",
     "section": "Options",
-    "text": "Options\n\nComputational thinking\n\nBasics of how computers work\nCommand line introduction\n\n\n\nMarkdown, Git, GitHub Pages\n\nText encoding in Markdown\nVersioning with Git\nWeb publishing with GitHub Pages\n\n\n\nWeb Development\n\nHTML\nCSS\nHow the internet works\n\n\n\n3D Scanning\n\n3D Scanning Technologies\n3D scanning practice\nSharing 3D scans\n\n\n\nDigital Exhibits\n\nDigital collections and metadata\nExhibit tools (Scalar, CollectionBuilder)\n\n\n\nProject Management\n\nStrategies and practices for long-term projects\nDigital Scholarship project charters\n\n\n\n\nData management\n\nData structures and types\nCleaning data with OpenRefine\n\n\n\nData visualization\n\nDesign & data storytelling\n\n\n\nText analysis\n\nMachine learning basics\nVoyant tools & Constellate\n\n\n\nSustainability & preservation\n\nDigital preservation\nStatic websites\nEnvironmental impact of web\n\n\n\nDigital Pedagogy\n\nHow to plan to use tech in teaching\nEdTech resources\n\n\n\nCritical Making\n\nAvaialble machines\nProjects involving critical making\n\n\n\nWeb Design & Professional Websites\n\nAvailable sites\nPurpose of sites",
+    "text": "Options\n\nMapping & GIS\n\nUnderstanding GIS data types\nWebmapping tools for ArcGIS Online\nCreating a map “experience”\n\n\n\nComputational thinking\n\nBasics of how computers work\nCommand line introduction\n\n\n\nMarkdown, Git, GitHub Pages\n\nText encoding in Markdown\nVersioning with Git\nWeb publishing with GitHub Pages\n\n\n\nGenerative AI\n\nCritical use of AI tools\nUnderstanding how LLMs work\nPrompt engineering and use-cases\n\n\n\nWeb Development\n\nHTML\nCSS\nHow the internet works\n\n\n\n3D Scanning\n\n3D Scanning Technologies\n3D scanning practice\nSharing 3D scans\n\n\n\nDigital Exhibits\n\nDigital collections and metadata\nExhibit tools (Scalar, CollectionBuilder)\n\n\n\nProject Management\n\nStrategies and practices for long-term projects\nDigital Scholarship project charters\n\n\n\nData management\n\nData structures and types\nCleaning data with OpenRefine\n\n\n\nData visualization\n\nDesign & data storytelling\n\n\n\nText analysis\n\nMachine learning basics\nVoyant tools & Constellate\n\n\n\nSustainability & preservation\n\nDigital preservation\nStatic websites\nEnvironmental impact of web\n\n\n\nDigital Pedagogy\n\nHow to plan to use tech in teaching\nEdTech resources\n\n\n\nCritical Making\n\nAvaialble machines\nProjects involving critical making\n\n\n\nWeb Design & Professional Websites\n\nAvailable sites\nPurpose of sites",
     "crumbs": [
       "Home",
       "Syllabus"
