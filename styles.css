@@ -15,3 +15,7 @@ a {
 .sidebar-navigation a {
     color: lightgrey;
 }
+
+.quarto-title-breadcrumbs .breadcrumb li:last-of-type a {
+    color:aquamarine;
+}
