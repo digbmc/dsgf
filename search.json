@@ -28,7 +28,7 @@
     "href": "meetings/introduction.html#notes",
     "title": "Introduction to the DSGF Program",
     "section": "Notes",
-    "text": "Notes",
+    "text": "Notes\n\nCharlie\n\nIn Istanbul in the Spring - remote participation options?\n\nJennifer\n\nMeeting once a month\ninterested in project management\nx-ray defraction peaks\nhistoresis curves; magneting damping\norigin software: https://www.originlab.com/\n\nPeak analysis\n\nMigrating excel data into origin - create a publishable graph that you can highlight\n\nWorkshops\n\nMapping & GIS\nProject management\nYouTube videos - explaining what we do // Digital Storytelling, video (+2)\nData visualization & digital literacy (+2)\nWeb development/publishing (+2)\n\nFile management & filenaming best practices\n\nDigital Pedagogy\n\nSMART goals\n\nMake sure that your efforts are effective\nIt’s ok to reevaluate\nDeadline: October 1 for a draft\n\nScheduling next meeting\n\nWednesday afternoons 2-3:30\nMaybe: 2:30 to 4?\nTentatively: October 15\n\nResearch\n\nCharlie: Art of the Byzantine Empire\n\n5th to 15th-century CE\nStrategic position in the Mediterannean sea; interested in how it interacts with other cultures\nCross-cultural connections\nEcocriticism and environmental humanities\nChurches carved into geologic formuations - rock structures made into churches and monestaries\nGeologic maps & showing what kind of rocks are in the area\nWhat data geologic maps are showing?\n\nJennifer: Quantum Mechanics Education & Sensing\n\nMagnetic fields - transistors (millions of them) - logic gates\nGenerates heat!\nElectrons can spin - what if we could do spin states instead of 1s and 0s?\nRoom-temperature cubit: superposition between 1 and 0; IBM has one but has to be super-cooled to be used\nMagnetic Skyrmions - topological spin structures; can operate at room temperature",
     "crumbs": [
       "Home",
       "Meetings",
@@ -40,7 +40,7 @@
     "href": "meetings/introduction.html#reminders-and-action-items",
     "title": "Introduction to the DSGF Program",
     "section": "Reminders and action items",
-    "text": "Reminders and action items\n\nBrainstorm 3-4 goals and select the most relevant to draft a SMART goal\nSign up for a GitHub account & share your username\nPrepare for next session\n\nWatch all 6 Code.org videos on computers\nOptional: read “Hello, World” by Meredith Broussard (from Artificial Unintelligence, MIT 2018). NB: if direct link doesn’t work, use TriPod link\n\nEmail us a bio and headshot for the DS website\nJoin the slack channel for our group\nInstall software\n\nText editor: Visual Studio Code\nFor a PC: install git bash using these instructions",
+    "text": "Reminders and action items\n\nDraft a SMART goal by October 1 and add it to the logs\nSign up for a GitHub account & share your username with Alice and Jeff\nPrepare for next session\n\nWatch all 6 Code.org videos on computers\nOptional: read “Hello, World” by Meredith Broussard (from Artificial Unintelligence, MIT 2018). NB: if direct link doesn’t work, use TriPod link\n\nEmail us a bio and headshot for the DS website\nJoin the slack channel for our group\nInstall software\n\nText editor: Visual Studio Code\nFor a PC: install git bash using these instructions",
     "crumbs": [
       "Home",
       "Meetings",
@@ -459,7 +459,7 @@
     "href": "resources/smart-goals.html",
     "title": "SMART Goals",
     "section": "",
-    "text": "When you set goals, make sure they are SMART: Specific, Measurable, Achievable, Relevant, and Time-bound\n\n\n\nWhat will be accomplished? What specific actions will you take?\nThink of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.\n\n\n\n\n\nWhat “data” will you use to measure your goal or to determine if it has been met?\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?\nMeasurement methods can be both quantitative and qualitative. Use the measurement form that best suites your specific goal.\n\n\n\n\n\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources?\nIf you don’t currently have the skills need to achieve the goal, how will you acquire them? These can be some of your measurable milestones.\n\n\n\n\n\nDoes this particular goal align with broader project or personal goals?\nHow is the outcome important?\n\n\n\n\n\nWhat is the time frame for accomplishing this goal?\nIs it realistic?",
+    "text": "When you set goals, make sure they are SMART: Specific, Measurable, Achievable, Relevant, and Time-bound",
     "crumbs": [
       "Home",
       "Resources",
@@ -470,8 +470,8 @@
     "objectID": "resources/smart-goals.html#specific",
     "href": "resources/smart-goals.html#specific",
     "title": "SMART Goals",
-    "section": "",
-    "text": "What will be accomplished? What specific actions will you take?\nThink of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.",
+    "section": "Specific",
+    "text": "Specific\n\nWhat will be accomplished? What specific actions will you take?\nThink of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.",
     "crumbs": [
       "Home",
       "Resources",
@@ -482,8 +482,8 @@
     "objectID": "resources/smart-goals.html#measurable",
     "href": "resources/smart-goals.html#measurable",
     "title": "SMART Goals",
-    "section": "",
-    "text": "What “data” will you use to measure your goal or to determine if it has been met?\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?\nMeasurement methods can be both quantitative and qualitative. Use the measurement form that best suites your specific goal.",
+    "section": "Measurable",
+    "text": "Measurable\n\nWhat “data” will you use to measure your goal or to determine if it has been met?\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?\nMeasurement methods can be both quantitative and qualitative. Use the measurement form that best suites your specific goal.",
     "crumbs": [
       "Home",
       "Resources",
@@ -494,8 +494,8 @@
     "objectID": "resources/smart-goals.html#achievable",
     "href": "resources/smart-goals.html#achievable",
     "title": "SMART Goals",
-    "section": "",
-    "text": "Can you reasonably accomplish the goal? Do you have the necessary skills or resources?\nIf you don’t currently have the skills need to achieve the goal, how will you acquire them? These can be some of your measurable milestones.",
+    "section": "Achievable",
+    "text": "Achievable\n\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources?\nIf you don’t currently have the skills need to achieve the goal, how will you acquire them? These can be some of your measurable milestones.",
     "crumbs": [
       "Home",
       "Resources",
@@ -506,8 +506,8 @@
     "objectID": "resources/smart-goals.html#relevant",
     "href": "resources/smart-goals.html#relevant",
     "title": "SMART Goals",
-    "section": "",
-    "text": "Does this particular goal align with broader project or personal goals?\nHow is the outcome important?",
+    "section": "Relevant",
+    "text": "Relevant\n\nDoes this particular goal align with broader project or personal goals?\nHow is the outcome important?",
     "crumbs": [
       "Home",
       "Resources",
@@ -518,8 +518,8 @@
     "objectID": "resources/smart-goals.html#time-bound",
     "href": "resources/smart-goals.html#time-bound",
     "title": "SMART Goals",
-    "section": "",
-    "text": "What is the time frame for accomplishing this goal?\nIs it realistic?",
+    "section": "Time-bound",
+    "text": "Time-bound\n\nWhat is the time frame for accomplishing this goal?\nIs it realistic?",
     "crumbs": [
       "Home",
       "Resources",
