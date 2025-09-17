@@ -48,51 +48,110 @@
     ]
   },
   {
-    "objectID": "logs/sample.html",
-    "href": "logs/sample.html",
-    "title": "My Name",
+    "objectID": "logs/index.html",
+    "href": "logs/index.html",
+    "title": "Logs",
     "section": "",
-    "text": "DSGF Log 2024-2025\n\n\n\n\n\nWhat I’ve accomplished since our last meeting\nOther updates to share with the team\n\n\n\n\n\nWhat I’ve accomplished since our last meeting\nOther updates to share with the team\n\n\n\n\n\n\n\nA specific description of your goal using the SMART framework\n\n\n\n\nFirst milestone - due date\nSecond milestone - due date\nThird milestone - due date\n\n\n\n\n\n\n\nLog in to GitHub and navigate to the logs folder\nSelect Add file -&gt; Create new file. Give it a filename that includes your name or initials and the suffix ‘.md’ (for markdown): e.g. ‘Alice.md’\nCreate sections for your goals and biweekly updates (copy/paste from this file or use it as a guide)\nFollow the markdown guide for formatting",
+    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘alice-learning-plan.md’\nGive your log a yaml header that includes your name, the date, and a title\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below."
+  },
+  {
+    "objectID": "logs/index.html#instructions-for-adding-a-log-entry",
+    "href": "logs/index.html#instructions-for-adding-a-log-entry",
+    "title": "Logs",
+    "section": "",
+    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘alice-learning-plan.md’\nGive your log a yaml header that includes your name, the date, and a title\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below."
+  },
+  {
+    "objectID": "logs/index.html#updates",
+    "href": "logs/index.html#updates",
+    "title": "Logs",
+    "section": "Updates",
+    "text": "Updates"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "",
+    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "",
+    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "Quick links",
+    "text": "Quick links\n\nSyllabus\nGitHub Repository\nLast year’s program"
+  },
+  {
+    "objectID": "index.html#sessions",
+    "href": "index.html#sessions",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "Sessions",
+    "text": "Sessions\nMeeting notes will appear below."
+  },
+  {
+    "objectID": "resources/markdown-guide.html",
+    "href": "resources/markdown-guide.html",
+    "title": "Markdown Guide",
+    "section": "",
+    "text": "Markdown is a simple markup language that prioritizes human-readability as well as machine-readability.\n\n\n# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
     "crumbs": [
       "Home",
-      "Logs",
-      "My Name"
+      "Resources",
+      "Markdown Guide"
     ]
   },
   {
-    "objectID": "logs/sample.html#updates",
-    "href": "logs/sample.html#updates",
-    "title": "My Name",
+    "objectID": "resources/markdown-guide.html#raw-markdown-syntax",
+    "href": "resources/markdown-guide.html#raw-markdown-syntax",
+    "title": "Markdown Guide",
     "section": "",
-    "text": "What I’ve accomplished since our last meeting\nOther updates to share with the team\n\n\n\n\n\nWhat I’ve accomplished since our last meeting\nOther updates to share with the team",
+    "text": "# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
     "crumbs": [
       "Home",
-      "Logs",
-      "My Name"
+      "Resources",
+      "Markdown Guide"
     ]
   },
   {
-    "objectID": "logs/sample.html#smart-goals",
-    "href": "logs/sample.html#smart-goals",
-    "title": "My Name",
-    "section": "",
-    "text": "A specific description of your goal using the SMART framework\n\n\n\n\nFirst milestone - due date\nSecond milestone - due date\nThird milestone - due date",
+    "objectID": "resources/markdown-guide.html#second-level-heading",
+    "href": "resources/markdown-guide.html#second-level-heading",
+    "title": "Markdown Guide",
+    "section": "Second-level heading",
+    "text": "Second-level heading\n\nOrdered list\nordered list\n\n\nUnordered list\nUnordered list\n\nUse multiple returns or consecutive lines will run together\nItalics or Bold\nHyperlinks: dsgf github site\nImages:",
     "crumbs": [
       "Home",
-      "Logs",
-      "My Name"
+      "Resources",
+      "Markdown Guide"
     ]
   },
   {
-    "objectID": "logs/sample.html#instructions",
-    "href": "logs/sample.html#instructions",
-    "title": "My Name",
+    "objectID": "expectations.html",
+    "href": "expectations.html",
+    "title": "Expectations",
     "section": "",
-    "text": "Log in to GitHub and navigate to the logs folder\nSelect Add file -&gt; Create new file. Give it a filename that includes your name or initials and the suffix ‘.md’ (for markdown): e.g. ‘Alice.md’\nCreate sections for your goals and biweekly updates (copy/paste from this file or use it as a guide)\nFollow the markdown guide for formatting",
+    "text": "To support your participation in this program, you will receive a stipend of $1000, paid in two installments. You will be expected to:\n\nParticipate in meetings and workshops\n\nWe will have 8 sessions that will include discussion and collaborative learning.\nIf you need to miss a meeting, please let the whole team know ASAP and take steps to make up the work.\nPrepare for each meeting as indicated (readings, tasks, workshop tasks).\n\nComplete a learning plan or project\n\nEach fellow will develop (in consultation with Alice and Jeff) a learning goal related to digital skill-building for research in your discipline.\nThis could take the shape of a small-scale digital scholarship project, or a set of tutorials/learning activities you intend to complete.\nYou will be responsible for developing a schedule for accomplishing your goal by the end of the DSGF program and sharing regular updates on your progress with the team.\n\nPresent at the DS Graduate Showcase in the Spring\n\nYour brief presentation (5-10 mins) could focus on your learning project or goal, an overview of digital methods in your discipline, a teaching or research tool demo, etc.",
     "crumbs": [
       "Home",
-      "Logs",
-      "My Name"
+      "Expectations"
+    ]
+  },
+  {
+    "objectID": "expectations.html#dsgf-program-requirements",
+    "href": "expectations.html#dsgf-program-requirements",
+    "title": "Expectations",
+    "section": "",
+    "text": "To support your participation in this program, you will receive a stipend of $1000, paid in two installments. You will be expected to:\n\nParticipate in meetings and workshops\n\nWe will have 8 sessions that will include discussion and collaborative learning.\nIf you need to miss a meeting, please let the whole team know ASAP and take steps to make up the work.\nPrepare for each meeting as indicated (readings, tasks, workshop tasks).\n\nComplete a learning plan or project\n\nEach fellow will develop (in consultation with Alice and Jeff) a learning goal related to digital skill-building for research in your discipline.\nThis could take the shape of a small-scale digital scholarship project, or a set of tutorials/learning activities you intend to complete.\nYou will be responsible for developing a schedule for accomplishing your goal by the end of the DSGF program and sharing regular updates on your progress with the team.\n\nPresent at the DS Graduate Showcase in the Spring\n\nYour brief presentation (5-10 mins) could focus on your learning project or goal, an overview of digital methods in your discipline, a teaching or research tool demo, etc.",
+    "crumbs": [
+      "Home",
+      "Expectations"
     ]
   },
   {
@@ -168,79 +227,25 @@
     ]
   },
   {
-    "objectID": "expectations.html",
-    "href": "expectations.html",
-    "title": "Program Expectations",
+    "objectID": "logs/sample.html",
+    "href": "logs/sample.html",
+    "title": "Alice’s Learning Plan",
     "section": "",
-    "text": "Program Expectations\nYou will receive a stipend of $1000. You will be expected to:\n\nParticipate in meetings and workshops\n\nWe will have 8 sessions that will include discussion and collaborative learning.\nIf you need to miss a meeting, please let the whole team know ASAP and take steps to make up the work.\nPrepare for each meeting as indicated (readings, tasks, workshop tasks).\n\nComplete a learning plan or project\n\nEach fellow will develop (in consultation with Alice and Jeff) a learning goal related to digital skill-building for research in your discipline.\nThis could take the shape of a small-scale digital scholarship project, or a set of tutorials/learning activities you intend to complete.\nYou will be responsible for developing a schedule for accomplishing your goal by the end of the DSGF program and sharing regular updates on your progress with the team.\n\nPresent at the DS Graduate Showcase in the Spring\n\nYour brief presentation (5-10 mins) could focus on your learning project or goal, an overview of digital methods in your discipline, a teaching or research tool demo, etc.",
-    "crumbs": [
-      "Home",
-      "Program Expectations"
-    ]
+    "text": "A specific description of your goal using the SMART framework\n\nSpecific:\nMeasurable\nAchievable\nRelevant\nTime-bound\n\n\n\n\n\nFirst milestone - due date\nSecond milestone - due date\nThird milestone - due date"
   },
   {
-    "objectID": "resources/markdown-guide.html",
-    "href": "resources/markdown-guide.html",
-    "title": "Markdown Guide",
+    "objectID": "logs/sample.html#goal",
+    "href": "logs/sample.html#goal",
+    "title": "Alice’s Learning Plan",
     "section": "",
-    "text": "This markdown cheatsheet is a good resource for more advanced formatting, but here are the basics:\n\n\n\n# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Markdown Guide"
-    ]
+    "text": "A specific description of your goal using the SMART framework\n\nSpecific:\nMeasurable\nAchievable\nRelevant\nTime-bound"
   },
   {
-    "objectID": "resources/markdown-guide.html#raw-markdown-syntax",
-    "href": "resources/markdown-guide.html#raw-markdown-syntax",
-    "title": "Markdown Guide",
+    "objectID": "logs/sample.html#action-plan",
+    "href": "logs/sample.html#action-plan",
+    "title": "Alice’s Learning Plan",
     "section": "",
-    "text": "# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Markdown Guide"
-    ]
-  },
-  {
-    "objectID": "resources/markdown-guide.html#second-level-heading",
-    "href": "resources/markdown-guide.html#second-level-heading",
-    "title": "Markdown Guide",
-    "section": "Second-level heading",
-    "text": "Second-level heading\n\nOrdered list\nordered list\n\n\nUnordered list\nUnordered list\n\nUse multiple returns or consecutive lines will run together\nItalics or Bold\nHyperlinks: dsgf github site\nImages:",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Markdown Guide"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Digital Scholarship Graduate Fellows",
-    "section": "",
-    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Digital Scholarship Graduate Fellows",
-    "section": "",
-    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Digital Scholarship Graduate Fellows",
-    "section": "Quick links",
-    "text": "Quick links\n\nSyllabus\nGitHub Repository\nLast year’s program"
-  },
-  {
-    "objectID": "index.html#sessions",
-    "href": "index.html#sessions",
-    "title": "Digital Scholarship Graduate Fellows",
-    "section": "Sessions",
-    "text": "Sessions\nMeeting notes will appear below."
+    "text": "First milestone - due date\nSecond milestone - due date\nThird milestone - due date"
   },
   {
     "objectID": "syllabus.html",
