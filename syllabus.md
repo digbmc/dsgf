@@ -23,12 +23,12 @@ order: 1
 - What is Digital Scholarship?
 - SMART goals & learning plans
 
+## Options
+
 ### Mapping & GIS
 - Understanding GIS data types
 - Webmapping tools for ArcGIS Online
 - Creating a map "experience"
-
-## Options
 
 ### Computational thinking
 - Basics of how computers work
@@ -39,6 +39,10 @@ order: 1
 - Versioning with Git
 - Web publishing with GitHub Pages
 
+### Generative AI
+- Critical use of AI tools
+- Understanding how LLMs work
+- Prompt engineering and use-cases
 
 ### Web Development
 - HTML
@@ -61,8 +65,6 @@ order: 1
 - Strategies and practices for long-term projects
 - Digital Scholarship project charters
 
-
----
 
 ### Data management
 - Data structures and types
