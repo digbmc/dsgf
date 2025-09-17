@@ -15,15 +15,16 @@ website:
         href: https://github.com/digbmc/dsgf
   sidebar:
     style: docked
-    contents: auto
-      # - text: "Syllabus"
-      #   href: syllabus.md
-      # - section: "Meeting notes"
-      #   contents: meetings
-      # - section: "Resources"
-      #   contents: resources
-      # - section: "Workshops"
-      #   contents: workshops
+    contents:
+    # contents: auto
+    - text: "Syllabus"
+      href: syllabus.md
+    - auto: meetings
+    - auto: resources
+    - text: Logs
+      href: logs.md
+    - expectations.md
+
 
 format:
   html:
