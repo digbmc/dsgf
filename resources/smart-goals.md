@@ -2,7 +2,6 @@
 title: SMART Goals
 order: 2
 ---
-# SMART Goals
 
 When you set goals, make sure they are SMART: Specific, Measurable, Achievable, Relevant, and Time-bound
 
