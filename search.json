@@ -220,25 +220,70 @@
     "text": "Sessions\nMeeting notes will appear below."
   },
   {
-    "objectID": "logs/sample.html",
-    "href": "logs/sample.html",
-    "title": "Alice’s Learning Plan",
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
     "section": "",
-    "text": "A specific description of your goal using the SMART framework\n\nSpecific:\nMeasurable\nAchievable\nRelevant\nTime-bound\n\n\n\n\n\nFirst milestone - due date\nSecond milestone - due date\nThird milestone - due date"
+    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nProject management\n10/8/25\n\n\n3\nCommmand line\nNov\n\n\n4\nMapping/GIS\nDec\n\n\n5\nWeb development & publishing\ntbd\n\n\n6\nData visualization\ntbd\n\n\n7\nDigital storytelling\ntbd\n\n\n8\nDigital pedagogy\ntbd",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
   },
   {
-    "objectID": "logs/sample.html#goal",
-    "href": "logs/sample.html#goal",
-    "title": "Alice’s Learning Plan",
+    "objectID": "syllabus.html#tentative-schedule-2025-2026",
+    "href": "syllabus.html#tentative-schedule-2025-2026",
+    "title": "Syllabus",
     "section": "",
-    "text": "A specific description of your goal using the SMART framework\n\nSpecific:\nMeasurable\nAchievable\nRelevant\nTime-bound"
+    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nProject management\n10/8/25\n\n\n3\nCommmand line\nNov\n\n\n4\nMapping/GIS\nDec\n\n\n5\nWeb development & publishing\ntbd\n\n\n6\nData visualization\ntbd\n\n\n7\nDigital storytelling\ntbd\n\n\n8\nDigital pedagogy\ntbd",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
   },
   {
-    "objectID": "logs/sample.html#action-plan",
-    "href": "logs/sample.html#action-plan",
-    "title": "Alice’s Learning Plan",
+    "objectID": "syllabus.html#workshops",
+    "href": "syllabus.html#workshops",
+    "title": "Syllabus",
+    "section": "Workshops",
+    "text": "Workshops\n\nIntroduction - 2025.09.17\n\nOverview of DSGF program & expectations\nWhat is Digital Scholarship?\nSMART goals & learning plans\n\n\n\nProject Management\n\nStrategies and practices for long-term projects\nDigital Scholarship project charters\n\n\n\nMapping & GIS\n\nUnderstanding GIS data types\nWebmapping tools for ArcGIS Online\nCreating a map “experience”\n\n\n\nComputational thinking\n\nBasics of how computers work\nCommand line introduction",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#options",
+    "href": "syllabus.html#options",
+    "title": "Syllabus",
+    "section": "Options",
+    "text": "Options\n\nMarkdown, Git, GitHub Pages\n\nText encoding in Markdown\nVersioning with Git\nWeb publishing with GitHub Pages\n\n\n\nGenerative AI\n\nCritical use of AI tools\nUnderstanding how LLMs work\nPrompt engineering and use-cases\n\n\n\nWeb Development\n\nHTML\nCSS\nHow the internet works\n\n\n\n3D Scanning\n\n3D Scanning Technologies\n3D scanning practice\nSharing 3D scans\n\n\n\nDigital Exhibits\n\nDigital collections and metadata\nExhibit tools (Scalar, CollectionBuilder)\n\n\n\nData management\n\nData structures and types\nCleaning data with OpenRefine\n\n\n\nData visualization\n\nDesign & data storytelling\n\n\n\nText analysis\n\nMachine learning basics\nVoyant tools & Constellate\n\n\n\nSustainability & preservation\n\nDigital preservation\nStatic websites\nEnvironmental impact of web\n\n\n\nDigital Pedagogy\n\nHow to plan to use tech in teaching\nEdTech resources\n\n\n\nCritical Making\n\nAvaialble machines\nProjects involving critical making\n\n\n\nWeb Design & Professional Websites\n\nAvailable sites\nPurpose of sites",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "expectations.html",
+    "href": "expectations.html",
+    "title": "Expectations",
     "section": "",
-    "text": "First milestone - due date\nSecond milestone - due date\nThird milestone - due date"
+    "text": "To support your participation in this program, you will receive a stipend of $1000, paid in two installments. You will be expected to:\n\nParticipate in meetings and workshops\n\nWe will have 8 sessions that will include discussion and collaborative learning.\nIf you need to miss a meeting, please let the whole team know ASAP and take steps to make up the work.\nPrepare for each meeting as indicated (readings, tasks, workshop tasks).\n\nComplete a learning plan or project\n\nEach fellow will develop (in consultation with Alice and Jeff) a learning goal related to digital skill-building for research in your discipline.\nThis could take the shape of a small-scale digital scholarship project, or a set of tutorials/learning activities you intend to complete.\nYou will be responsible for developing a schedule for accomplishing your goal by the end of the DSGF program and sharing regular updates on your progress with the team.\n\nPresent at the DS Graduate Showcase in the Spring\n\nYour brief presentation (5-10 mins) could focus on your learning project or goal, an overview of digital methods in your discipline, a teaching or research tool demo, etc.",
+    "crumbs": [
+      "Home",
+      "Expectations"
+    ]
+  },
+  {
+    "objectID": "expectations.html#dsgf-program-requirements",
+    "href": "expectations.html#dsgf-program-requirements",
+    "title": "Expectations",
+    "section": "",
+    "text": "To support your participation in this program, you will receive a stipend of $1000, paid in two installments. You will be expected to:\n\nParticipate in meetings and workshops\n\nWe will have 8 sessions that will include discussion and collaborative learning.\nIf you need to miss a meeting, please let the whole team know ASAP and take steps to make up the work.\nPrepare for each meeting as indicated (readings, tasks, workshop tasks).\n\nComplete a learning plan or project\n\nEach fellow will develop (in consultation with Alice and Jeff) a learning goal related to digital skill-building for research in your discipline.\nThis could take the shape of a small-scale digital scholarship project, or a set of tutorials/learning activities you intend to complete.\nYou will be responsible for developing a schedule for accomplishing your goal by the end of the DSGF program and sharing regular updates on your progress with the team.\n\nPresent at the DS Graduate Showcase in the Spring\n\nYour brief presentation (5-10 mins) could focus on your learning project or goal, an overview of digital methods in your discipline, a teaching or research tool demo, etc.",
+    "crumbs": [
+      "Home",
+      "Expectations"
+    ]
   },
   {
     "objectID": "meetings/introduction.html",
@@ -289,70 +334,25 @@
     ]
   },
   {
-    "objectID": "expectations.html",
-    "href": "expectations.html",
-    "title": "Expectations",
+    "objectID": "logs/sample.html",
+    "href": "logs/sample.html",
+    "title": "Alice’s Learning Plan",
     "section": "",
-    "text": "To support your participation in this program, you will receive a stipend of $1000, paid in two installments. You will be expected to:\n\nParticipate in meetings and workshops\n\nWe will have 8 sessions that will include discussion and collaborative learning.\nIf you need to miss a meeting, please let the whole team know ASAP and take steps to make up the work.\nPrepare for each meeting as indicated (readings, tasks, workshop tasks).\n\nComplete a learning plan or project\n\nEach fellow will develop (in consultation with Alice and Jeff) a learning goal related to digital skill-building for research in your discipline.\nThis could take the shape of a small-scale digital scholarship project, or a set of tutorials/learning activities you intend to complete.\nYou will be responsible for developing a schedule for accomplishing your goal by the end of the DSGF program and sharing regular updates on your progress with the team.\n\nPresent at the DS Graduate Showcase in the Spring\n\nYour brief presentation (5-10 mins) could focus on your learning project or goal, an overview of digital methods in your discipline, a teaching or research tool demo, etc.",
-    "crumbs": [
-      "Home",
-      "Expectations"
-    ]
+    "text": "A specific description of your goal using the SMART framework\n\nSpecific:\nMeasurable\nAchievable\nRelevant\nTime-bound\n\n\n\n\n\nFirst milestone - due date\nSecond milestone - due date\nThird milestone - due date"
   },
   {
-    "objectID": "expectations.html#dsgf-program-requirements",
-    "href": "expectations.html#dsgf-program-requirements",
-    "title": "Expectations",
+    "objectID": "logs/sample.html#goal",
+    "href": "logs/sample.html#goal",
+    "title": "Alice’s Learning Plan",
     "section": "",
-    "text": "To support your participation in this program, you will receive a stipend of $1000, paid in two installments. You will be expected to:\n\nParticipate in meetings and workshops\n\nWe will have 8 sessions that will include discussion and collaborative learning.\nIf you need to miss a meeting, please let the whole team know ASAP and take steps to make up the work.\nPrepare for each meeting as indicated (readings, tasks, workshop tasks).\n\nComplete a learning plan or project\n\nEach fellow will develop (in consultation with Alice and Jeff) a learning goal related to digital skill-building for research in your discipline.\nThis could take the shape of a small-scale digital scholarship project, or a set of tutorials/learning activities you intend to complete.\nYou will be responsible for developing a schedule for accomplishing your goal by the end of the DSGF program and sharing regular updates on your progress with the team.\n\nPresent at the DS Graduate Showcase in the Spring\n\nYour brief presentation (5-10 mins) could focus on your learning project or goal, an overview of digital methods in your discipline, a teaching or research tool demo, etc.",
-    "crumbs": [
-      "Home",
-      "Expectations"
-    ]
+    "text": "A specific description of your goal using the SMART framework\n\nSpecific:\nMeasurable\nAchievable\nRelevant\nTime-bound"
   },
   {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "Syllabus",
+    "objectID": "logs/sample.html#action-plan",
+    "href": "logs/sample.html#action-plan",
+    "title": "Alice’s Learning Plan",
     "section": "",
-    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nProject management\n10/8/25\n\n\n3\nComputational thinking + start command line\nNov\n\n\n4\nMapping/GIS\nDec\n\n\n5\nWeb development & publishing\ntbd\n\n\n6\nData visualization\ntbd\n\n\n7\nDigital storytelling\ntbd\n\n\n8\nDigital pedagogy\ntbd",
-    "crumbs": [
-      "Home",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#tentative-schedule-2025-2026",
-    "href": "syllabus.html#tentative-schedule-2025-2026",
-    "title": "Syllabus",
-    "section": "",
-    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nProject management\n10/8/25\n\n\n3\nComputational thinking + start command line\nNov\n\n\n4\nMapping/GIS\nDec\n\n\n5\nWeb development & publishing\ntbd\n\n\n6\nData visualization\ntbd\n\n\n7\nDigital storytelling\ntbd\n\n\n8\nDigital pedagogy\ntbd",
-    "crumbs": [
-      "Home",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#workshops",
-    "href": "syllabus.html#workshops",
-    "title": "Syllabus",
-    "section": "Workshops",
-    "text": "Workshops\n\nIntroduction - 2025.09.17\n\nOverview of DSGF program & expectations\nWhat is Digital Scholarship?\nSMART goals & learning plans\n\n\n\nProject Management\n\nStrategies and practices for long-term projects\nDigital Scholarship project charters\n\n\n\nMapping & GIS\n\nUnderstanding GIS data types\nWebmapping tools for ArcGIS Online\nCreating a map “experience”\n\n\n\nComputational thinking\n\nBasics of how computers work\nCommand line introduction",
-    "crumbs": [
-      "Home",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#options",
-    "href": "syllabus.html#options",
-    "title": "Syllabus",
-    "section": "Options",
-    "text": "Options\n\nMarkdown, Git, GitHub Pages\n\nText encoding in Markdown\nVersioning with Git\nWeb publishing with GitHub Pages\n\n\n\nGenerative AI\n\nCritical use of AI tools\nUnderstanding how LLMs work\nPrompt engineering and use-cases\n\n\n\nWeb Development\n\nHTML\nCSS\nHow the internet works\n\n\n\n3D Scanning\n\n3D Scanning Technologies\n3D scanning practice\nSharing 3D scans\n\n\n\nDigital Exhibits\n\nDigital collections and metadata\nExhibit tools (Scalar, CollectionBuilder)\n\n\n\nData management\n\nData structures and types\nCleaning data with OpenRefine\n\n\n\nData visualization\n\nDesign & data storytelling\n\n\n\nText analysis\n\nMachine learning basics\nVoyant tools & Constellate\n\n\n\nSustainability & preservation\n\nDigital preservation\nStatic websites\nEnvironmental impact of web\n\n\n\nDigital Pedagogy\n\nHow to plan to use tech in teaching\nEdTech resources\n\n\n\nCritical Making\n\nAvaialble machines\nProjects involving critical making\n\n\n\nWeb Design & Professional Websites\n\nAvailable sites\nPurpose of sites",
-    "crumbs": [
-      "Home",
-      "Syllabus"
-    ]
+    "text": "First milestone - due date\nSecond milestone - due date\nThird milestone - due date"
   },
   {
     "objectID": "logs/index.html",
