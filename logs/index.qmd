@@ -18,5 +18,6 @@ listing:
     ```
 - Follow the [markdown guide](../resources/markdown-guide.md) for formatting. For advanced features, please see the [authoring section of the Quarto guide](https://quarto.org/docs/authoring/markdown-basics.html).
 - Once your post is deployed, you will see your entry below.
+- If you would like to add your post as a 'draft' (so that it will be visible on GitHub but will not render on the public-facing website), add `draft: true` to the YAML front matter.
 
 ## Updates
