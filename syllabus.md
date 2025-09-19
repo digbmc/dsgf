@@ -8,13 +8,14 @@ order: 1
 | ID  | Session                                     | Date    |
 | --- | ------------------------------------------- | ------  |
 | 1   | Intro                                       | 9/17/25  |
-| 2   | Computational thinking + start command line | Oct |
-| 3   | GitHub Pages                                | tbd |
-| 4   | HTML/CSS                                    | tbd |
-| 5   | 3D Scanning                                 | tbd |
-| 6   | Mapping/GIS                                 | tbd |
-| 7   | Digital exhibits                            | tbd |
-| 8   | Project management                          | tbd  |
+| 2   | Project management                          | 10/8/25  |
+| 3   | Computational thinking + start command line | Nov |
+| 4   | Mapping/GIS                                 | Dec |
+| 5   | Web development & publishing                | tbd |
+| 6   | Data visualization                          | tbd |
+| 7   | Digital storytelling                        | tbd |
+| 8   | Digital pedagogy                            | tbd |
+
 
 ## Workshops
 
@@ -23,7 +24,9 @@ order: 1
 - What is Digital Scholarship?
 - SMART goals & learning plans
 
-## Options
+### Project Management
+- Strategies and practices for long-term projects
+- Digital Scholarship project charters
 
 ### Mapping & GIS
 - Understanding GIS data types
@@ -33,6 +36,8 @@ order: 1
 ### Computational thinking
 - Basics of how computers work
 - Command line introduction
+
+## Options
 
 ### Markdown, Git, GitHub Pages
 - Text encoding in Markdown
@@ -59,12 +64,6 @@ order: 1
 ### Digital Exhibits
 - Digital collections and metadata
 - Exhibit tools (Scalar, CollectionBuilder)
-
-
-### Project Management
-- Strategies and practices for long-term projects
-- Digital Scholarship project charters
-
 
 ### Data management
 - Data structures and types
