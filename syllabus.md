@@ -9,7 +9,7 @@ order: 1
 | --- | ------------------------------------------- | ------  |
 | 1   | Intro                                       | 9/17/25  |
 | 2   | Project management                          | 10/8/25  |
-| 3   | Computational thinking + start command line | Nov |
+| 3   | Commmand line                               | Nov |
 | 4   | Mapping/GIS                                 | Dec |
 | 5   | Web development & publishing                | tbd |
 | 6   | Data visualization                          | tbd |

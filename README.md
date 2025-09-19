@@ -16,6 +16,5 @@ When adding new documents, use this folder structure:
 
 ## Deploying the site
 
-- Committing to the main branch will not cause the rendered site to update. This site is deployed using the `quarto publish` command, which renders html and pushes it directly to the `gh-pages` branch.
-- This can only be done from VS Code using a local clone.
-- To configure Quarto, use [these instructions](https://quarto.org/docs/get-started/hello/vscode.html)
+- Pushing commits to the main branch will trigger the "quarto publish" action, rendering the site on the `gh-pages` branch.
+- Do not edit the `gh-pages` branch.
