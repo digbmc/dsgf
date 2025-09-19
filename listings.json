@@ -1,14 +1,14 @@
 [
   {
-    "listing": "/logs/index.html",
-    "items": [
-      "/logs/sample.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/meetings/introduction.html"
+    ]
+  },
+  {
+    "listing": "/logs/index.html",
+    "items": [
+      "/logs/sample.html"
     ]
   }
 ]

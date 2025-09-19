@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://digbmc.github.io/dsgf/meetings/introduction.html</loc>
-    <lastmod>2025-09-17T20:00:22.119Z</lastmod>
-  </url>
-  <url>
-    <loc>https://digbmc.github.io/dsgf/logs/index.html</loc>
-    <lastmod>2025-09-17T14:14:50.849Z</lastmod>
-  </url>
-  <url>
-    <loc>https://digbmc.github.io/dsgf/index.html</loc>
-    <lastmod>2025-09-16T20:55:15.525Z</lastmod>
-  </url>
-  <url>
     <loc>https://digbmc.github.io/dsgf/resources/ds-project-planning.html</loc>
-    <lastmod>2025-09-17T17:32:24.661Z</lastmod>
+    <lastmod>2025-09-19T17:22:00.960Z</lastmod>
   </url>
   <url>
     <loc>https://digbmc.github.io/dsgf/resources/markdown-guide.html</loc>
-    <lastmod>2025-09-17T17:32:24.661Z</lastmod>
+    <lastmod>2025-09-19T17:22:00.960Z</lastmod>
   </url>
   <url>
-    <loc>https://digbmc.github.io/dsgf/expectations.html</loc>
-    <lastmod>2025-09-17T14:02:15.521Z</lastmod>
-  </url>
-  <url>
-    <loc>https://digbmc.github.io/dsgf/resources/project-charter-template-ds.html</loc>
-    <lastmod>2025-09-17T17:33:01.364Z</lastmod>
-  </url>
-  <url>
-    <loc>https://digbmc.github.io/dsgf/resources/smart-goals.html</loc>
-    <lastmod>2025-09-17T19:38:10.773Z</lastmod>
+    <loc>https://digbmc.github.io/dsgf/index.html</loc>
+    <lastmod>2025-09-19T17:22:00.960Z</lastmod>
   </url>
   <url>
     <loc>https://digbmc.github.io/dsgf/logs/sample.html</loc>
-    <lastmod>2025-09-17T13:58:53.189Z</lastmod>
+    <lastmod>2025-09-19T17:22:00.960Z</lastmod>
+  </url>
+  <url>
+    <loc>https://digbmc.github.io/dsgf/meetings/introduction.html</loc>
+    <lastmod>2025-09-19T17:22:00.960Z</lastmod>
+  </url>
+  <url>
+    <loc>https://digbmc.github.io/dsgf/expectations.html</loc>
+    <lastmod>2025-09-19T17:22:00.960Z</lastmod>
   </url>
   <url>
     <loc>https://digbmc.github.io/dsgf/syllabus.html</loc>
-    <lastmod>2025-09-17T17:58:02.650Z</lastmod>
+    <lastmod>2025-09-19T17:22:00.961Z</lastmod>
+  </url>
+  <url>
+    <loc>https://digbmc.github.io/dsgf/logs/index.html</loc>
+    <lastmod>2025-09-19T17:22:00.960Z</lastmod>
+  </url>
+  <url>
+    <loc>https://digbmc.github.io/dsgf/resources/smart-goals.html</loc>
+    <lastmod>2025-09-19T17:22:00.960Z</lastmod>
+  </url>
+  <url>
+    <loc>https://digbmc.github.io/dsgf/resources/project-charter-template-ds.html</loc>
+    <lastmod>2025-09-19T17:22:00.960Z</lastmod>
   </url>
 </urlset>
