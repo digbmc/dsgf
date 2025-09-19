@@ -359,14 +359,14 @@
     "href": "logs/index.html",
     "title": "Logs",
     "section": "",
-    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘alice-learning-plan.md’\nGive your log a yaml header that includes your name, the date, and a title\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below."
+    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘alice-learning-plan.md’\nGive your log a yaml header that includes your name, the date, and a title\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below.\nIf you would like to add your post as a ‘draft’ (so that it will be visible on GitHub but will not render on the public-facing website), add draft: true to the YAML front matter."
   },
   {
     "objectID": "logs/index.html#instructions-for-adding-a-log-entry",
     "href": "logs/index.html#instructions-for-adding-a-log-entry",
     "title": "Logs",
     "section": "",
-    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘alice-learning-plan.md’\nGive your log a yaml header that includes your name, the date, and a title\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below."
+    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘alice-learning-plan.md’\nGive your log a yaml header that includes your name, the date, and a title\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below.\nIf you would like to add your post as a ‘draft’ (so that it will be visible on GitHub but will not render on the public-facing website), add draft: true to the YAML front matter."
   },
   {
     "objectID": "logs/index.html#updates",
