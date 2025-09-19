@@ -315,7 +315,7 @@
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nComputational thinking + start command line\nOct\n\n\n3\nGitHub Pages\ntbd\n\n\n4\nHTML/CSS\ntbd\n\n\n5\n3D Scanning\ntbd\n\n\n6\nMapping/GIS\ntbd\n\n\n7\nDigital exhibits\ntbd\n\n\n8\nProject management\ntbd",
+    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nProject management\n10/8/25\n\n\n3\nComputational thinking + start command line\nNov\n\n\n4\nMapping/GIS\nDec\n\n\n5\nWeb development & publishing\ntbd\n\n\n6\nData visualization\ntbd\n\n\n7\nDigital storytelling\ntbd\n\n\n8\nDigital pedagogy\ntbd",
     "crumbs": [
       "Home",
       "Syllabus"
@@ -326,7 +326,7 @@
     "href": "syllabus.html#tentative-schedule-2025-2026",
     "title": "Syllabus",
     "section": "",
-    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nComputational thinking + start command line\nOct\n\n\n3\nGitHub Pages\ntbd\n\n\n4\nHTML/CSS\ntbd\n\n\n5\n3D Scanning\ntbd\n\n\n6\nMapping/GIS\ntbd\n\n\n7\nDigital exhibits\ntbd\n\n\n8\nProject management\ntbd",
+    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nProject management\n10/8/25\n\n\n3\nComputational thinking + start command line\nNov\n\n\n4\nMapping/GIS\nDec\n\n\n5\nWeb development & publishing\ntbd\n\n\n6\nData visualization\ntbd\n\n\n7\nDigital storytelling\ntbd\n\n\n8\nDigital pedagogy\ntbd",
     "crumbs": [
       "Home",
       "Syllabus"
@@ -337,7 +337,7 @@
     "href": "syllabus.html#workshops",
     "title": "Syllabus",
     "section": "Workshops",
-    "text": "Workshops\n\nIntroduction - 2025.09.17\n\nOverview of DSGF program & expectations\nWhat is Digital Scholarship?\nSMART goals & learning plans",
+    "text": "Workshops\n\nIntroduction - 2025.09.17\n\nOverview of DSGF program & expectations\nWhat is Digital Scholarship?\nSMART goals & learning plans\n\n\n\nProject Management\n\nStrategies and practices for long-term projects\nDigital Scholarship project charters\n\n\n\nMapping & GIS\n\nUnderstanding GIS data types\nWebmapping tools for ArcGIS Online\nCreating a map “experience”\n\n\n\nComputational thinking\n\nBasics of how computers work\nCommand line introduction",
     "crumbs": [
       "Home",
       "Syllabus"
@@ -348,7 +348,7 @@
     "href": "syllabus.html#options",
     "title": "Syllabus",
     "section": "Options",
-    "text": "Options\n\nMapping & GIS\n\nUnderstanding GIS data types\nWebmapping tools for ArcGIS Online\nCreating a map “experience”\n\n\n\nComputational thinking\n\nBasics of how computers work\nCommand line introduction\n\n\n\nMarkdown, Git, GitHub Pages\n\nText encoding in Markdown\nVersioning with Git\nWeb publishing with GitHub Pages\n\n\n\nGenerative AI\n\nCritical use of AI tools\nUnderstanding how LLMs work\nPrompt engineering and use-cases\n\n\n\nWeb Development\n\nHTML\nCSS\nHow the internet works\n\n\n\n3D Scanning\n\n3D Scanning Technologies\n3D scanning practice\nSharing 3D scans\n\n\n\nDigital Exhibits\n\nDigital collections and metadata\nExhibit tools (Scalar, CollectionBuilder)\n\n\n\nProject Management\n\nStrategies and practices for long-term projects\nDigital Scholarship project charters\n\n\n\nData management\n\nData structures and types\nCleaning data with OpenRefine\n\n\n\nData visualization\n\nDesign & data storytelling\n\n\n\nText analysis\n\nMachine learning basics\nVoyant tools & Constellate\n\n\n\nSustainability & preservation\n\nDigital preservation\nStatic websites\nEnvironmental impact of web\n\n\n\nDigital Pedagogy\n\nHow to plan to use tech in teaching\nEdTech resources\n\n\n\nCritical Making\n\nAvaialble machines\nProjects involving critical making\n\n\n\nWeb Design & Professional Websites\n\nAvailable sites\nPurpose of sites",
+    "text": "Options\n\nMarkdown, Git, GitHub Pages\n\nText encoding in Markdown\nVersioning with Git\nWeb publishing with GitHub Pages\n\n\n\nGenerative AI\n\nCritical use of AI tools\nUnderstanding how LLMs work\nPrompt engineering and use-cases\n\n\n\nWeb Development\n\nHTML\nCSS\nHow the internet works\n\n\n\n3D Scanning\n\n3D Scanning Technologies\n3D scanning practice\nSharing 3D scans\n\n\n\nDigital Exhibits\n\nDigital collections and metadata\nExhibit tools (Scalar, CollectionBuilder)\n\n\n\nData management\n\nData structures and types\nCleaning data with OpenRefine\n\n\n\nData visualization\n\nDesign & data storytelling\n\n\n\nText analysis\n\nMachine learning basics\nVoyant tools & Constellate\n\n\n\nSustainability & preservation\n\nDigital preservation\nStatic websites\nEnvironmental impact of web\n\n\n\nDigital Pedagogy\n\nHow to plan to use tech in teaching\nEdTech resources\n\n\n\nCritical Making\n\nAvaialble machines\nProjects involving critical making\n\n\n\nWeb Design & Professional Websites\n\nAvailable sites\nPurpose of sites",
     "crumbs": [
       "Home",
       "Syllabus"
