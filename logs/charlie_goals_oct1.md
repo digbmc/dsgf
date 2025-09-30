@@ -12,14 +12,6 @@ date: 2025-09-30
   2. Determine relevant sites and find their geographic coordinates.
   3. Determine how to represent historic political boundaries.
   4. Complete a basemap to use in the final story map.
-  ### By Monday, November 10
-  Explore possibilities for representing historical political boundaries. Use resources like [Harvard's Geospatial Library](https://hgl.harvard.edu/), or draw boundaries myself with vectors. Consult with Tessa and Alice if needed.
-  ### By Monday, November 24
-  Style basemap with labels, custom icons, etc. Consult with Alice and Jeff on workflow while in İstanbul. May require work to be done over winter break.
-  ### By end of Fall Semester: Friday, December 19
-  Final basemap due.
-  ### By end of year, Friday, May 15
-  Final storymap due.
   ## Achievable
   Tutorials will familiarize me with ARCGIS, and I will consult with Tessa and Alice when specific problems arise. This will ensure I have the skills and familiarity with the software to achieve my desired outcome.
   ## Relevant
