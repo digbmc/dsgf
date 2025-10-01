@@ -1,14 +1,15 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/logs/index.html",
     "items": [
-      "/meetings/introduction.html"
+      "/logs/sample.html",
+      "/logs/charlie_goals_oct1.html"
     ]
   },
   {
-    "listing": "/logs/index.html",
+    "listing": "/index.html",
     "items": [
-      "/logs/sample.html"
+      "/meetings/introduction.html"
     ]
   }
 ]
