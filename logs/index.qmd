@@ -8,16 +8,20 @@ listing:
 ## Instructions for adding a log entry
 
 - Log in to GitHub and navigate to the `logs` folder: [https://github.com/digbmc/dsgf/tree/main/logs](https://github.com/digbmc/dsgf/tree/main/logs)
-- Select Add file -> Create new file. Give it a filename that is unique and ends with the suffix '.md' (for markdown): e.g. 'alice-learning-plan.md'
-- Give your log a yaml header that includes your name, the date, and a title
+- Select Add file -> Create new file. Give it a filename that is unique and ends with the suffix '.md' (for markdown): e.g. 'update-alice.md'
+  - Because the filename will generate the url for the post, it should contain only URL-safe characters (i.e. avoid spaces, special characters, and punctuation, but you can use hyphens). URLs are case-sensitive and I recommend using all lowercase letters.
+- Give your log a [YAML](https://yaml.org/) header that includes your name, the date, and a title (this should appear at the very beginning of your document).
 
     ```yaml
+    ---
     title: My update
     date: 2025.09.17
     author: Alice
+    ---
+
     ```
 - Follow the [markdown guide](../resources/markdown-guide.md) for formatting. For advanced features, please see the [authoring section of the Quarto guide](https://quarto.org/docs/authoring/markdown-basics.html).
-- Once your post is deployed, you will see your entry below.
+- Once your post is deployed, you will see your entry below. If it doesn't appear, there may be an issue with the yaml header or filename.
 - If you would like to add your post as a 'draft' (so that it will be visible on GitHub but will not render on the public-facing website), add `draft: true` to the YAML front matter.
 
 ## Updates
