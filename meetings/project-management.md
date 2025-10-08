@@ -25,6 +25,7 @@ Note-taker: Name
 ## Reminders and action items
 - [ ] Make edits to learning plans
 - [ ] Develop project charters or other way of managing project
+- [ ] [Review the markdown guide](https://markdownguide.offshoot.io/basic-syntax/)
 - [ ] Next session
 
 
