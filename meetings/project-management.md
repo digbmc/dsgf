@@ -13,7 +13,7 @@ order: 2
 Note-taker: Name
 
 ### Business
-- Review schedule
+- Review project management
 - Discuss learning plans
 - Markdown stuff
 
@@ -22,9 +22,10 @@ Note-taker: Name
 - [Blank Project](https://brynmawr.sharepoint.com/:w:/s/EAST-Dev-AskAthenaStyleGuide2/ETtDMTDEhVdPhe1sYwdKrNUBcE3eJitdplpLGWZmT-3C1Q?e=9Eggxg): make use of this if your want to. 
 
 ## Reminders and action items
-- [ ] Make edits to learning plans
+- [ ] Make edits to learning plans, if needed
 - [ ] Develop project charters or other way of managing project
+- [ ] Update logs by 10/22
 - [ ] [Review the markdown guide](https://markdownguide.offshoot.io/basic-syntax/)
-- [ ] Next session
+- [ ] Next session: 11/7, GIS with Tessa
 
 
