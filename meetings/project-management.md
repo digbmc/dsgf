@@ -19,7 +19,7 @@ Note-taker: Name
 - Markdown stuff
 
 ### Project management
-
+- [Today's Presentation from Jeff](https://brynmawr-my.sharepoint.com/:p:/g/personal/jhopkins1_brynmawr_edu/Ec4njUT5qfhKq_tUatfohwEB061NS9LmIAbpQlwpTOFrYA?e=HNZnuw)
 
 ## Reminders and action items
 - [ ] Add your updates
