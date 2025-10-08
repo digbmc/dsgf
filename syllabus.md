@@ -9,8 +9,8 @@ order: 1
 | --- | ------------------------------------------- | ------  |
 | 1   | Intro                                       | 9/17/25  |
 | 2   | Project management                          | 10/8/25  |
-| 3   | Commmand line                               | Nov |
-| 4   | Mapping/GIS                                 | Dec |
+| 3   | Mapping/GIS                                 | 11/7/25 |
+| 4   | Command line                                | 12/3/25 |
 | 5   | Web development & publishing                | tbd |
 | 6   | Data visualization                          | tbd |
 | 7   | Digital storytelling                        | tbd |
@@ -24,16 +24,19 @@ order: 1
 - What is Digital Scholarship?
 - SMART goals & learning plans
 
-### Project Management
+### Project Management - 2025.10.08
+Led by Jeff Hopkins
 - Strategies and practices for long-term projects
 - Digital Scholarship project charters
 
-### Mapping & GIS
+### Mapping & GIS - 2025.11.07
+Led by Tessa Eisen
 - Understanding GIS data types
 - Webmapping tools for ArcGIS Online
 - Creating a map "experience"
 
-### Computational thinking
+### Command Line & Computational Thinking - 2025.12.03
+Led by Alice McGrath
 - Basics of how computers work
 - Command line introduction
 
