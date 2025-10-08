@@ -10,7 +10,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/meetings/introduction.html"
+      "/meetings/introduction.html",
+      "/meetings/project-management.html"
     ]
   }
 ]
