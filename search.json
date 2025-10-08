@@ -580,7 +580,7 @@
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nProject management\n10/8/25\n\n\n3\nCommmand line\nNov\n\n\n4\nMapping/GIS\nDec\n\n\n5\nWeb development & publishing\ntbd\n\n\n6\nData visualization\ntbd\n\n\n7\nDigital storytelling\ntbd\n\n\n8\nDigital pedagogy\ntbd",
+    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nProject management\n10/8/25\n\n\n3\nMapping/GIS\n11/7/25\n\n\n4\nCommand line\n12/3/25\n\n\n5\nWeb development & publishing\ntbd\n\n\n6\nData visualization\ntbd\n\n\n7\nDigital storytelling\ntbd\n\n\n8\nDigital pedagogy\ntbd",
     "crumbs": [
       "Home",
       "Syllabus"
@@ -591,7 +591,7 @@
     "href": "syllabus.html#tentative-schedule-2025-2026",
     "title": "Syllabus",
     "section": "",
-    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nProject management\n10/8/25\n\n\n3\nCommmand line\nNov\n\n\n4\nMapping/GIS\nDec\n\n\n5\nWeb development & publishing\ntbd\n\n\n6\nData visualization\ntbd\n\n\n7\nDigital storytelling\ntbd\n\n\n8\nDigital pedagogy\ntbd",
+    "text": "ID\nSession\nDate\n\n\n\n\n1\nIntro\n9/17/25\n\n\n2\nProject management\n10/8/25\n\n\n3\nMapping/GIS\n11/7/25\n\n\n4\nCommand line\n12/3/25\n\n\n5\nWeb development & publishing\ntbd\n\n\n6\nData visualization\ntbd\n\n\n7\nDigital storytelling\ntbd\n\n\n8\nDigital pedagogy\ntbd",
     "crumbs": [
       "Home",
       "Syllabus"
@@ -602,7 +602,7 @@
     "href": "syllabus.html#workshops",
     "title": "Syllabus",
     "section": "Workshops",
-    "text": "Workshops\n\nIntroduction - 2025.09.17\n\nOverview of DSGF program & expectations\nWhat is Digital Scholarship?\nSMART goals & learning plans\n\n\n\nProject Management\n\nStrategies and practices for long-term projects\nDigital Scholarship project charters\n\n\n\nMapping & GIS\n\nUnderstanding GIS data types\nWebmapping tools for ArcGIS Online\nCreating a map “experience”\n\n\n\nComputational thinking\n\nBasics of how computers work\nCommand line introduction",
+    "text": "Workshops\n\nIntroduction - 2025.09.17\n\nOverview of DSGF program & expectations\nWhat is Digital Scholarship?\nSMART goals & learning plans\n\n\n\nProject Management - 2025.10.08\nLed by Jeff Hopkins - Strategies and practices for long-term projects - Digital Scholarship project charters\n\n\nMapping & GIS - 2025.11.07\nLed by Tessa Eisen - Understanding GIS data types - Webmapping tools for ArcGIS Online - Creating a map “experience”\n\n\nCommand Line & Computational Thinking - 2025.12.03\nLed by Alice McGrath - Basics of how computers work - Command line introduction",
     "crumbs": [
       "Home",
       "Syllabus"
