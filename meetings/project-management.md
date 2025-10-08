@@ -1,6 +1,5 @@
 ---
 title: Project Management
-draft: true
 date: 2025.10.08
 order: 2
 ---
