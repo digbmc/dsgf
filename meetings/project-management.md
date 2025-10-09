@@ -10,7 +10,11 @@ order: 2
 3. Review of learning plans
 
 ## Meeting notes
-Note-taker: Name
+Note-taker: Jeff
+
+-Opening question: do Charlie & Jennifer have any questions about their logs?
+  -Jennifer: does formatting matter? Short answer: no, whatever works for the fellows is fine.
+  -Both: questions about yaml formatting? Answer from Alice: Yes! Make sure that it's in the correct place in the markdown documents and        that it is bracketed by "---" on both side.
 
 ### Business
 - Review project management
