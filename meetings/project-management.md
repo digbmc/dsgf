@@ -19,7 +19,7 @@ Note-taker: Name
 
 ### Project management
 - [Today's Presentation from Jeff](https://brynmawr-my.sharepoint.com/:p:/g/personal/jhopkins1_brynmawr_edu/Ec4njUT5qfhKq_tUatfohwEB061NS9LmIAbpQlwpTOFrYA?e=HNZnuw)
-- [Blank Project](https://brynmawr.sharepoint.com/:w:/s/EAST-Dev-AskAthenaStyleGuide2/ETtDMTDEhVdPhe1sYwdKrNUBcE3eJitdplpLGWZmT-3C1Q?e=9Eggxg): make use of this if your want to. 
+- [Blank Project Charter](https://brynmawr.sharepoint.com/:w:/s/EAST-Dev-AskAthenaStyleGuide2/ETtDMTDEhVdPhe1sYwdKrNUBcE3eJitdplpLGWZmT-3C1Q?e=9Eggxg): make use of this if your want to. 
 
 ## Reminders and action items
 - [ ] Make edits to learning plans, if needed
