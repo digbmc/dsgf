@@ -1,17 +1,17 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/meetings/introduction.html",
+      "/meetings/project-management.html"
+    ]
+  },
+  {
     "listing": "/logs/index.html",
     "items": [
       "/logs/sample.html",
       "/logs/SMART Goal Jennifer Rittenhouse.html",
       "/logs/charlie_goals_oct1.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/meetings/introduction.html",
-      "/meetings/project-management.html"
     ]
   }
 ]
