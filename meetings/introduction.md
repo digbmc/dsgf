@@ -2,6 +2,7 @@
 title:  Introduction to the DSGF Program
 date: 2025.09.17
 order: 1
+author: Alice McGrath
 ---
 
 ## Agenda

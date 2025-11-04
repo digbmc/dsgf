@@ -7,9 +7,8 @@ order: 3
 
 ## Agenda
 
-1. Updates and announcements
-2. Instruction topic
-3. Other
+1. Workshop session
+2. Updates and reminders
 
 ## Meeting notes
 
@@ -26,5 +25,6 @@ Session leader: Tessa Eisen
 - [ ] Install software before 12/3 session
     - [ ] Text editor: [Visual Studio Code](https://code.visualstudio.com/download)
     - [ ] For a PC: install git bash [using these instructions](https://gitforwindows.org/)
+- [ ] Send schedule for Spring 2026
 
 

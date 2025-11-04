@@ -2,6 +2,7 @@
 title: Project Management
 date: 2025.10.08
 order: 2
+author: Jeff Hopkins
 ---
 
 ## Agenda
