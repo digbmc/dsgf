@@ -112,52 +112,269 @@
     "text": "First milestone - due date\nSecond milestone - due date\nThird milestone - due date"
   },
   {
-    "objectID": "resources/markdown-guide.html",
-    "href": "resources/markdown-guide.html",
-    "title": "Markdown Guide",
+    "objectID": "logs/taylor-11-5.html",
+    "href": "logs/taylor-11-5.html",
+    "title": "November 5 Log",
     "section": "",
-    "text": "Markdown is a simple markup language that prioritizes human-readability as well as machine-readability.",
+    "text": "I just got back from the annual Byzantine Studies Conference, where I presented my MA project, including some maps!\n\n\nSince my conference paper and this GIS project deal with the same subject, some last-minute additional research ahead of the conference proved very helpful for my mapping project.\n\n\nMy project deals with four icons in four Ethiopian monasteries. I was able to locate two of these monasteries on Google Maps without much trouble. Another monastery, named Getesmani Maryam, was mentioned in some academic publications, but proved difficult to find on Google Maps. Luckily, the Encyclopedia Aethiopica entry for Getesmani Maryam included coordinates: 11.10 N, 38.4 E. The last monastery, called Dabra Jamado Maryam, proved more illusive. I eventually determined that “Jamado” is an alternate transliteration of ዠመዱ, which is often instead transliterated as Žämmädu. (When the icons were first published in the early 70s, there was no standard system for transliterating Amharic and other Ethiopic languages.) I was able to find the location of Žämmädu Maryam on Google Maps.\n\n\n\nWith the locations of my monasteries finalized, I gathered the location data in a spreadsheet. I also included location data for the place of production of the icons (Candia/Herklion, Crete) and other sites that they may have treveled to before reaching Ethiopia. For each site, I included a column to specify whether the icons were known to have been at the site, or whether the connection is speculative. I then used this data to generate a map with ArcGIS online. I used conditional styling so that the known sites appeared in green and the speculative sites in yellow.\n\n\n\n\n\n\nAt the moment, if sites are too close together, their labels do not appear. After some searching online, I think I’ve determined that there is no good workaround to this in ArcGIS online, but Pro has features that allow for overlapping labels.\n\n\n\nI want to give my viewer a sense of the geopolitical boundaries that existed in this period (early 16th century), but these boundaries were unstable and in flux. I also have not been able to find a satisfactory map of 16th century Ethiopia, although I will continue searching. I will likely map these boundaries myself, with a polygon layer. Other projects, like Native Land Digital, have done so with great success."
+  },
+  {
+    "objectID": "logs/taylor-11-5.html#project-progress",
+    "href": "logs/taylor-11-5.html#project-progress",
+    "title": "November 5 Log",
+    "section": "",
+    "text": "Since my conference paper and this GIS project deal with the same subject, some last-minute additional research ahead of the conference proved very helpful for my mapping project.\n\n\nMy project deals with four icons in four Ethiopian monasteries. I was able to locate two of these monasteries on Google Maps without much trouble. Another monastery, named Getesmani Maryam, was mentioned in some academic publications, but proved difficult to find on Google Maps. Luckily, the Encyclopedia Aethiopica entry for Getesmani Maryam included coordinates: 11.10 N, 38.4 E. The last monastery, called Dabra Jamado Maryam, proved more illusive. I eventually determined that “Jamado” is an alternate transliteration of ዠመዱ, which is often instead transliterated as Žämmädu. (When the icons were first published in the early 70s, there was no standard system for transliterating Amharic and other Ethiopic languages.) I was able to find the location of Žämmädu Maryam on Google Maps.\n\n\n\nWith the locations of my monasteries finalized, I gathered the location data in a spreadsheet. I also included location data for the place of production of the icons (Candia/Herklion, Crete) and other sites that they may have treveled to before reaching Ethiopia. For each site, I included a column to specify whether the icons were known to have been at the site, or whether the connection is speculative. I then used this data to generate a map with ArcGIS online. I used conditional styling so that the known sites appeared in green and the speculative sites in yellow."
+  },
+  {
+    "objectID": "logs/taylor-11-5.html#next-steps",
+    "href": "logs/taylor-11-5.html#next-steps",
+    "title": "November 5 Log",
+    "section": "",
+    "text": "At the moment, if sites are too close together, their labels do not appear. After some searching online, I think I’ve determined that there is no good workaround to this in ArcGIS online, but Pro has features that allow for overlapping labels.\n\n\n\nI want to give my viewer a sense of the geopolitical boundaries that existed in this period (early 16th century), but these boundaries were unstable and in flux. I also have not been able to find a satisfactory map of 16th century Ethiopia, although I will continue searching. I will likely map these boundaries myself, with a polygon layer. Other projects, like Native Land Digital, have done so with great success."
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html",
+    "href": "resources/project-charter-template-ds.html",
+    "title": "Project Charter Template",
+    "section": "",
+    "text": "This document is intended to clarify expectations and support the successful completion of [PROJECT TITLE] a project supported by the Digital Scholarship program at Bryn Mawr College. The following is proposed by the project team, in consultation with Alice McGrath (Digital Scholarship Specialist).",
     "crumbs": [
       "Home",
       "Resources",
-      "Markdown Guide"
+      "Project Charter Template"
     ]
   },
   {
-    "objectID": "resources/markdown-guide.html#raw-markdown-syntax",
-    "href": "resources/markdown-guide.html#raw-markdown-syntax",
-    "title": "Markdown Guide",
-    "section": "Raw markdown syntax",
-    "text": "Raw markdown syntax\n# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
+    "objectID": "resources/project-charter-template-ds.html#project-title",
+    "href": "resources/project-charter-template-ds.html#project-title",
+    "title": "Project Charter Template",
+    "section": "Project title",
+    "text": "Project title\nShort summary of the project, including necessary background information.",
     "crumbs": [
       "Home",
       "Resources",
-      "Markdown Guide"
+      "Project Charter Template"
     ]
   },
   {
-    "objectID": "resources/markdown-guide.html#rich-text",
-    "href": "resources/markdown-guide.html#rich-text",
-    "title": "Markdown Guide",
-    "section": "Rich text",
-    "text": "Rich text",
+    "objectID": "resources/project-charter-template-ds.html#goals-and-objectives",
+    "href": "resources/project-charter-template-ds.html#goals-and-objectives",
+    "title": "Project Charter Template",
+    "section": "Goals and objectives",
+    "text": "Goals and objectives\n\nList what you hope to accomplish by undertaking this project\nInclude any guiding principles that will shape your success criteria",
     "crumbs": [
       "Home",
       "Resources",
-      "Markdown Guide"
+      "Project Charter Template"
     ]
   },
   {
-    "objectID": "resources/markdown-guide.html#second-level-heading",
-    "href": "resources/markdown-guide.html#second-level-heading",
-    "title": "Markdown Guide",
-    "section": "Second-level heading",
-    "text": "Second-level heading\n\nOrdered list\nordered list\n\n\nUnordered list\nUnordered list\n\nUse multiple returns or consecutive lines will run together\nItalics or Bold\nHyperlinks: dsgf github site\nImages:",
+    "objectID": "resources/project-charter-template-ds.html#deliverables",
+    "href": "resources/project-charter-template-ds.html#deliverables",
+    "title": "Project Charter Template",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nList the things you will create in technical terms\nInclude any publication or other professional materials that will arise from it",
     "crumbs": [
       "Home",
       "Resources",
-      "Markdown Guide"
+      "Project Charter Template"
     ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#team-members-roles-and-responsibilities",
+    "href": "resources/project-charter-template-ds.html#team-members-roles-and-responsibilities",
+    "title": "Project Charter Template",
+    "section": "Team members roles and responsibilities",
+    "text": "Team members roles and responsibilities\n\nPerson A - Project director\n\nDirecting the project\nCommunicating results of research\n\n\n\nPerson B - Consultant\n\nHelp determine best course of action",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#technical-requirements",
+    "href": "resources/project-charter-template-ds.html#technical-requirements",
+    "title": "Project Charter Template",
+    "section": "Technical requirements",
+    "text": "Technical requirements\n[What hardware and software are necessary for this project? When will they be needed? Who on the team will be responsible for training, maintenance, etc.]\n\n\n\n\n\n\n\n\n\n\nTechnology\nFunction\nPhase\nResponsibility\nFunding\n\n\n\n\nHardware or software\nWhat it does\nWhen needed (i.e. development, publication, etc.\nTeam member responsible\nCost",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#schedule",
+    "href": "resources/project-charter-template-ds.html#schedule",
+    "title": "Project Charter Template",
+    "section": "Schedule",
+    "text": "Schedule\n\nMilestones\n\nMajor steps along the way\nImportant dates\nSet some deadlines here\n\n\n\n\nID\nTask\nTime\nDependencies\nDue\nPerson\nComplete\n\n\n\n\n1\nResearch\n1 week\n\n\nPI\n\n\n\n2\nBuild website\n1 week\n1",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#anticipated-concerns",
+    "href": "resources/project-charter-template-ds.html#anticipated-concerns",
+    "title": "Project Charter Template",
+    "section": "Anticipated concerns",
+    "text": "Anticipated concerns\n\nLogistical difficulties you may encounter\nSkills you will need to build or areas in which you may need consultation",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#success-criteria",
+    "href": "resources/project-charter-template-ds.html#success-criteria",
+    "title": "Project Charter Template",
+    "section": "Success criteria",
+    "text": "Success criteria\n\nPublished prototype of digital scholarship project.\nResearch abstract ready to submit to a conference.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#communication",
+    "href": "resources/project-charter-template-ds.html#communication",
+    "title": "Project Charter Template",
+    "section": "Communication",
+    "text": "Communication\nWhen and how the team members will communicate, including what channels and modes they will use to discuss and share resources, and who is responsible for keeping everyone informed.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#credit-attribution",
+    "href": "resources/project-charter-template-ds.html#credit-attribution",
+    "title": "Project Charter Template",
+    "section": "Credit & attribution",
+    "text": "Credit & attribution\nThe Digital Scholarship program is committed to fair and equal attribution and credit for all work performed on digital scholarship projects. When this project is referenced (for example, in conference presentations or blog posts) the full project team will be attributed. Any code, data, or components produced for this project will be released open source.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#preservation-long-term-access",
+    "href": "resources/project-charter-template-ds.html#preservation-long-term-access",
+    "title": "Project Charter Template",
+    "section": "Preservation & long-term access",
+    "text": "Preservation & long-term access\nThe website and materials will be backed up and maintained solely by the Project Director. The Digital Scholarship program will maintain public access to the project and web platform until an external grant to expand the project has been awarded, or for three years, or until the platform is no longer useful, whichever is soonest. All LITS digital projects are periodically reviewed according to the LITS Sunsetting Policy.\nNB: all arrangements delineated in this charter are subject to change as the project evolves. Major changes to any of these sections may necessitate a team meeting.\nRevised April 30, 2020",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html",
+    "href": "resources/smart-goals.html",
+    "title": "SMART Goals",
+    "section": "",
+    "text": "When you set goals, make sure they are SMART: Specific, Measurable, Achievable, Relevant, and Time-bound",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html#specific",
+    "href": "resources/smart-goals.html#specific",
+    "title": "SMART Goals",
+    "section": "Specific",
+    "text": "Specific\n\nWhat will be accomplished? What specific actions will you take?\nThink of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html#measurable",
+    "href": "resources/smart-goals.html#measurable",
+    "title": "SMART Goals",
+    "section": "Measurable",
+    "text": "Measurable\n\nWhat “data” will you use to measure your goal or to determine if it has been met?\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?\nMeasurement methods can be both quantitative and qualitative. Use the measurement form that best suites your specific goal.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html#achievable",
+    "href": "resources/smart-goals.html#achievable",
+    "title": "SMART Goals",
+    "section": "Achievable",
+    "text": "Achievable\n\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources?\nIf you don’t currently have the skills need to achieve the goal, how will you acquire them? These can be some of your measurable milestones.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html#relevant",
+    "href": "resources/smart-goals.html#relevant",
+    "title": "SMART Goals",
+    "section": "Relevant",
+    "text": "Relevant\n\nDoes this particular goal align with broader project or personal goals?\nHow is the outcome important?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html#time-bound",
+    "href": "resources/smart-goals.html#time-bound",
+    "title": "SMART Goals",
+    "section": "Time-bound",
+    "text": "Time-bound\n\nWhat is the time frame for accomplishing this goal?\nIs it realistic?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "",
+    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "",
+    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "Quick links",
+    "text": "Quick links\n\nSyllabus\nGitHub Repository\nLast year’s program"
+  },
+  {
+    "objectID": "index.html#sessions",
+    "href": "index.html#sessions",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "Sessions",
+    "text": "Sessions\nMeeting notes will appear below."
   },
   {
     "objectID": "resources/ds-project-planning.html",
@@ -304,247 +521,51 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Digital Scholarship Graduate Fellows",
+    "objectID": "resources/markdown-guide.html",
+    "href": "resources/markdown-guide.html",
+    "title": "Markdown Guide",
     "section": "",
-    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Digital Scholarship Graduate Fellows",
-    "section": "",
-    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Digital Scholarship Graduate Fellows",
-    "section": "Quick links",
-    "text": "Quick links\n\nSyllabus\nGitHub Repository\nLast year’s program"
-  },
-  {
-    "objectID": "index.html#sessions",
-    "href": "index.html#sessions",
-    "title": "Digital Scholarship Graduate Fellows",
-    "section": "Sessions",
-    "text": "Sessions\nMeeting notes will appear below."
-  },
-  {
-    "objectID": "resources/smart-goals.html",
-    "href": "resources/smart-goals.html",
-    "title": "SMART Goals",
-    "section": "",
-    "text": "When you set goals, make sure they are SMART: Specific, Measurable, Achievable, Relevant, and Time-bound",
+    "text": "Markdown is a simple markup language that prioritizes human-readability as well as machine-readability.",
     "crumbs": [
       "Home",
       "Resources",
-      "SMART Goals"
+      "Markdown Guide"
     ]
   },
   {
-    "objectID": "resources/smart-goals.html#specific",
-    "href": "resources/smart-goals.html#specific",
-    "title": "SMART Goals",
-    "section": "Specific",
-    "text": "Specific\n\nWhat will be accomplished? What specific actions will you take?\nThink of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.",
+    "objectID": "resources/markdown-guide.html#raw-markdown-syntax",
+    "href": "resources/markdown-guide.html#raw-markdown-syntax",
+    "title": "Markdown Guide",
+    "section": "Raw markdown syntax",
+    "text": "Raw markdown syntax\n# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
     "crumbs": [
       "Home",
       "Resources",
-      "SMART Goals"
+      "Markdown Guide"
     ]
   },
   {
-    "objectID": "resources/smart-goals.html#measurable",
-    "href": "resources/smart-goals.html#measurable",
-    "title": "SMART Goals",
-    "section": "Measurable",
-    "text": "Measurable\n\nWhat “data” will you use to measure your goal or to determine if it has been met?\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?\nMeasurement methods can be both quantitative and qualitative. Use the measurement form that best suites your specific goal.",
+    "objectID": "resources/markdown-guide.html#rich-text",
+    "href": "resources/markdown-guide.html#rich-text",
+    "title": "Markdown Guide",
+    "section": "Rich text",
+    "text": "Rich text",
     "crumbs": [
       "Home",
       "Resources",
-      "SMART Goals"
+      "Markdown Guide"
     ]
   },
   {
-    "objectID": "resources/smart-goals.html#achievable",
-    "href": "resources/smart-goals.html#achievable",
-    "title": "SMART Goals",
-    "section": "Achievable",
-    "text": "Achievable\n\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources?\nIf you don’t currently have the skills need to achieve the goal, how will you acquire them? These can be some of your measurable milestones.",
+    "objectID": "resources/markdown-guide.html#second-level-heading",
+    "href": "resources/markdown-guide.html#second-level-heading",
+    "title": "Markdown Guide",
+    "section": "Second-level heading",
+    "text": "Second-level heading\n\nOrdered list\nordered list\n\n\nUnordered list\nUnordered list\n\nUse multiple returns or consecutive lines will run together\nItalics or Bold\nHyperlinks: dsgf github site\nImages:",
     "crumbs": [
       "Home",
       "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html#relevant",
-    "href": "resources/smart-goals.html#relevant",
-    "title": "SMART Goals",
-    "section": "Relevant",
-    "text": "Relevant\n\nDoes this particular goal align with broader project or personal goals?\nHow is the outcome important?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html#time-bound",
-    "href": "resources/smart-goals.html#time-bound",
-    "title": "SMART Goals",
-    "section": "Time-bound",
-    "text": "Time-bound\n\nWhat is the time frame for accomplishing this goal?\nIs it realistic?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html",
-    "href": "resources/project-charter-template-ds.html",
-    "title": "Project Charter Template",
-    "section": "",
-    "text": "This document is intended to clarify expectations and support the successful completion of [PROJECT TITLE] a project supported by the Digital Scholarship program at Bryn Mawr College. The following is proposed by the project team, in consultation with Alice McGrath (Digital Scholarship Specialist).",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#project-title",
-    "href": "resources/project-charter-template-ds.html#project-title",
-    "title": "Project Charter Template",
-    "section": "Project title",
-    "text": "Project title\nShort summary of the project, including necessary background information.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#goals-and-objectives",
-    "href": "resources/project-charter-template-ds.html#goals-and-objectives",
-    "title": "Project Charter Template",
-    "section": "Goals and objectives",
-    "text": "Goals and objectives\n\nList what you hope to accomplish by undertaking this project\nInclude any guiding principles that will shape your success criteria",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#deliverables",
-    "href": "resources/project-charter-template-ds.html#deliverables",
-    "title": "Project Charter Template",
-    "section": "Deliverables",
-    "text": "Deliverables\n\nList the things you will create in technical terms\nInclude any publication or other professional materials that will arise from it",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#team-members-roles-and-responsibilities",
-    "href": "resources/project-charter-template-ds.html#team-members-roles-and-responsibilities",
-    "title": "Project Charter Template",
-    "section": "Team members roles and responsibilities",
-    "text": "Team members roles and responsibilities\n\nPerson A - Project director\n\nDirecting the project\nCommunicating results of research\n\n\n\nPerson B - Consultant\n\nHelp determine best course of action",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#technical-requirements",
-    "href": "resources/project-charter-template-ds.html#technical-requirements",
-    "title": "Project Charter Template",
-    "section": "Technical requirements",
-    "text": "Technical requirements\n[What hardware and software are necessary for this project? When will they be needed? Who on the team will be responsible for training, maintenance, etc.]\n\n\n\n\n\n\n\n\n\n\nTechnology\nFunction\nPhase\nResponsibility\nFunding\n\n\n\n\nHardware or software\nWhat it does\nWhen needed (i.e. development, publication, etc.\nTeam member responsible\nCost",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#schedule",
-    "href": "resources/project-charter-template-ds.html#schedule",
-    "title": "Project Charter Template",
-    "section": "Schedule",
-    "text": "Schedule\n\nMilestones\n\nMajor steps along the way\nImportant dates\nSet some deadlines here\n\n\n\n\nID\nTask\nTime\nDependencies\nDue\nPerson\nComplete\n\n\n\n\n1\nResearch\n1 week\n\n\nPI\n\n\n\n2\nBuild website\n1 week\n1",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#anticipated-concerns",
-    "href": "resources/project-charter-template-ds.html#anticipated-concerns",
-    "title": "Project Charter Template",
-    "section": "Anticipated concerns",
-    "text": "Anticipated concerns\n\nLogistical difficulties you may encounter\nSkills you will need to build or areas in which you may need consultation",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#success-criteria",
-    "href": "resources/project-charter-template-ds.html#success-criteria",
-    "title": "Project Charter Template",
-    "section": "Success criteria",
-    "text": "Success criteria\n\nPublished prototype of digital scholarship project.\nResearch abstract ready to submit to a conference.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#communication",
-    "href": "resources/project-charter-template-ds.html#communication",
-    "title": "Project Charter Template",
-    "section": "Communication",
-    "text": "Communication\nWhen and how the team members will communicate, including what channels and modes they will use to discuss and share resources, and who is responsible for keeping everyone informed.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#credit-attribution",
-    "href": "resources/project-charter-template-ds.html#credit-attribution",
-    "title": "Project Charter Template",
-    "section": "Credit & attribution",
-    "text": "Credit & attribution\nThe Digital Scholarship program is committed to fair and equal attribution and credit for all work performed on digital scholarship projects. When this project is referenced (for example, in conference presentations or blog posts) the full project team will be attributed. Any code, data, or components produced for this project will be released open source.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#preservation-long-term-access",
-    "href": "resources/project-charter-template-ds.html#preservation-long-term-access",
-    "title": "Project Charter Template",
-    "section": "Preservation & long-term access",
-    "text": "Preservation & long-term access\nThe website and materials will be backed up and maintained solely by the Project Director. The Digital Scholarship program will maintain public access to the project and web platform until an external grant to expand the project has been awarded, or for three years, or until the platform is no longer useful, whichever is soonest. All LITS digital projects are periodically reviewed according to the LITS Sunsetting Policy.\nNB: all arrangements delineated in this charter are subject to change as the project evolves. Major changes to any of these sections may necessitate a team meeting.\nRevised April 30, 2020",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
+      "Markdown Guide"
     ]
   },
   {
