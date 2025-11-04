@@ -20,29 +20,37 @@ order: 1
 ## Workshops
 
 ### [Introduction](meetings/introduction.md) - 2025.09.17
+
 - Overview of DSGF program & expectations
 - What is Digital Scholarship?
 - SMART goals & learning plans
 
-### Project Management - 2025.10.08
+### [Project Management](meetings/project-management.md) - 2025.10.08
+
 Led by Jeff Hopkins
+
 - Strategies and practices for long-term projects
 - Digital Scholarship project charters
 
 ### Mapping & GIS - 2025.11.07
+
 Led by Tessa Eisen
-- Understanding GIS data types
+
+- Mapping design considerations
 - Webmapping tools for ArcGIS Online
 - Creating a map "experience"
 
 ### Command Line & Computational Thinking - 2025.12.03
+
 Led by Alice McGrath
+
 - Basics of how computers work
 - Command line introduction
 
 ## Options
 
 ### Markdown, Git, GitHub Pages
+
 - Text encoding in Markdown
 - Versioning with Git
 - Web publishing with GitHub Pages
