@@ -1,7 +1,6 @@
 ---
 title: Mapping & GIS
 date: 2025.11.07
-draft: true
 order: 3
 ---
 
