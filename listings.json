@@ -14,7 +14,8 @@
     "listing": "/index.html",
     "items": [
       "/meetings/introduction.html",
-      "/meetings/project-management.html"
+      "/meetings/project-management.html",
+      "/meetings/mapping.html"
     ]
   }
 ]
