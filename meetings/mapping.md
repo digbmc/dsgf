@@ -35,14 +35,14 @@ Session leader: Tessa Eisen
   
 ## Review of Project Updates
 
-**-Charlie**
-    - In a great place, as they've found geographic information on their sites and added it to [a map within ArcGIS online](https://brynmawrcollege.maps.arcgis.com/apps/mapviewer/index.html?webmap=b87d035d6d864946ab5e09c2e4937f02).
-    - Next steps involve upgrading to ArcGIS Pro to deal with overlapping labels and adding a layer showing pre-modern political boundaries. They haven't found a map layer that provides the latter, so they may need to make it on their own using a polygon layer in ArcGIS. This may be another feature [limited to ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/help/editing/create-polygon-features.htm)
+**Charlie**
+- In a great place, as they've found geographic information on their sites and added it to [a map within ArcGIS online](https://brynmawrcollege.maps.arcgis.com/apps/mapviewer/index.html?webmap=b87d035d6d864946ab5e09c2e4937f02).
+-  Next steps involve upgrading to ArcGIS Pro to deal with overlapping labels and adding a layer showing pre-modern political boundaries. They haven't found a map layer that provides the latter, so they may need to make it on their own using a polygon layer in ArcGIS. This may be another feature [limited to ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/help/editing/create-polygon-features.htm)
 
-**-Jennifer**
-    - She's been distracted by a presentation proposal and personal matters. **Jeff reminds her and Charlie that it's okay if there projects need to put on pause or if goals need to be donwsized due to other things they have going on in their lives!**
-    - Tangible progress was made in other ways. Jennifer got measurements from the VSM and is almost done drafting the SOP that will inform her video on lab procedures.
-    - Next steps will involve meeting with [Chris Boyland from EAST](mailto:cboyland@brynmawr.edu) about video production.
+**Jennifer**
+- She's been distracted by a presentation proposal and personal matters. **Jeff reminds her and Charlie that it's okay if there projects need to put on pause or if goals need to be donwsized due to other things they have going on in their lives!**
+- Tangible progress was made in other ways. Jennifer got measurements from the VSM and is almost done drafting the SOP that will inform her video on lab procedures.
+-  Next steps will involve meeting with [Chris Boyland from EAST](mailto:cboyland@brynmawr.edu) about video production.
     
 ## Reminders and action items
 - [ ] Add your updates - November 21
