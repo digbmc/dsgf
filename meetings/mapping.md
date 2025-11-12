@@ -24,10 +24,10 @@ Session leader: Tessa Eisen
 - Technological points:
     - Geographic Information Systems (GIS): Technology used to create, manage, store, analyze, and map data. It's a digital means of doing         cartography.
     - ArcGIS: one of the most popular GIS platforms available. It is a paid service, but you have complimentary access [at this link](https://brynmawrcollege.maps.arcgis.com/home/index.html)
-    - ArcGIS will let you build several different types of maps using its component apps. Consult the presentations for information on how to use them:
+    - ArcGIS will let you build several different types of maps using its component apps. Consult the presentation for information on how to use them:
         - StoryMaps: for narrative-driven mapping experiences where you want to guide users through information
         - Experience Builder: if you want to build your own app experience for users
-        - Dashboard: for when you also want to display the underlying data in a map (e.g., how stats change over time0
+        - Dashboard: for when you also want to display the underlying data in a map (e.g., how stats change over time)
         - Instant Apps: if you want to use app tempaltes to create your user experience (e.g., creating an image gallery)
     - Once finished, you can use ArcGIS to publish your map.
 - Contact information and tutorials: look to [the end of the presentation](https://docs.google.com/presentation/d/10C-PM1MsA3OE7sdZkoTwcgIpTirjRES_g8FHj3ECr8w/edit?slide=id.g39d6f03ac0c_0_406#slide=id.g39d6f03ac0c_0_406) for this info!
