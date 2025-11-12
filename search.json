@@ -57,7 +57,31 @@
     "href": "meetings/mapping.html#meeting-notes",
     "title": "Mapping & GIS",
     "section": "Meeting notes",
-    "text": "Meeting notes\nSession leader: Tessa Eisen\n\nMapping & GIS\nDigital Mapping: ArcGIS Online and Experience Builder slides - Non-technological points - Cartography is the science of map making. - Key principles of sucessful cartograpy: clarity, consistency, & simplicity - Map-making = making choices about what spatial information to highlight or minimize - Technological points: - Geographic Information Systems (GIS): Technology used to create, manage, store, analyze, and map data. It’s a digital means of doing cartography. - ArcGIS: one of the most popular GIS platforms available. It is a paid service, but you have complimentary access at this link - ArcGIS will let you build several different types of maps using its component apps. Consult the presentations for information on how to use them: - StoryMaps: for narrative-driven mapping experiences where you want to guide users through information - Experience Builder: if you want to build your own app experience for users - Dashboard: for when you also want to display the underlying data in a map (e.g., how stats change over time0 - Instant Apps: if you want to use app tempaltes to create your user experience (e.g., creating an image gallery) - Once finished, you can use ArcGIS to publish your map. - Contact information and tutorials: look to the end of the presentation for this info! ## Review of Project Updates\n-Charlie - In a great place, as they’ve found geographic information on their sites and added it to a map within ArcGIS online. - Next steps involve upgrading to ArcGIS Pro to deal with overlapping labels and adding a layer showing pre-modern political boundaries. They haven’t found a map layer that provides the latter, so they may need to make it on their own using a polygon layer in ArcGIS. This may be another feature limited to ArcGIS Pro\n-Jennifer - She’s been distracted by a presentation proposal and personal matters. Jeff reminds her and Charlie that it’s okay if there projects need to put on pause or if goals need to be donwsized due to other things they have going on in their lives! - Tangible progress was made in other ways. Jennifer got measurements from the VSM and is almost done drafting the SOP that will inform her video on lab procedures. - Next steps will involve meeting with Chris Boyland from EAST about video production. ## Reminders and action items - [ ] Add your updates - November 21 - [ ] Prepare for next session - [ ] Install software - [ ] Text editor: Visual Studio Code - [ ] For a PC: install git bash using these instructions - [ ] Watch all 6 Code.org videos on how computers work if you haven’t already. - [ ] Optional: read “Hello, World” by Meredith Broussard (from Artificial Unintelligence, MIT 2018). NB: if direct link doesn’t work, use TriPod link - [ ] Send schedule for Spring 2026",
+    "text": "Meeting notes\nSession leader: Tessa Eisen\n\nMapping & GIS\nDigital Mapping: ArcGIS Online and Experience Builder slides - Non-technological points - Cartography is the science of map making. - Key principles of sucessful cartograpy: clarity, consistency, & simplicity - Map-making = making choices about what spatial information to highlight or minimize - Technological points: - Geographic Information Systems (GIS): Technology used to create, manage, store, analyze, and map data. It’s a digital means of doing cartography. - ArcGIS: one of the most popular GIS platforms available. It is a paid service, but you have complimentary access at this link - ArcGIS will let you build several different types of maps using its component apps. Consult the presentations for information on how to use them: - StoryMaps: for narrative-driven mapping experiences where you want to guide users through information - Experience Builder: if you want to build your own app experience for users - Dashboard: for when you also want to display the underlying data in a map (e.g., how stats change over time0 - Instant Apps: if you want to use app tempaltes to create your user experience (e.g., creating an image gallery) - Once finished, you can use ArcGIS to publish your map. - Contact information and tutorials: look to the end of the presentation for this info!",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Mapping & GIS"
+    ]
+  },
+  {
+    "objectID": "meetings/mapping.html#review-of-project-updates",
+    "href": "meetings/mapping.html#review-of-project-updates",
+    "title": "Mapping & GIS",
+    "section": "Review of Project Updates",
+    "text": "Review of Project Updates\n-Charlie - In a great place, as they’ve found geographic information on their sites and added it to a map within ArcGIS online. - Next steps involve upgrading to ArcGIS Pro to deal with overlapping labels and adding a layer showing pre-modern political boundaries. They haven’t found a map layer that provides the latter, so they may need to make it on their own using a polygon layer in ArcGIS. This may be another feature limited to ArcGIS Pro\n-Jennifer - She’s been distracted by a presentation proposal and personal matters. Jeff reminds her and Charlie that it’s okay if there projects need to put on pause or if goals need to be donwsized due to other things they have going on in their lives! - Tangible progress was made in other ways. Jennifer got measurements from the VSM and is almost done drafting the SOP that will inform her video on lab procedures. - Next steps will involve meeting with Chris Boyland from EAST about video production.",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Mapping & GIS"
+    ]
+  },
+  {
+    "objectID": "meetings/mapping.html#reminders-and-action-items",
+    "href": "meetings/mapping.html#reminders-and-action-items",
+    "title": "Mapping & GIS",
+    "section": "Reminders and action items",
+    "text": "Reminders and action items\n\nAdd your updates - November 21\nPrepare for next session\n\nInstall software\n\nText editor: Visual Studio Code\nFor a PC: install git bash using these instructions\n\nWatch all 6 Code.org videos on how computers work if you haven’t already.\nOptional: read “Hello, World” by Meredith Broussard (from Artificial Unintelligence, MIT 2018). NB: if direct link doesn’t work, use TriPod link\n\nSend schedule for Spring 2026",
     "crumbs": [
       "Home",
       "Meetings",
