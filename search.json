@@ -151,297 +151,115 @@
     "text": "Produce a story map documenting the physical travel of a) St. Luke icons and b) texts that discuss St. Luke icons from the Mediterranean region to Ethiopia in the late Middle Ages. ## Measurable A full story map will be comeplete by the end of the year. Intermittent goals include: 1. Completing the necessary tutorials to navigate ARCGIS. 2. Determine relevant sites and find their geographic coordinates. 3. Determine how to represent historic political boundaries. 4. Complete a basemap to use in the final story map. ## Achievable Tutorials will familiarize me with ARCGIS, and I will consult with Tessa and Alice when specific problems arise. This will ensure I have the skills and familiarity with the software to achieve my desired outcome. ## Relevant This project is a new approach to the research questions I present in my master’s thesis. I hope that mapping will allow me to think visually about my research and offer a new way into the material. ## Timebound The final deliverable will be complete by the end of the year. I will consult with Alice and Jeff on workflow while in İstanbul. This may require a faster-paced schedule in the Fall Semester, or Zoom check-ins to ensure I am making progress while abroad. ### By Monday, October 20 Complete ARCGIS tutorials on mapping and storymaps. Consult with Tessa and Alice on problem areas. ### By Monday, October 3 Identify which sites will be on the map and collect their coordinates. Enter location data in CSV file and create an unstyled base map. ### By Monday, November 10 Explore possibilities for representing historical political boundaries. Use resources like Harvard’s Geospatial Library, or draw boundaries myself with vectors. Consult with Tessa and Alice if needed. ### By Monday, November 24 Style basemap with labels, custom icons, etc. ### By end of Fall Semester: Friday, December 19 Final basemap due. ### By end of year, Friday, May 15 Final storymap due."
   },
   {
-    "objectID": "logs/Jennifer-11-7.html",
-    "href": "logs/Jennifer-11-7.html",
-    "title": "November 7 Log",
+    "objectID": "logs/taylor-11-23.html",
+    "href": "logs/taylor-11-23.html",
+    "title": "Update 11/23",
     "section": "",
-    "text": "I unfortunately have not made much tangible progress since our last meeting. My research advisor had suddenly mentioned the American Physical Society (APS) March Summit was March 15-20 2026, and we were to write an abstract due October 23rd. It was my first APS abstract that I had to write, I had to come up with my own travel budget and arrange to present in Denver Colorado, I’ve never done that before. On top of that I had two family emergencies including my uncle contracting stage 4 cancer.\n\n\nI have however made more measurements with the VSM (Vibrating Sample Magnetometry) and am nearly finished with my Standard Operating Procedure which my research advisor wants to approve before we can start talking about the video. I plan to have her look at it next week. I have worked with the undergraduates and gotten some of their feedback for my understanding and teaching about the VSM. I also did get my equipment, I just haven’t opened it up and began trying to film with it.\n\n\nI need to really put more tangible deadlines going forward and touch base again with Christine Boyland about the video editing process. I’m very sorry that I was derailed this past month. It has been a very hard month both in terms of workload and emotionally. I will try to look at the project management slides again and reassess how I’m fitting in this video with everything else."
+    "text": "I have been researching ways to represent historical geo-political boundaries in ArcGIS online and have produced a temporary solution. I used a sketch layer to draw the boundaries by hand. This is a rather unscientific solution, so I plan to continue exploring other solutions. One is to import geospatial data using a shape file.\n\n\n\nBecause I have the points and styling that I need for my story map, I plan to move forward with that part of the project. I will also continue looking into shape files as a way to develop a map for future conference presentations and articles."
   },
   {
-    "objectID": "logs/Jennifer-11-7.html#tangible-steps",
-    "href": "logs/Jennifer-11-7.html#tangible-steps",
-    "title": "November 7 Log",
+    "objectID": "logs/taylor-11-23.html#mapping-progress",
+    "href": "logs/taylor-11-23.html#mapping-progress",
+    "title": "Update 11/23",
     "section": "",
-    "text": "I have however made more measurements with the VSM (Vibrating Sample Magnetometry) and am nearly finished with my Standard Operating Procedure which my research advisor wants to approve before we can start talking about the video. I plan to have her look at it next week. I have worked with the undergraduates and gotten some of their feedback for my understanding and teaching about the VSM. I also did get my equipment, I just haven’t opened it up and began trying to film with it.\n\n\nI need to really put more tangible deadlines going forward and touch base again with Christine Boyland about the video editing process. I’m very sorry that I was derailed this past month. It has been a very hard month both in terms of workload and emotionally. I will try to look at the project management slides again and reassess how I’m fitting in this video with everything else."
+    "text": "I have been researching ways to represent historical geo-political boundaries in ArcGIS online and have produced a temporary solution. I used a sketch layer to draw the boundaries by hand. This is a rather unscientific solution, so I plan to continue exploring other solutions. One is to import geospatial data using a shape file."
   },
   {
-    "objectID": "logs/index.html",
-    "href": "logs/index.html",
-    "title": "Logs",
+    "objectID": "logs/taylor-11-23.html#next-steps",
+    "href": "logs/taylor-11-23.html#next-steps",
+    "title": "Update 11/23",
     "section": "",
-    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘update-alice.md’\n\nBecause the filename will generate the url for the post, it should contain only URL-safe characters (i.e. avoid spaces, special characters, and punctuation, but you can use hyphens). URLs are case-sensitive and I recommend using all lowercase letters.\n\nGive your log a YAML header that includes your name, the date, and a title (this should appear at the very beginning of your document).\n---\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\n---\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below. If it doesn’t appear, there may be an issue with the yaml header or filename.\nIf you would like to add your post as a ‘draft’ (so that it will be visible on GitHub but will not render on the public-facing website), add draft: true to the YAML front matter."
+    "text": "Because I have the points and styling that I need for my story map, I plan to move forward with that part of the project. I will also continue looking into shape files as a way to develop a map for future conference presentations and articles."
   },
   {
-    "objectID": "logs/index.html#instructions-for-adding-a-log-entry",
-    "href": "logs/index.html#instructions-for-adding-a-log-entry",
-    "title": "Logs",
+    "objectID": "logs/sample.html",
+    "href": "logs/sample.html",
+    "title": "Alice’s Learning Plan",
     "section": "",
-    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘update-alice.md’\n\nBecause the filename will generate the url for the post, it should contain only URL-safe characters (i.e. avoid spaces, special characters, and punctuation, but you can use hyphens). URLs are case-sensitive and I recommend using all lowercase letters.\n\nGive your log a YAML header that includes your name, the date, and a title (this should appear at the very beginning of your document).\n---\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\n---\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below. If it doesn’t appear, there may be an issue with the yaml header or filename.\nIf you would like to add your post as a ‘draft’ (so that it will be visible on GitHub but will not render on the public-facing website), add draft: true to the YAML front matter."
+    "text": "A specific description of your goal using the SMART framework\n\nSpecific:\nMeasurable\nAchievable\nRelevant\nTime-bound\n\n\n\n\n\nFirst milestone - due date\nSecond milestone - due date\nThird milestone - due date"
   },
   {
-    "objectID": "logs/index.html#updates",
-    "href": "logs/index.html#updates",
-    "title": "Logs",
-    "section": "Updates",
-    "text": "Updates"
-  },
-  {
-    "objectID": "logs/jennifer-11-7-25.html",
-    "href": "logs/jennifer-11-7-25.html",
-    "title": "November 7 Log",
+    "objectID": "logs/sample.html#goal",
+    "href": "logs/sample.html#goal",
+    "title": "Alice’s Learning Plan",
     "section": "",
-    "text": "I unfortunately have not made much tangible progress since our last meeting. My research advisor had suddenly mentioned the American Physical Society (APS) March Summit was March 15-20 2026, and we were to write an abstract due October 23rd. It was my first APS abstract that I had to write, I had to come up with my own travel budget and arrange to present in Denver Colorado, I’ve never done that before. On top of that I had two family emergencies including my uncle contracting stage 4 cancer.\n\n\nI have however made more measurements with the VSM (Vibrating Sample Magnetometry) and am nearly finished with my Standard Operating Procedure which my research advisor wants to approve before we can start talking about the video. I plan to have her look at it next week. I have worked with the undergraduates and gotten some of their feedback for my understanding and teaching about the VSM. I also did get my equipment, I just haven’t opened it up and began trying to film with it.\n\n\nI need to really put more tangible deadlines going forward and touch base again with Christine Boyland about the video editing process. I’m very sorry that I was derailed this past month. It has been a very hard month both in terms of workload and emotionally. I will try to look at the project management slides again and reassess how I’m fitting in this video with everything else."
+    "text": "A specific description of your goal using the SMART framework\n\nSpecific:\nMeasurable\nAchievable\nRelevant\nTime-bound"
   },
   {
-    "objectID": "logs/jennifer-11-7-25.html#tangible-steps",
-    "href": "logs/jennifer-11-7-25.html#tangible-steps",
-    "title": "November 7 Log",
+    "objectID": "logs/sample.html#action-plan",
+    "href": "logs/sample.html#action-plan",
+    "title": "Alice’s Learning Plan",
     "section": "",
-    "text": "I have however made more measurements with the VSM (Vibrating Sample Magnetometry) and am nearly finished with my Standard Operating Procedure which my research advisor wants to approve before we can start talking about the video. I plan to have her look at it next week. I have worked with the undergraduates and gotten some of their feedback for my understanding and teaching about the VSM. I also did get my equipment, I just haven’t opened it up and began trying to film with it.\n\n\nI need to really put more tangible deadlines going forward and touch base again with Christine Boyland about the video editing process. I’m very sorry that I was derailed this past month. It has been a very hard month both in terms of workload and emotionally. I will try to look at the project management slides again and reassess how I’m fitting in this video with everything else."
+    "text": "First milestone - due date\nSecond milestone - due date\nThird milestone - due date"
   },
   {
-    "objectID": "resources/project-charter-template-ds.html",
-    "href": "resources/project-charter-template-ds.html",
-    "title": "Project Charter Template",
+    "objectID": "logs/taylor-11-5.html",
+    "href": "logs/taylor-11-5.html",
+    "title": "November 5 Log",
     "section": "",
-    "text": "This document is intended to clarify expectations and support the successful completion of [PROJECT TITLE] a project supported by the Digital Scholarship program at Bryn Mawr College. The following is proposed by the project team, in consultation with Alice McGrath (Digital Scholarship Specialist).",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
+    "text": "I just got back from the annual Byzantine Studies Conference, where I presented my MA project, including some maps!\n\n\nSince my conference paper and this GIS project deal with the same subject, some last-minute additional research ahead of the conference proved very helpful for my mapping project.\n\n\nMy project deals with four icons in four Ethiopian monasteries. I was able to locate two of these monasteries on Google Maps without much trouble. Another monastery, named Getesmani Maryam, was mentioned in some academic publications, but proved difficult to find on Google Maps. Luckily, the Encyclopedia Aethiopica entry for Getesmani Maryam included coordinates: 11.10 N, 38.4 E. The last monastery, called Dabra Jamado Maryam, proved more illusive. I eventually determined that “Jamado” is an alternate transliteration of ዠመዱ, which is often instead transliterated as Žämmädu. (When the icons were first published in the early 70s, there was no standard system for transliterating Amharic and other Ethiopic languages.) I was able to find the location of Žämmädu Maryam on Google Maps.\n\n\n\nWith the locations of my monasteries finalized, I gathered the location data in a spreadsheet. I also included location data for the place of production of the icons (Candia/Herklion, Crete) and other sites that they may have treveled to before reaching Ethiopia. For each site, I included a column to specify whether the icons were known to have been at the site, or whether the connection is speculative. I then used this data to generate a map with ArcGIS online. I used conditional styling so that the known sites appeared in green and the speculative sites in yellow.\n\n\n\n\n\n\nAt the moment, if sites are too close together, their labels do not appear. After some searching online, I think I’ve determined that there is no good workaround to this in ArcGIS online, but Pro has features that allow for overlapping labels.\n\n\n\nI want to give my viewer a sense of the geopolitical boundaries that existed in this period (early 16th century), but these boundaries were unstable and in flux. I also have not been able to find a satisfactory map of 16th century Ethiopia, although I will continue searching. I will likely map these boundaries myself, with a polygon layer. Other projects, like Native Land Digital, have done so with great success."
   },
   {
-    "objectID": "resources/project-charter-template-ds.html#project-title",
-    "href": "resources/project-charter-template-ds.html#project-title",
-    "title": "Project Charter Template",
-    "section": "Project title",
-    "text": "Project title\nShort summary of the project, including necessary background information.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#goals-and-objectives",
-    "href": "resources/project-charter-template-ds.html#goals-and-objectives",
-    "title": "Project Charter Template",
-    "section": "Goals and objectives",
-    "text": "Goals and objectives\n\nList what you hope to accomplish by undertaking this project\nInclude any guiding principles that will shape your success criteria",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#deliverables",
-    "href": "resources/project-charter-template-ds.html#deliverables",
-    "title": "Project Charter Template",
-    "section": "Deliverables",
-    "text": "Deliverables\n\nList the things you will create in technical terms\nInclude any publication or other professional materials that will arise from it",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#team-members-roles-and-responsibilities",
-    "href": "resources/project-charter-template-ds.html#team-members-roles-and-responsibilities",
-    "title": "Project Charter Template",
-    "section": "Team members roles and responsibilities",
-    "text": "Team members roles and responsibilities\n\nPerson A - Project director\n\nDirecting the project\nCommunicating results of research\n\n\n\nPerson B - Consultant\n\nHelp determine best course of action",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#technical-requirements",
-    "href": "resources/project-charter-template-ds.html#technical-requirements",
-    "title": "Project Charter Template",
-    "section": "Technical requirements",
-    "text": "Technical requirements\n[What hardware and software are necessary for this project? When will they be needed? Who on the team will be responsible for training, maintenance, etc.]\n\n\n\n\n\n\n\n\n\n\nTechnology\nFunction\nPhase\nResponsibility\nFunding\n\n\n\n\nHardware or software\nWhat it does\nWhen needed (i.e. development, publication, etc.\nTeam member responsible\nCost",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#schedule",
-    "href": "resources/project-charter-template-ds.html#schedule",
-    "title": "Project Charter Template",
-    "section": "Schedule",
-    "text": "Schedule\n\nMilestones\n\nMajor steps along the way\nImportant dates\nSet some deadlines here\n\n\n\n\nID\nTask\nTime\nDependencies\nDue\nPerson\nComplete\n\n\n\n\n1\nResearch\n1 week\n\n\nPI\n\n\n\n2\nBuild website\n1 week\n1",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#anticipated-concerns",
-    "href": "resources/project-charter-template-ds.html#anticipated-concerns",
-    "title": "Project Charter Template",
-    "section": "Anticipated concerns",
-    "text": "Anticipated concerns\n\nLogistical difficulties you may encounter\nSkills you will need to build or areas in which you may need consultation",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#success-criteria",
-    "href": "resources/project-charter-template-ds.html#success-criteria",
-    "title": "Project Charter Template",
-    "section": "Success criteria",
-    "text": "Success criteria\n\nPublished prototype of digital scholarship project.\nResearch abstract ready to submit to a conference.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#communication",
-    "href": "resources/project-charter-template-ds.html#communication",
-    "title": "Project Charter Template",
-    "section": "Communication",
-    "text": "Communication\nWhen and how the team members will communicate, including what channels and modes they will use to discuss and share resources, and who is responsible for keeping everyone informed.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#credit-attribution",
-    "href": "resources/project-charter-template-ds.html#credit-attribution",
-    "title": "Project Charter Template",
-    "section": "Credit & attribution",
-    "text": "Credit & attribution\nThe Digital Scholarship program is committed to fair and equal attribution and credit for all work performed on digital scholarship projects. When this project is referenced (for example, in conference presentations or blog posts) the full project team will be attributed. Any code, data, or components produced for this project will be released open source.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/project-charter-template-ds.html#preservation-long-term-access",
-    "href": "resources/project-charter-template-ds.html#preservation-long-term-access",
-    "title": "Project Charter Template",
-    "section": "Preservation & long-term access",
-    "text": "Preservation & long-term access\nThe website and materials will be backed up and maintained solely by the Project Director. The Digital Scholarship program will maintain public access to the project and web platform until an external grant to expand the project has been awarded, or for three years, or until the platform is no longer useful, whichever is soonest. All LITS digital projects are periodically reviewed according to the LITS Sunsetting Policy.\nNB: all arrangements delineated in this charter are subject to change as the project evolves. Major changes to any of these sections may necessitate a team meeting.\nRevised April 30, 2020",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Charter Template"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html",
-    "href": "resources/smart-goals.html",
-    "title": "SMART Goals",
+    "objectID": "logs/taylor-11-5.html#project-progress",
+    "href": "logs/taylor-11-5.html#project-progress",
+    "title": "November 5 Log",
     "section": "",
-    "text": "When you set goals, make sure they are SMART: Specific, Measurable, Achievable, Relevant, and Time-bound",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
+    "text": "Since my conference paper and this GIS project deal with the same subject, some last-minute additional research ahead of the conference proved very helpful for my mapping project.\n\n\nMy project deals with four icons in four Ethiopian monasteries. I was able to locate two of these monasteries on Google Maps without much trouble. Another monastery, named Getesmani Maryam, was mentioned in some academic publications, but proved difficult to find on Google Maps. Luckily, the Encyclopedia Aethiopica entry for Getesmani Maryam included coordinates: 11.10 N, 38.4 E. The last monastery, called Dabra Jamado Maryam, proved more illusive. I eventually determined that “Jamado” is an alternate transliteration of ዠመዱ, which is often instead transliterated as Žämmädu. (When the icons were first published in the early 70s, there was no standard system for transliterating Amharic and other Ethiopic languages.) I was able to find the location of Žämmädu Maryam on Google Maps.\n\n\n\nWith the locations of my monasteries finalized, I gathered the location data in a spreadsheet. I also included location data for the place of production of the icons (Candia/Herklion, Crete) and other sites that they may have treveled to before reaching Ethiopia. For each site, I included a column to specify whether the icons were known to have been at the site, or whether the connection is speculative. I then used this data to generate a map with ArcGIS online. I used conditional styling so that the known sites appeared in green and the speculative sites in yellow."
   },
   {
-    "objectID": "resources/smart-goals.html#specific",
-    "href": "resources/smart-goals.html#specific",
-    "title": "SMART Goals",
-    "section": "Specific",
-    "text": "Specific\n\nWhat will be accomplished? What specific actions will you take?\nThink of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html#measurable",
-    "href": "resources/smart-goals.html#measurable",
-    "title": "SMART Goals",
-    "section": "Measurable",
-    "text": "Measurable\n\nWhat “data” will you use to measure your goal or to determine if it has been met?\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?\nMeasurement methods can be both quantitative and qualitative. Use the measurement form that best suites your specific goal.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html#achievable",
-    "href": "resources/smart-goals.html#achievable",
-    "title": "SMART Goals",
-    "section": "Achievable",
-    "text": "Achievable\n\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources?\nIf you don’t currently have the skills need to achieve the goal, how will you acquire them? These can be some of your measurable milestones.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html#relevant",
-    "href": "resources/smart-goals.html#relevant",
-    "title": "SMART Goals",
-    "section": "Relevant",
-    "text": "Relevant\n\nDoes this particular goal align with broader project or personal goals?\nHow is the outcome important?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html#time-bound",
-    "href": "resources/smart-goals.html#time-bound",
-    "title": "SMART Goals",
-    "section": "Time-bound",
-    "text": "Time-bound\n\nWhat is the time frame for accomplishing this goal?\nIs it realistic?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Digital Scholarship Graduate Fellows",
+    "objectID": "logs/taylor-11-5.html#next-steps",
+    "href": "logs/taylor-11-5.html#next-steps",
+    "title": "November 5 Log",
     "section": "",
-    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
+    "text": "At the moment, if sites are too close together, their labels do not appear. After some searching online, I think I’ve determined that there is no good workaround to this in ArcGIS online, but Pro has features that allow for overlapping labels.\n\n\n\nI want to give my viewer a sense of the geopolitical boundaries that existed in this period (early 16th century), but these boundaries were unstable and in flux. I also have not been able to find a satisfactory map of 16th century Ethiopia, although I will continue searching. I will likely map these boundaries myself, with a polygon layer. Other projects, like Native Land Digital, have done so with great success."
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Digital Scholarship Graduate Fellows",
+    "objectID": "resources/markdown-guide.html",
+    "href": "resources/markdown-guide.html",
+    "title": "Markdown Guide",
     "section": "",
-    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
+    "text": "Markdown is a simple markup language that prioritizes human-readability as well as machine-readability.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Markdown Guide"
+    ]
   },
   {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Digital Scholarship Graduate Fellows",
-    "section": "Quick links",
-    "text": "Quick links\n\nSyllabus\nGitHub Repository\nLast year’s program"
+    "objectID": "resources/markdown-guide.html#raw-markdown-syntax",
+    "href": "resources/markdown-guide.html#raw-markdown-syntax",
+    "title": "Markdown Guide",
+    "section": "Raw markdown syntax",
+    "text": "Raw markdown syntax\n# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Markdown Guide"
+    ]
   },
   {
-    "objectID": "index.html#sessions",
-    "href": "index.html#sessions",
-    "title": "Digital Scholarship Graduate Fellows",
-    "section": "Sessions",
-    "text": "Sessions\nMeeting notes will appear below."
+    "objectID": "resources/markdown-guide.html#rich-text",
+    "href": "resources/markdown-guide.html#rich-text",
+    "title": "Markdown Guide",
+    "section": "Rich text",
+    "text": "Rich text",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Markdown Guide"
+    ]
+  },
+  {
+    "objectID": "resources/markdown-guide.html#second-level-heading",
+    "href": "resources/markdown-guide.html#second-level-heading",
+    "title": "Markdown Guide",
+    "section": "Second-level heading",
+    "text": "Second-level heading\n\nOrdered list\nordered list\n\n\nUnordered list\nUnordered list\n\nUse multiple returns or consecutive lines will run together\nItalics or Bold\nHyperlinks: dsgf github site\nImages:",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Markdown Guide"
+    ]
   },
   {
     "objectID": "resources/ds-project-planning.html",
@@ -588,94 +406,297 @@
     ]
   },
   {
-    "objectID": "resources/markdown-guide.html",
-    "href": "resources/markdown-guide.html",
-    "title": "Markdown Guide",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Digital Scholarship Graduate Fellows",
     "section": "",
-    "text": "Markdown is a simple markup language that prioritizes human-readability as well as machine-readability.",
+    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "",
+    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "Quick links",
+    "text": "Quick links\n\nSyllabus\nGitHub Repository\nLast year’s program"
+  },
+  {
+    "objectID": "index.html#sessions",
+    "href": "index.html#sessions",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "Sessions",
+    "text": "Sessions\nMeeting notes will appear below."
+  },
+  {
+    "objectID": "resources/smart-goals.html",
+    "href": "resources/smart-goals.html",
+    "title": "SMART Goals",
+    "section": "",
+    "text": "When you set goals, make sure they are SMART: Specific, Measurable, Achievable, Relevant, and Time-bound",
     "crumbs": [
       "Home",
       "Resources",
-      "Markdown Guide"
+      "SMART Goals"
     ]
   },
   {
-    "objectID": "resources/markdown-guide.html#raw-markdown-syntax",
-    "href": "resources/markdown-guide.html#raw-markdown-syntax",
-    "title": "Markdown Guide",
-    "section": "Raw markdown syntax",
-    "text": "Raw markdown syntax\n# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
+    "objectID": "resources/smart-goals.html#specific",
+    "href": "resources/smart-goals.html#specific",
+    "title": "SMART Goals",
+    "section": "Specific",
+    "text": "Specific\n\nWhat will be accomplished? What specific actions will you take?\nThink of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.",
     "crumbs": [
       "Home",
       "Resources",
-      "Markdown Guide"
+      "SMART Goals"
     ]
   },
   {
-    "objectID": "resources/markdown-guide.html#rich-text",
-    "href": "resources/markdown-guide.html#rich-text",
-    "title": "Markdown Guide",
-    "section": "Rich text",
-    "text": "Rich text",
+    "objectID": "resources/smart-goals.html#measurable",
+    "href": "resources/smart-goals.html#measurable",
+    "title": "SMART Goals",
+    "section": "Measurable",
+    "text": "Measurable\n\nWhat “data” will you use to measure your goal or to determine if it has been met?\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?\nMeasurement methods can be both quantitative and qualitative. Use the measurement form that best suites your specific goal.",
     "crumbs": [
       "Home",
       "Resources",
-      "Markdown Guide"
+      "SMART Goals"
     ]
   },
   {
-    "objectID": "resources/markdown-guide.html#second-level-heading",
-    "href": "resources/markdown-guide.html#second-level-heading",
-    "title": "Markdown Guide",
-    "section": "Second-level heading",
-    "text": "Second-level heading\n\nOrdered list\nordered list\n\n\nUnordered list\nUnordered list\n\nUse multiple returns or consecutive lines will run together\nItalics or Bold\nHyperlinks: dsgf github site\nImages:",
+    "objectID": "resources/smart-goals.html#achievable",
+    "href": "resources/smart-goals.html#achievable",
+    "title": "SMART Goals",
+    "section": "Achievable",
+    "text": "Achievable\n\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources?\nIf you don’t currently have the skills need to achieve the goal, how will you acquire them? These can be some of your measurable milestones.",
     "crumbs": [
       "Home",
       "Resources",
-      "Markdown Guide"
+      "SMART Goals"
     ]
   },
   {
-    "objectID": "logs/taylor-11-5.html",
-    "href": "logs/taylor-11-5.html",
-    "title": "November 5 Log",
-    "section": "",
-    "text": "I just got back from the annual Byzantine Studies Conference, where I presented my MA project, including some maps!\n\n\nSince my conference paper and this GIS project deal with the same subject, some last-minute additional research ahead of the conference proved very helpful for my mapping project.\n\n\nMy project deals with four icons in four Ethiopian monasteries. I was able to locate two of these monasteries on Google Maps without much trouble. Another monastery, named Getesmani Maryam, was mentioned in some academic publications, but proved difficult to find on Google Maps. Luckily, the Encyclopedia Aethiopica entry for Getesmani Maryam included coordinates: 11.10 N, 38.4 E. The last monastery, called Dabra Jamado Maryam, proved more illusive. I eventually determined that “Jamado” is an alternate transliteration of ዠመዱ, which is often instead transliterated as Žämmädu. (When the icons were first published in the early 70s, there was no standard system for transliterating Amharic and other Ethiopic languages.) I was able to find the location of Žämmädu Maryam on Google Maps.\n\n\n\nWith the locations of my monasteries finalized, I gathered the location data in a spreadsheet. I also included location data for the place of production of the icons (Candia/Herklion, Crete) and other sites that they may have treveled to before reaching Ethiopia. For each site, I included a column to specify whether the icons were known to have been at the site, or whether the connection is speculative. I then used this data to generate a map with ArcGIS online. I used conditional styling so that the known sites appeared in green and the speculative sites in yellow.\n\n\n\n\n\n\nAt the moment, if sites are too close together, their labels do not appear. After some searching online, I think I’ve determined that there is no good workaround to this in ArcGIS online, but Pro has features that allow for overlapping labels.\n\n\n\nI want to give my viewer a sense of the geopolitical boundaries that existed in this period (early 16th century), but these boundaries were unstable and in flux. I also have not been able to find a satisfactory map of 16th century Ethiopia, although I will continue searching. I will likely map these boundaries myself, with a polygon layer. Other projects, like Native Land Digital, have done so with great success."
+    "objectID": "resources/smart-goals.html#relevant",
+    "href": "resources/smart-goals.html#relevant",
+    "title": "SMART Goals",
+    "section": "Relevant",
+    "text": "Relevant\n\nDoes this particular goal align with broader project or personal goals?\nHow is the outcome important?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
   },
   {
-    "objectID": "logs/taylor-11-5.html#project-progress",
-    "href": "logs/taylor-11-5.html#project-progress",
-    "title": "November 5 Log",
-    "section": "",
-    "text": "Since my conference paper and this GIS project deal with the same subject, some last-minute additional research ahead of the conference proved very helpful for my mapping project.\n\n\nMy project deals with four icons in four Ethiopian monasteries. I was able to locate two of these monasteries on Google Maps without much trouble. Another monastery, named Getesmani Maryam, was mentioned in some academic publications, but proved difficult to find on Google Maps. Luckily, the Encyclopedia Aethiopica entry for Getesmani Maryam included coordinates: 11.10 N, 38.4 E. The last monastery, called Dabra Jamado Maryam, proved more illusive. I eventually determined that “Jamado” is an alternate transliteration of ዠመዱ, which is often instead transliterated as Žämmädu. (When the icons were first published in the early 70s, there was no standard system for transliterating Amharic and other Ethiopic languages.) I was able to find the location of Žämmädu Maryam on Google Maps.\n\n\n\nWith the locations of my monasteries finalized, I gathered the location data in a spreadsheet. I also included location data for the place of production of the icons (Candia/Herklion, Crete) and other sites that they may have treveled to before reaching Ethiopia. For each site, I included a column to specify whether the icons were known to have been at the site, or whether the connection is speculative. I then used this data to generate a map with ArcGIS online. I used conditional styling so that the known sites appeared in green and the speculative sites in yellow."
+    "objectID": "resources/smart-goals.html#time-bound",
+    "href": "resources/smart-goals.html#time-bound",
+    "title": "SMART Goals",
+    "section": "Time-bound",
+    "text": "Time-bound\n\nWhat is the time frame for accomplishing this goal?\nIs it realistic?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
   },
   {
-    "objectID": "logs/taylor-11-5.html#next-steps",
-    "href": "logs/taylor-11-5.html#next-steps",
-    "title": "November 5 Log",
+    "objectID": "resources/project-charter-template-ds.html",
+    "href": "resources/project-charter-template-ds.html",
+    "title": "Project Charter Template",
     "section": "",
-    "text": "At the moment, if sites are too close together, their labels do not appear. After some searching online, I think I’ve determined that there is no good workaround to this in ArcGIS online, but Pro has features that allow for overlapping labels.\n\n\n\nI want to give my viewer a sense of the geopolitical boundaries that existed in this period (early 16th century), but these boundaries were unstable and in flux. I also have not been able to find a satisfactory map of 16th century Ethiopia, although I will continue searching. I will likely map these boundaries myself, with a polygon layer. Other projects, like Native Land Digital, have done so with great success."
+    "text": "This document is intended to clarify expectations and support the successful completion of [PROJECT TITLE] a project supported by the Digital Scholarship program at Bryn Mawr College. The following is proposed by the project team, in consultation with Alice McGrath (Digital Scholarship Specialist).",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
   },
   {
-    "objectID": "logs/sample.html",
-    "href": "logs/sample.html",
-    "title": "Alice’s Learning Plan",
-    "section": "",
-    "text": "A specific description of your goal using the SMART framework\n\nSpecific:\nMeasurable\nAchievable\nRelevant\nTime-bound\n\n\n\n\n\nFirst milestone - due date\nSecond milestone - due date\nThird milestone - due date"
+    "objectID": "resources/project-charter-template-ds.html#project-title",
+    "href": "resources/project-charter-template-ds.html#project-title",
+    "title": "Project Charter Template",
+    "section": "Project title",
+    "text": "Project title\nShort summary of the project, including necessary background information.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
   },
   {
-    "objectID": "logs/sample.html#goal",
-    "href": "logs/sample.html#goal",
-    "title": "Alice’s Learning Plan",
-    "section": "",
-    "text": "A specific description of your goal using the SMART framework\n\nSpecific:\nMeasurable\nAchievable\nRelevant\nTime-bound"
+    "objectID": "resources/project-charter-template-ds.html#goals-and-objectives",
+    "href": "resources/project-charter-template-ds.html#goals-and-objectives",
+    "title": "Project Charter Template",
+    "section": "Goals and objectives",
+    "text": "Goals and objectives\n\nList what you hope to accomplish by undertaking this project\nInclude any guiding principles that will shape your success criteria",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
   },
   {
-    "objectID": "logs/sample.html#action-plan",
-    "href": "logs/sample.html#action-plan",
-    "title": "Alice’s Learning Plan",
+    "objectID": "resources/project-charter-template-ds.html#deliverables",
+    "href": "resources/project-charter-template-ds.html#deliverables",
+    "title": "Project Charter Template",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nList the things you will create in technical terms\nInclude any publication or other professional materials that will arise from it",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#team-members-roles-and-responsibilities",
+    "href": "resources/project-charter-template-ds.html#team-members-roles-and-responsibilities",
+    "title": "Project Charter Template",
+    "section": "Team members roles and responsibilities",
+    "text": "Team members roles and responsibilities\n\nPerson A - Project director\n\nDirecting the project\nCommunicating results of research\n\n\n\nPerson B - Consultant\n\nHelp determine best course of action",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#technical-requirements",
+    "href": "resources/project-charter-template-ds.html#technical-requirements",
+    "title": "Project Charter Template",
+    "section": "Technical requirements",
+    "text": "Technical requirements\n[What hardware and software are necessary for this project? When will they be needed? Who on the team will be responsible for training, maintenance, etc.]\n\n\n\n\n\n\n\n\n\n\nTechnology\nFunction\nPhase\nResponsibility\nFunding\n\n\n\n\nHardware or software\nWhat it does\nWhen needed (i.e. development, publication, etc.\nTeam member responsible\nCost",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#schedule",
+    "href": "resources/project-charter-template-ds.html#schedule",
+    "title": "Project Charter Template",
+    "section": "Schedule",
+    "text": "Schedule\n\nMilestones\n\nMajor steps along the way\nImportant dates\nSet some deadlines here\n\n\n\n\nID\nTask\nTime\nDependencies\nDue\nPerson\nComplete\n\n\n\n\n1\nResearch\n1 week\n\n\nPI\n\n\n\n2\nBuild website\n1 week\n1",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#anticipated-concerns",
+    "href": "resources/project-charter-template-ds.html#anticipated-concerns",
+    "title": "Project Charter Template",
+    "section": "Anticipated concerns",
+    "text": "Anticipated concerns\n\nLogistical difficulties you may encounter\nSkills you will need to build or areas in which you may need consultation",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#success-criteria",
+    "href": "resources/project-charter-template-ds.html#success-criteria",
+    "title": "Project Charter Template",
+    "section": "Success criteria",
+    "text": "Success criteria\n\nPublished prototype of digital scholarship project.\nResearch abstract ready to submit to a conference.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#communication",
+    "href": "resources/project-charter-template-ds.html#communication",
+    "title": "Project Charter Template",
+    "section": "Communication",
+    "text": "Communication\nWhen and how the team members will communicate, including what channels and modes they will use to discuss and share resources, and who is responsible for keeping everyone informed.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#credit-attribution",
+    "href": "resources/project-charter-template-ds.html#credit-attribution",
+    "title": "Project Charter Template",
+    "section": "Credit & attribution",
+    "text": "Credit & attribution\nThe Digital Scholarship program is committed to fair and equal attribution and credit for all work performed on digital scholarship projects. When this project is referenced (for example, in conference presentations or blog posts) the full project team will be attributed. Any code, data, or components produced for this project will be released open source.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "resources/project-charter-template-ds.html#preservation-long-term-access",
+    "href": "resources/project-charter-template-ds.html#preservation-long-term-access",
+    "title": "Project Charter Template",
+    "section": "Preservation & long-term access",
+    "text": "Preservation & long-term access\nThe website and materials will be backed up and maintained solely by the Project Director. The Digital Scholarship program will maintain public access to the project and web platform until an external grant to expand the project has been awarded, or for three years, or until the platform is no longer useful, whichever is soonest. All LITS digital projects are periodically reviewed according to the LITS Sunsetting Policy.\nNB: all arrangements delineated in this charter are subject to change as the project evolves. Major changes to any of these sections may necessitate a team meeting.\nRevised April 30, 2020",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Charter Template"
+    ]
+  },
+  {
+    "objectID": "logs/jennifer-11-7-25.html",
+    "href": "logs/jennifer-11-7-25.html",
+    "title": "November 7 Log",
     "section": "",
-    "text": "First milestone - due date\nSecond milestone - due date\nThird milestone - due date"
+    "text": "I unfortunately have not made much tangible progress since our last meeting. My research advisor had suddenly mentioned the American Physical Society (APS) March Summit was March 15-20 2026, and we were to write an abstract due October 23rd. It was my first APS abstract that I had to write, I had to come up with my own travel budget and arrange to present in Denver Colorado, I’ve never done that before. On top of that I had two family emergencies including my uncle contracting stage 4 cancer.\n\n\nI have however made more measurements with the VSM (Vibrating Sample Magnetometry) and am nearly finished with my Standard Operating Procedure which my research advisor wants to approve before we can start talking about the video. I plan to have her look at it next week. I have worked with the undergraduates and gotten some of their feedback for my understanding and teaching about the VSM. I also did get my equipment, I just haven’t opened it up and began trying to film with it.\n\n\nI need to really put more tangible deadlines going forward and touch base again with Christine Boyland about the video editing process. I’m very sorry that I was derailed this past month. It has been a very hard month both in terms of workload and emotionally. I will try to look at the project management slides again and reassess how I’m fitting in this video with everything else."
+  },
+  {
+    "objectID": "logs/jennifer-11-7-25.html#tangible-steps",
+    "href": "logs/jennifer-11-7-25.html#tangible-steps",
+    "title": "November 7 Log",
+    "section": "",
+    "text": "I have however made more measurements with the VSM (Vibrating Sample Magnetometry) and am nearly finished with my Standard Operating Procedure which my research advisor wants to approve before we can start talking about the video. I plan to have her look at it next week. I have worked with the undergraduates and gotten some of their feedback for my understanding and teaching about the VSM. I also did get my equipment, I just haven’t opened it up and began trying to film with it.\n\n\nI need to really put more tangible deadlines going forward and touch base again with Christine Boyland about the video editing process. I’m very sorry that I was derailed this past month. It has been a very hard month both in terms of workload and emotionally. I will try to look at the project management slides again and reassess how I’m fitting in this video with everything else."
+  },
+  {
+    "objectID": "logs/index.html",
+    "href": "logs/index.html",
+    "title": "Logs",
+    "section": "",
+    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘update-alice.md’\n\nBecause the filename will generate the url for the post, it should contain only URL-safe characters (i.e. avoid spaces, special characters, and punctuation, but you can use hyphens). URLs are case-sensitive and I recommend using all lowercase letters.\n\nGive your log a YAML header that includes your name, the date, and a title (this should appear at the very beginning of your document).\n---\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\n---\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below. If it doesn’t appear, there may be an issue with the yaml header or filename.\nIf you would like to add your post as a ‘draft’ (so that it will be visible on GitHub but will not render on the public-facing website), add draft: true to the YAML front matter."
+  },
+  {
+    "objectID": "logs/index.html#instructions-for-adding-a-log-entry",
+    "href": "logs/index.html#instructions-for-adding-a-log-entry",
+    "title": "Logs",
+    "section": "",
+    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘update-alice.md’\n\nBecause the filename will generate the url for the post, it should contain only URL-safe characters (i.e. avoid spaces, special characters, and punctuation, but you can use hyphens). URLs are case-sensitive and I recommend using all lowercase letters.\n\nGive your log a YAML header that includes your name, the date, and a title (this should appear at the very beginning of your document).\n---\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\n---\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below. If it doesn’t appear, there may be an issue with the yaml header or filename.\nIf you would like to add your post as a ‘draft’ (so that it will be visible on GitHub but will not render on the public-facing website), add draft: true to the YAML front matter."
+  },
+  {
+    "objectID": "logs/index.html#updates",
+    "href": "logs/index.html#updates",
+    "title": "Logs",
+    "section": "Updates",
+    "text": "Updates"
+  },
+  {
+    "objectID": "logs/Jennifer-11-7.html",
+    "href": "logs/Jennifer-11-7.html",
+    "title": "November 7 Log",
+    "section": "",
+    "text": "I unfortunately have not made much tangible progress since our last meeting. My research advisor had suddenly mentioned the American Physical Society (APS) March Summit was March 15-20 2026, and we were to write an abstract due October 23rd. It was my first APS abstract that I had to write, I had to come up with my own travel budget and arrange to present in Denver Colorado, I’ve never done that before. On top of that I had two family emergencies including my uncle contracting stage 4 cancer.\n\n\nI have however made more measurements with the VSM (Vibrating Sample Magnetometry) and am nearly finished with my Standard Operating Procedure which my research advisor wants to approve before we can start talking about the video. I plan to have her look at it next week. I have worked with the undergraduates and gotten some of their feedback for my understanding and teaching about the VSM. I also did get my equipment, I just haven’t opened it up and began trying to film with it.\n\n\nI need to really put more tangible deadlines going forward and touch base again with Christine Boyland about the video editing process. I’m very sorry that I was derailed this past month. It has been a very hard month both in terms of workload and emotionally. I will try to look at the project management slides again and reassess how I’m fitting in this video with everything else."
+  },
+  {
+    "objectID": "logs/Jennifer-11-7.html#tangible-steps",
+    "href": "logs/Jennifer-11-7.html#tangible-steps",
+    "title": "November 7 Log",
+    "section": "",
+    "text": "I have however made more measurements with the VSM (Vibrating Sample Magnetometry) and am nearly finished with my Standard Operating Procedure which my research advisor wants to approve before we can start talking about the video. I plan to have her look at it next week. I have worked with the undergraduates and gotten some of their feedback for my understanding and teaching about the VSM. I also did get my equipment, I just haven’t opened it up and began trying to film with it.\n\n\nI need to really put more tangible deadlines going forward and touch base again with Christine Boyland about the video editing process. I’m very sorry that I was derailed this past month. It has been a very hard month both in terms of workload and emotionally. I will try to look at the project management slides again and reassess how I’m fitting in this video with everything else."
   },
   {
     "objectID": "logs/SMART Goal Jennifer Rittenhouse.html",
