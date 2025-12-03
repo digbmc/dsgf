@@ -44,7 +44,7 @@ Note-taker:
   - [ ] Write up your SMART Goal(s) and add them to your log document
   - [ ] Add a progress update to your log by Wednesday morning before our next session
 - [ ] General Reminders
-  - [ ] Set up a meeting with Alice or Jeff via [Zoom Scheduler](https://scheduler.zoom.us/digital-scholarship/dsgf-consultation-meeting) if you need any help.
+  - [ ] Set up a meeting with Alice or Jeff via [Zoom Scheduler]([https://scheduler.zoom.us/digital-scholarship/dsgf-consultation-meeting](https://brynmawr-edu.zoom.us/zbook/digital-scholarship/dsgf-consultation-meeting) if you need any help.
 
 
 
