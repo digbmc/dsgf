@@ -31,8 +31,16 @@ Note-taker: Jeff
 - Software Carpentry's [tutorial on the Unix Shell](http://swcarpentry.github.io/shell-novice/) (for more advanced tutorials, see the “Loops” and “Shell Scripts” sections)
 - [Terminus command line game](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) (a fantasy choose-your-own adventure like game) (good for getting use to navigating file structures--uses only a few commands)
 
+### Spring Planning
+
+- Charlie will have a 7-hour time difference. Which can be worked around, but only so much. They may only be able to come to certain sessions
+- Jennifer doesn't know her schedule for the spring. She won't know until closer to the start date for class (Jan. 20th). 
+- Tenataive schedule for spring sessions is posted in the syllabus. Jeff & Alice will double check it to make sure nothing needs to be substituted for new topics.
+  -  Digital storytelling & data visualization may get combined into one session.
+  -  In its place, we may put a generative AI session. This may also be something open to the community.   
 ## Action items
 
+- [ ] Updates to logs due on 12/19 
 - [ ] Command line follow-up
   - [ ] Finish going through the [Command Line Tutorial](https://digbmc.github.io/command-line/) & post any questions to Slack
   - [ ] Optional: look at the other command line resources
