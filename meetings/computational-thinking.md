@@ -3,9 +3,6 @@ title: Computational Thinking
 date: 2025.12.03
 order: 4
 ---
-# 04. Computational Thinking	
-
-2025.12.03
 
 ## Agenda
 1. Updates & sharing SMART goals
@@ -45,13 +42,7 @@ Note-taker: Jeff
   - [ ] Finish going through the [Command Line Tutorial](https://digbmc.github.io/command-line/) & post any questions to Slack
   - [ ] Optional: look at the other command line resources
 - [ ] Logs
-  - [ ] Write up your SMART Goal(s) and add them to your log document
-  - [ ] Add a progress update to your log by Wednesday morning before our next session
+  - [ ] Update your logs by 12/19
 - [ ] General Reminders
-  - [ ] Set up a meeting with Alice or Jeff via [Zoom Scheduler]([https://scheduler.zoom.us/digital-scholarship/dsgf-consultation-meeting](https://brynmawr-edu.zoom.us/zbook/digital-scholarship/dsgf-consultation-meeting) if you need any help.
-
-
-
-[<<< Previous](mapping.md) | [Next >>>]
-
-[Home](../README.md)
+  - [ ] Set up a meeting with Alice or Jeff via [Zoom Scheduler](https://brynmawr-edu.zoom.us/zbook/digital-scholarship/dsgf-consultation-meeting) if you need any help.
+  - [ ] Send your spring schedule when you have it
