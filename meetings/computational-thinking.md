@@ -43,6 +43,6 @@ Note-taker:
 
 
 
-[<<< Previous](03-mapping.md) | [Next >>>]
+[<<< Previous](mapping.md) | [Next >>>]
 
 [Home](../README.md)
