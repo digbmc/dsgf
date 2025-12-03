@@ -1,3 +1,8 @@
+---
+title: Computational Thinking
+date: 2025.12.03
+order: 4
+---
 # 04. Computational Thinking	
 
 2025.12.03
