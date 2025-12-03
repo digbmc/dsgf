@@ -13,20 +13,16 @@ order: 4
 3. [Introduction to the Command Line Workshop](https://digbmc.github.io/command-line/)
 
 ## Meeting notes
-Note-taker: 
+Note-taker: Jeff 
 
 ### Updates & SMART Goals
-
-
-### Command Line Workshop
-
-- learning the command line key to working with many research-based programs
-- worked through the command line workshop on Computational Thinking page
-- Lala flagged that the tutorial for Git bash is using older versions of the software, the Atom text editor link outdated
-
-### How Computers Work
+- Charlie: They have made progress on their shape file for ancient political boundaries. The borders are hand-drawn, however, so they want to find something more precise.
+- Jennifer: She hasn't had as much time for working on the project. However, she has watched videos from Chris Boyland and creating videos. As a result, she feels more prepared to start with video-making next semster when she'll have more time.
 
 ### Command line
+- Jennifer & Charlie both have limited experience using command line, but it's limited.
+- Knowing how to use command line opens up a wider world of specialized software packages that people have developed without dealing with a Graphic User Interface (GUI)
+- Alice emphasizes that learning command line also helps someone better understand file structures on their computer.
 
 #### Command line resources
 
