@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/meetings/introduction.html",
+      "/meetings/project-management.html",
+      "/meetings/mapping.html",
+      "/meetings/computational-thinking.html"
+    ]
+  },
+  {
     "listing": "/logs/index.html",
     "items": [
       "/logs/sample.html",
@@ -10,14 +19,6 @@
       "/logs/SMART Goal Jennifer Rittenhouse.html",
       "/logs/charlie_goals_oct1.html",
       "/logs/taylor-11-23.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/meetings/introduction.html",
-      "/meetings/project-management.html",
-      "/meetings/mapping.html"
     ]
   }
 ]
