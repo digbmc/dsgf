@@ -7,8 +7,8 @@ order: 1
 
 | ID  | Session                                     | Date    |
 | --- | ------------------------------------------- | ------  |
-| 1   | Intro                                       | 9/17/25  |
-| 2   | Project management                          | 10/8/25  |
+| 1   | Intro                                       | 9/17/25 |
+| 2   | Project management                          | 10/8/25 |
 | 3   | Mapping/GIS                                 | 11/7/25 |
 | 4   | Command line                                | 12/3/25 |
 | 5   | Web development & publishing                | tbd |
@@ -32,7 +32,7 @@ Led by Jeff Hopkins
 - Strategies and practices for long-term projects
 - Digital Scholarship project charters
 
-### Mapping & GIS - 2025.11.07
+### [Mapping & GIS - 2025.11.07](meetings/mapping.md)
 
 Led by Tessa Eisen
 
@@ -40,7 +40,7 @@ Led by Tessa Eisen
 - Webmapping tools for ArcGIS Online
 - Creating a map "experience"
 
-### Command Line & Computational Thinking - 2025.12.03
+### [Command Line & Computational Thinking - 2025.12.03](meetings/computational-thinking.md)
 
 Led by Alice McGrath
 
