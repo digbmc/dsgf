@@ -2,6 +2,7 @@
 title: Alice's Learning Plan
 author: Alice
 date: 2025.09.17
+draft: True
 ---
 
 # SMART Goal

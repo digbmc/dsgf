@@ -1,3 +1,9 @@
+---
+title: Update 11/23
+date: 2025-11-23
+author: Charlie
+---
+
 # Update 11/23
 
 ## Mapping progress

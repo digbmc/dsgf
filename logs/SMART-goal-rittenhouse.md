@@ -1,9 +1,10 @@
-# SMART Goal
-
+---
 title: My SMART goal
 date: 2025.10.08
 author: Jennifer Rittenhouse
+---
 
+# SMART Goal
 
 ##### Specific
 
