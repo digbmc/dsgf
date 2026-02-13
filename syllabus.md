@@ -11,10 +11,10 @@ order: 1
 | 2   | Project management                          | 10/8/25 |
 | 3   | Mapping/GIS                                 | 11/7/25 |
 | 4   | Command line                                | 12/3/25 |
-| 5   | Web development & publishing                | tbd |
-| 6   | Data visualization                          | tbd |
-| 7   | Digital storytelling                        | tbd |
-| 8   | Digital pedagogy                            | tbd |
+| 5   | Digital storytelling                        | tbd Spring |
+| 6   | Web development & publishing                | tbd Spring |
+| 7   | Data visualization                          | tbd Spring |
+| 8   | Digital pedagogy                            | tbd Spring |
 
 
 ## Workshops
