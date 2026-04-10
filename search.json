@@ -1,345 +1,5 @@
 [
   {
-    "objectID": "resources/ds-project-planning.html",
-    "href": "resources/ds-project-planning.html",
-    "title": "Project Planning Guide",
-    "section": "",
-    "text": "This document is for the purposes of inspiring discussion, clarifying expectations, and surfacing values and assumptions about a given digital scholarship project. The questions are meant as a guide to discussions around important issues related to the project. Responses or notes made by the assigned DS team member will contribute to the creation of a Project Charter.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Planning Guide"
-    ]
-  },
-  {
-    "objectID": "resources/ds-project-planning.html#goalsobjectives",
-    "href": "resources/ds-project-planning.html#goalsobjectives",
-    "title": "Project Planning Guide",
-    "section": "Goals/Objectives",
-    "text": "Goals/Objectives\nWhat are the goals/objectives for this project?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Planning Guide"
-    ]
-  },
-  {
-    "objectID": "resources/ds-project-planning.html#deliverables",
-    "href": "resources/ds-project-planning.html#deliverables",
-    "title": "Project Planning Guide",
-    "section": "Deliverables",
-    "text": "Deliverables\nWhat will this project produce?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Planning Guide"
-    ]
-  },
-  {
-    "objectID": "resources/ds-project-planning.html#schedule",
-    "href": "resources/ds-project-planning.html#schedule",
-    "title": "Project Planning Guide",
-    "section": "Schedule",
-    "text": "Schedule\nWhat are the major milestones for the project? And when will they be completed?\nWhen are appropriate points for reporting back to DS/TLR regarding the status of the project? (use actual dates whenever possible)",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Planning Guide"
-    ]
-  },
-  {
-    "objectID": "resources/ds-project-planning.html#audience",
-    "href": "resources/ds-project-planning.html#audience",
-    "title": "Project Planning Guide",
-    "section": "Audience",
-    "text": "Audience\nWho is the intended audience of this project?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Planning Guide"
-    ]
-  },
-  {
-    "objectID": "resources/ds-project-planning.html#team-members",
-    "href": "resources/ds-project-planning.html#team-members",
-    "title": "Project Planning Guide",
-    "section": "Team Members",
-    "text": "Team Members\nWho are the team members? And what are their roles and responsibilities for this project?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Planning Guide"
-    ]
-  },
-  {
-    "objectID": "resources/ds-project-planning.html#technical-requirements",
-    "href": "resources/ds-project-planning.html#technical-requirements",
-    "title": "Project Planning Guide",
-    "section": "Technical Requirements",
-    "text": "Technical Requirements\nWhat hardware and software are necessary for this project? When will they be needed? Who on the team will be responsible for training, maintenance, etc.?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Planning Guide"
-    ]
-  },
-  {
-    "objectID": "resources/ds-project-planning.html#communication",
-    "href": "resources/ds-project-planning.html#communication",
-    "title": "Project Planning Guide",
-    "section": "Communication",
-    "text": "Communication\nHow will team members communicate? And how frequently?\nex. Director will check in with team members weekly via email and report updates out to entire team via weekly email\nex. Through updates at monthly meetings about the project\nex. Via Slack as issues, questions, development arise",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Planning Guide"
-    ]
-  },
-  {
-    "objectID": "resources/ds-project-planning.html#credit-attribution-and-intellectual-property",
-    "href": "resources/ds-project-planning.html#credit-attribution-and-intellectual-property",
-    "title": "Project Planning Guide",
-    "section": "Credit, Attribution, and Intellectual Property",
-    "text": "Credit, Attribution, and Intellectual Property\nHow should the project be cited?\nHow will team members be credited in the project?\nex. All team members will be listed on the project website with their roles and dates of working on the project. When referring to individual contributions, a team member can speak of that contribution as his or hers. When referring to the whole project, team members should always credit the team. We encourage everyone to share with the team when they make public mentions of the project.\nWho will retain the intellectual property for this project?\nHow will the IP of the project be licensed?\nex. Creative Commons Attribution-NonCommercial International 4.0\nex. Patent\nex. MIT license",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Planning Guide"
-    ]
-  },
-  {
-    "objectID": "resources/ds-project-planning.html#preservation-and-long-term-access",
-    "href": "resources/ds-project-planning.html#preservation-and-long-term-access",
-    "title": "Project Planning Guide",
-    "section": "Preservation and Long-Term Access",
-    "text": "Preservation and Long-Term Access\nHow long should the project be actively maintained? Who is responsible for updating project content? Who is responsible for updating hardware/software for this project?\nHow will the project be archived? What restrictions (if any) should there be to access the project now? In future?\nWhat documentation about the project is required? Who will create it? Where will it be stored?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Planning Guide"
-    ]
-  },
-  {
-    "objectID": "resources/ds-project-planning.html#outside-of-scope",
-    "href": "resources/ds-project-planning.html#outside-of-scope",
-    "title": "Project Planning Guide",
-    "section": "Outside of Scope",
-    "text": "Outside of Scope\nWhat is outside of the scope of this project?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Planning Guide"
-    ]
-  },
-  {
-    "objectID": "resources/ds-project-planning.html#dependencies-concerns",
-    "href": "resources/ds-project-planning.html#dependencies-concerns",
-    "title": "Project Planning Guide",
-    "section": "Dependencies & Concerns",
-    "text": "Dependencies & Concerns\nWhat does the completion of this project depend on?\nWhat concerns do team members have about this project?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "Project Planning Guide"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html",
-    "href": "resources/smart-goals.html",
-    "title": "SMART Goals",
-    "section": "",
-    "text": "When you set goals, make sure they are SMART: Specific, Measurable, Achievable, Relevant, and Time-bound",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html#specific",
-    "href": "resources/smart-goals.html#specific",
-    "title": "SMART Goals",
-    "section": "Specific",
-    "text": "Specific\n\nWhat will be accomplished? What specific actions will you take?\nThink of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html#measurable",
-    "href": "resources/smart-goals.html#measurable",
-    "title": "SMART Goals",
-    "section": "Measurable",
-    "text": "Measurable\n\nWhat “data” will you use to measure your goal or to determine if it has been met?\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?\nMeasurement methods can be both quantitative and qualitative. Use the measurement form that best suites your specific goal.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html#achievable",
-    "href": "resources/smart-goals.html#achievable",
-    "title": "SMART Goals",
-    "section": "Achievable",
-    "text": "Achievable\n\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources?\nIf you don’t currently have the skills need to achieve the goal, how will you acquire them? These can be some of your measurable milestones.",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html#relevant",
-    "href": "resources/smart-goals.html#relevant",
-    "title": "SMART Goals",
-    "section": "Relevant",
-    "text": "Relevant\n\nDoes this particular goal align with broader project or personal goals?\nHow is the outcome important?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "resources/smart-goals.html#time-bound",
-    "href": "resources/smart-goals.html#time-bound",
-    "title": "SMART Goals",
-    "section": "Time-bound",
-    "text": "Time-bound\n\nWhat is the time frame for accomplishing this goal?\nIs it realistic?",
-    "crumbs": [
-      "Home",
-      "Resources",
-      "SMART Goals"
-    ]
-  },
-  {
-    "objectID": "SMART Goal Jennifer Rittenhouse.html",
-    "href": "SMART Goal Jennifer Rittenhouse.html",
-    "title": "SMART Goal",
-    "section": "",
-    "text": "SMART Goal\n\nSpecific\nCreate an informational video for using the Vibrating Sample Magnetometer (VSM) that is informative, interesting and generates enthusiasm for what we do in the Nanomaterials and Spintronics Lab at QMSEC (Quantum Materials, Sensing and Education Center.)\n\n\nMeasurable\nWhat “data” will you use to measure your goal or to determine if it has been met?\n  I am fortunate to have the guidance of my exceptional research advisor, Dr. Xuemei May Cheng, and the valuable insights of Christine Boyland. Christine has kindly shared her expertise on video storytelling and showed me some techiques through WeVideo so far. Furthermore, I have the benefit of a diverse lab community consisting of individuals with varying age ranges and educational backgrounds—including undergraduates and graduates—who I believe would be willing to offer their feedback as well.\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it? What “data” will you use to measure your goal or to determine if it has been met?\n  Subgoal 1: Before proceeding with the video, I will ensure that my advisor approves the Standard Operating Procedure I’ve been developing. This document incorporates helpful visuals and critical information but still requires some refinement. Obtaining my advisor’s feedback will guarantee that I am accurately demonstrating each step and setting a strong example for viewers. Although I’m still fairly new to operating the VSM, it will be my primary measurement equipment in the lab until December, so this video project provides an excellent opportunity to further refine my skills and knowledge.\n  Subgoal 2: I need to make a video and have Christine look at it and approve it. It needs to be an easier project so I can start to confirm I’ve gotten some of the technical details and nuances of video production.\n  Subgoal 3: I need to understand lighting and recording on site in my lab to get the best video. This will require working more with Christine and fleshing out my ideas.\n  Subgoal 4: Work on off camera narration and footage. I will want to explain some of the physics principles and narrate them. Example “VSM employs Faraday’s law….VSM measures (among other things) Hysteresis loops   they are….etc.\n  Subgoal 5: Record one segment of the video, maybe scenes of mounting the sample to be included in the full 5 minute video.\n  Subgoal 6: Narrate a fast-forwarded hysteresis loop going over the various parts and why they are important to our magnetic characterization of materials.   ##### Achievable\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources? What “data” will you use to measure your goal or to determine if it has been met?\n Yes, I think this is a reasonable goal as I will be working with the VSM frequently in the lab and I have good experienced people to both advise me and also give me feedback. I do not currently have the video production skills but I have Christine Boyland and I can benefit from her experience. She has also already introduced me to software and instructional videos. I Just need to watch them and apply their lessons in a tangible way.\n  ##### Relevant\nDoes this particular goal align with broader project or personal goals? How is the outcome important?    Absolutely, creating this video will not only deepen my understanding of the VSM—a crucial tool for characterizing our samples and unraveling their magnetic properties—but also pique my personal interest in video production. As a consumer of YouTube content, I’m excited to explore this medium, particularly to share my experiences as someone with ADHD and spatial reasoning challenges who has successfully pursued a PhD in physics. By sharing my journey, I hope to inspire others who might face similar obstacles. Ultimately, I aim to create a valuable resource for future lab members, as well as high school students curious about the hands-on reality of scientific research. This goal is important to me because I want to contribute to the growth and support of the next generation of scientists.\n\n\nTime Bound\nWhat is the time frame for accomplishing the goal? Is it realistic?    I would like the timeframe to be by the conclusion of our program DSGF but I can also try to make it by the end of December if that is too late. I think towards the end of DSGF is more realistic as I will be much more skilled and proficient (and confidant) in executing the VSM by then but I will also be working throughout the Fall primarily on VSM measurement and data analysis specifically (at least this is the current goal of my research advisor.)"
-  },
-  {
-    "objectID": "meetings/mapping.html",
-    "href": "meetings/mapping.html",
-    "title": "Mapping & GIS",
-    "section": "",
-    "text": "Workshop session\nUpdates and reminders",
-    "crumbs": [
-      "Home",
-      "Meetings",
-      "Mapping & GIS"
-    ]
-  },
-  {
-    "objectID": "meetings/mapping.html#agenda",
-    "href": "meetings/mapping.html#agenda",
-    "title": "Mapping & GIS",
-    "section": "",
-    "text": "Workshop session\nUpdates and reminders",
-    "crumbs": [
-      "Home",
-      "Meetings",
-      "Mapping & GIS"
-    ]
-  },
-  {
-    "objectID": "meetings/mapping.html#meeting-notes",
-    "href": "meetings/mapping.html#meeting-notes",
-    "title": "Mapping & GIS",
-    "section": "Meeting notes",
-    "text": "Meeting notes\nSession leader: Tessa Eisen\n\nMapping & GIS\nDigital Mapping: ArcGIS Online and Experience Builder slides - Non-technological points - Cartography is the science of map making. - Key principles of sucessful cartograpy: clarity, consistency, & simplicity - Map-making = making choices about what spatial information to highlight or minimize - Technological points: - Geographic Information Systems (GIS): Technology used to create, manage, store, analyze, and map data. It’s a digital means of doing cartography. - ArcGIS: one of the most popular GIS platforms available. It is a paid service, but you have complimentary access at this link - ArcGIS will let you build several different types of maps using its component apps. Consult the presentations for information on how to use them: - StoryMaps: for narrative-driven mapping experiences where you want to guide users through information - Experience Builder: if you want to build your own app experience for users - Dashboard: for when you also want to display the underlying data in a map (e.g., how stats change over time0 - Instant Apps: if you want to use app tempaltes to create your user experience (e.g., creating an image gallery) - Once finished, you can use ArcGIS to publish your map. - Contact information and tutorials: look to the end of the presentation for this info!",
-    "crumbs": [
-      "Home",
-      "Meetings",
-      "Mapping & GIS"
-    ]
-  },
-  {
-    "objectID": "meetings/mapping.html#review-of-project-updates",
-    "href": "meetings/mapping.html#review-of-project-updates",
-    "title": "Mapping & GIS",
-    "section": "Review of Project Updates",
-    "text": "Review of Project Updates\nCharlie - In a great place, as they’ve found geographic information on their sites and added it to a map within ArcGIS online. - Next steps involve upgrading to ArcGIS Pro to deal with overlapping labels and adding a layer showing pre-modern political boundaries. They haven’t found a map layer that provides the latter, so they may need to make it on their own using a polygon layer in ArcGIS. This may be another feature limited to ArcGIS Pro\nJennifer - She’s been distracted by a presentation proposal and personal matters. Jeff reminds her and Charlie that it’s okay if there projects need to put on pause or if goals need to be donwsized due to other things they have going on in their lives! - Tangible progress was made in other ways. Jennifer got measurements from the VSM and is almost done drafting the SOP that will inform her video on lab procedures. - Next steps will involve meeting with Chris Boyland from EAST about video production.",
-    "crumbs": [
-      "Home",
-      "Meetings",
-      "Mapping & GIS"
-    ]
-  },
-  {
-    "objectID": "meetings/mapping.html#reminders-and-action-items",
-    "href": "meetings/mapping.html#reminders-and-action-items",
-    "title": "Mapping & GIS",
-    "section": "Reminders and action items",
-    "text": "Reminders and action items\n\nAdd your updates - November 21\nPrepare for next session\n\nInstall software\n\nText editor: Visual Studio Code\nFor a PC: install git bash using these instructions\n\nWatch all 6 Code.org videos on how computers work if you haven’t already.\nOptional: read “Hello, World” by Meredith Broussard (from Artificial Unintelligence, MIT 2018). NB: if direct link doesn’t work, use TriPod link\n\nSend schedule for Spring 2026",
-    "crumbs": [
-      "Home",
-      "Meetings",
-      "Mapping & GIS"
-    ]
-  },
-  {
-    "objectID": "meetings/computational-thinking.html",
-    "href": "meetings/computational-thinking.html",
-    "title": "Computational Thinking",
-    "section": "",
-    "text": "Updates & sharing SMART goals\nDiscussion: How Computers Work\nIntroduction to the Command Line Workshop",
-    "crumbs": [
-      "Home",
-      "Meetings",
-      "Computational Thinking"
-    ]
-  },
-  {
-    "objectID": "meetings/computational-thinking.html#agenda",
-    "href": "meetings/computational-thinking.html#agenda",
-    "title": "Computational Thinking",
-    "section": "",
-    "text": "Updates & sharing SMART goals\nDiscussion: How Computers Work\nIntroduction to the Command Line Workshop",
-    "crumbs": [
-      "Home",
-      "Meetings",
-      "Computational Thinking"
-    ]
-  },
-  {
-    "objectID": "meetings/computational-thinking.html#meeting-notes",
-    "href": "meetings/computational-thinking.html#meeting-notes",
-    "title": "Computational Thinking",
-    "section": "Meeting notes",
-    "text": "Meeting notes\nNote-taker: Jeff\n\nUpdates & SMART Goals\n\nCharlie: They have made progress on their shape file for ancient political boundaries. The borders are hand-drawn, however, so they want to find something more precise.\nJennifer: She hasn’t had as much time for working on the project. However, she has watched videos from Chris Boyland and creating videos. As a result, she feels more prepared to start with video-making next semster when she’ll have more time.\n\n\n\nCommand line\n\nJennifer & Charlie both have limited experience using command line, but it’s limited.\nKnowing how to use command line opens up a wider world of specialized software packages that people have developed without dealing with a Graphic User Interface (GUI)\nAlice emphasizes that learning command line also helps someone better understand file structures on their computer.\n\n\nCommand line resources\n\nIntroduction to the Command Line Workshop, Tri-Co DSRI adapted from DHRI @ CUNY.\nIntroduction to the Bash Command Line, Ian Milligan and James Baker, The Programming Historian\nSoftware Carpentry’s tutorial on the Unix Shell (for more advanced tutorials, see the “Loops” and “Shell Scripts” sections)\nTerminus command line game (a fantasy choose-your-own adventure like game) (good for getting use to navigating file structures–uses only a few commands)\n\n\n\n\nSpring Planning\n\nCharlie will have a 7-hour time difference. Which can be worked around, but only so much. They may only be able to come to certain sessions\nJennifer doesn’t know her schedule for the spring. She won’t know until closer to the start date for class (Jan. 20th).\nTenataive schedule for spring sessions is posted in the syllabus. Jeff & Alice will double check it to make sure nothing needs to be substituted for new topics.\n\nDigital storytelling & data visualization may get combined into one session.\nIn its place, we may put a generative AI session. This may also be something open to the community.\n## Action items\n\nUpdates to logs due on 12/19\nCommand line follow-up\n\nFinish going through the Command Line Tutorial & post any questions to Slack\nOptional: look at the other command line resources\n\nLogs\n\nUpdate your logs by 12/19\n\nGeneral Reminders\n\nSet up a meeting with Alice or Jeff via Zoom Scheduler if you need any help.\nSend your spring schedule when you have it",
-    "crumbs": [
-      "Home",
-      "Meetings",
-      "Computational Thinking"
-    ]
-  },
-  {
-    "objectID": "logs/SMART-goal-rittenhouse.html",
-    "href": "logs/SMART-goal-rittenhouse.html",
-    "title": "My SMART goal",
-    "section": "",
-    "text": "SMART Goal\n\nSpecific\nCreate an informational video for using the Vibrating Sample Magnetometer (VSM) that is informative, interesting and generates enthusiasm for what we do in the Nanomaterials and Spintronics Lab at QMSEC (Quantum Materials, Sensing and Education Center.)\n\n\nMeasurable\nWhat “data” will you use to measure your goal or to determine if it has been met?\n  I am fortunate to have the guidance of my exceptional research advisor, Dr. Xuemei May Cheng, and the valuable insights of Christine Boyland. Christine has kindly shared her expertise on video storytelling and showed me some techiques through WeVideo so far. Furthermore, I have the benefit of a diverse lab community consisting of individuals with varying age ranges and educational backgrounds—including undergraduates and graduates—who I believe would be willing to offer their feedback as well.\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it? What “data” will you use to measure your goal or to determine if it has been met?\n  Subgoal 1: Before proceeding with the video, I will ensure that my advisor approves the Standard Operating Procedure I’ve been developing. This document incorporates helpful visuals and critical information but still requires some refinement. Obtaining my advisor’s feedback will guarantee that I am accurately demonstrating each step and setting a strong example for viewers. Although I’m still fairly new to operating the VSM, it will be my primary measurement equipment in the lab until December, so this video project provides an excellent opportunity to further refine my skills and knowledge.\n  Subgoal 2: I need to make a video and have Christine look at it and approve it. It needs to be an easier project so I can start to confirm I’ve gotten some of the technical details and nuances of video production.\n  Subgoal 3: I need to understand lighting and recording on site in my lab to get the best video. This will require working more with Christine and fleshing out my ideas.\n  Subgoal 4: Work on off camera narration and footage. I will want to explain some of the physics principles and narrate them. Example “VSM employs Faraday’s law….VSM measures (among other things) Hysteresis loops   they are….etc.\n  Subgoal 5: Record one segment of the video, maybe scenes of mounting the sample to be included in the full 5 minute video.\n  Subgoal 6: Narrate a fast-forwarded hysteresis loop going over the various parts and why they are important to our magnetic characterization of materials.   ##### Achievable\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources? What “data” will you use to measure your goal or to determine if it has been met?\n Yes, I think this is a reasonable goal as I will be working with the VSM frequently in the lab and I have good experienced people to both advise me and also give me feedback. I do not currently have the video production skills but I have Christine Boyland and I can benefit from her experience. She has also already introduced me to software and instructional videos. I Just need to watch them and apply their lessons in a tangible way.\n  ##### Relevant\nDoes this particular goal align with broader project or personal goals? How is the outcome important?    Absolutely, creating this video will not only deepen my understanding of the VSM—a crucial tool for characterizing our samples and unraveling their magnetic properties—but also pique my personal interest in video production. As a consumer of YouTube content, I’m excited to explore this medium, particularly to share my experiences as someone with ADHD and spatial reasoning challenges who has successfully pursued a PhD in physics. By sharing my journey, I hope to inspire others who might face similar obstacles. Ultimately, I aim to create a valuable resource for future lab members, as well as high school students curious about the hands-on reality of scientific research. This goal is important to me because I want to contribute to the growth and support of the next generation of scientists.\n\n\nTime Bound\nWhat is the time frame for accomplishing the goal? Is it realistic?    I would like the timeframe to be by the conclusion of our program DSGF but I can also try to make it by the end of December if that is too late. I think towards the end of DSGF is more realistic as I will be much more skilled and proficient (and confidant) in executing the VSM by then but I will also be working throughout the Fall primarily on VSM measurement and data analysis specifically (at least this is the current goal of my research advisor.)"
-  },
-  {
-    "objectID": "logs/jennifer-12-3-25.html",
-    "href": "logs/jennifer-12-3-25.html",
-    "title": "December 03 Log",
-    "section": "",
-    "text": "I did make some progress since last time but not as tangible as I would like. I did watch some videos from Video Script Writing https://www.linkedin.com/learning/video-script-writing/welcome?resume=false&u=76958498 which was recommended by Christine Boyland. I also found that Canaday library has a greenscreen A/V room with Soundproofing which I believe after watching this Video Script Writing videos, that I may utilize in order to help visualize or discuss concepts of Vibrating Sample Magnetometry. However I was not able to start writing the script as My research Advisor has put me on a new project which required a lot of my time.\n\n\nWatched Video Script Scriting in order to better organize my ideas around an actual script so it is easier to manage the time in a 5 minute video (Which is what my research advisor would like for our lab group)\n\n\nNext semester I will not be A TA where I have to attend every class, and my research will be more clear and familiar now that I have learned the Vibrating Sample Magnetometer and done measurements. I effectively won’t be learning the instrument and trying to write about it at the same time. I will be in a better position to begin working on this video and getting feedback from May and Christine Boyland. Between Family Emergencies and TAing one of the hardest physics classes in the curriculum, I was inundated and unable to meet as much tangible objectives. I appreciate your patience and still believe that I can put the skills and workshop to at the very least come up with a script which I now know more about from watching the video course Video Script Writing."
-  },
-  {
-    "objectID": "logs/jennifer-12-3-25.html#tangible-steps",
-    "href": "logs/jennifer-12-3-25.html#tangible-steps",
-    "title": "December 03 Log",
-    "section": "",
-    "text": "Watched Video Script Scriting in order to better organize my ideas around an actual script so it is easier to manage the time in a 5 minute video (Which is what my research advisor would like for our lab group)\n\n\nNext semester I will not be A TA where I have to attend every class, and my research will be more clear and familiar now that I have learned the Vibrating Sample Magnetometer and done measurements. I effectively won’t be learning the instrument and trying to write about it at the same time. I will be in a better position to begin working on this video and getting feedback from May and Christine Boyland. Between Family Emergencies and TAing one of the hardest physics classes in the curriculum, I was inundated and unable to meet as much tangible objectives. I appreciate your patience and still believe that I can put the skills and workshop to at the very least come up with a script which I now know more about from watching the video course Video Script Writing."
-  },
-  {
     "objectID": "logs/taylor-11-23.html",
     "href": "logs/taylor-11-23.html",
     "title": "Update 11/23",
@@ -361,18 +21,11 @@
     "text": "Because I have the points and styling that I need for my story map, I plan to move forward with that part of the project. I will also continue looking into shape files as a way to develop a map for future conference presentations and articles."
   },
   {
-    "objectID": "logs/jennifer-11-7-25.html",
-    "href": "logs/jennifer-11-7-25.html",
-    "title": "November 7 Log",
+    "objectID": "logs/SMART-goal-rittenhouse.html",
+    "href": "logs/SMART-goal-rittenhouse.html",
+    "title": "My SMART goal",
     "section": "",
-    "text": "I unfortunately have not made much tangible progress since our last meeting. My research advisor had suddenly mentioned the American Physical Society (APS) March Summit was March 15-20 2026, and we were to write an abstract due October 23rd. It was my first APS abstract that I had to write, I had to come up with my own travel budget and arrange to present in Denver Colorado, I’ve never done that before. On top of that I had two family emergencies including my uncle contracting stage 4 cancer.\n\n\nI have however made more measurements with the VSM (Vibrating Sample Magnetometry) and am nearly finished with my Standard Operating Procedure which my research advisor wants to approve before we can start talking about the video. I plan to have her look at it next week. I have worked with the undergraduates and gotten some of their feedback for my understanding and teaching about the VSM. I also did get my equipment, I just haven’t opened it up and began trying to film with it.\n\n\nI need to really put more tangible deadlines going forward and touch base again with Christine Boyland about the video editing process. I’m very sorry that I was derailed this past month. It has been a very hard month both in terms of workload and emotionally. I will try to look at the project management slides again and reassess how I’m fitting in this video with everything else."
-  },
-  {
-    "objectID": "logs/jennifer-11-7-25.html#tangible-steps",
-    "href": "logs/jennifer-11-7-25.html#tangible-steps",
-    "title": "November 7 Log",
-    "section": "",
-    "text": "I have however made more measurements with the VSM (Vibrating Sample Magnetometry) and am nearly finished with my Standard Operating Procedure which my research advisor wants to approve before we can start talking about the video. I plan to have her look at it next week. I have worked with the undergraduates and gotten some of their feedback for my understanding and teaching about the VSM. I also did get my equipment, I just haven’t opened it up and began trying to film with it.\n\n\nI need to really put more tangible deadlines going forward and touch base again with Christine Boyland about the video editing process. I’m very sorry that I was derailed this past month. It has been a very hard month both in terms of workload and emotionally. I will try to look at the project management slides again and reassess how I’m fitting in this video with everything else."
+    "text": "SMART Goal\n\nSpecific\nCreate an informational video for using the Vibrating Sample Magnetometer (VSM) that is informative, interesting and generates enthusiasm for what we do in the Nanomaterials and Spintronics Lab at QMSEC (Quantum Materials, Sensing and Education Center.)\n\n\nMeasurable\nWhat “data” will you use to measure your goal or to determine if it has been met?\n  I am fortunate to have the guidance of my exceptional research advisor, Dr. Xuemei May Cheng, and the valuable insights of Christine Boyland. Christine has kindly shared her expertise on video storytelling and showed me some techiques through WeVideo so far. Furthermore, I have the benefit of a diverse lab community consisting of individuals with varying age ranges and educational backgrounds—including undergraduates and graduates—who I believe would be willing to offer their feedback as well.\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it? What “data” will you use to measure your goal or to determine if it has been met?\n  Subgoal 1: Before proceeding with the video, I will ensure that my advisor approves the Standard Operating Procedure I’ve been developing. This document incorporates helpful visuals and critical information but still requires some refinement. Obtaining my advisor’s feedback will guarantee that I am accurately demonstrating each step and setting a strong example for viewers. Although I’m still fairly new to operating the VSM, it will be my primary measurement equipment in the lab until December, so this video project provides an excellent opportunity to further refine my skills and knowledge.\n  Subgoal 2: I need to make a video and have Christine look at it and approve it. It needs to be an easier project so I can start to confirm I’ve gotten some of the technical details and nuances of video production.\n  Subgoal 3: I need to understand lighting and recording on site in my lab to get the best video. This will require working more with Christine and fleshing out my ideas.\n  Subgoal 4: Work on off camera narration and footage. I will want to explain some of the physics principles and narrate them. Example “VSM employs Faraday’s law….VSM measures (among other things) Hysteresis loops   they are….etc.\n  Subgoal 5: Record one segment of the video, maybe scenes of mounting the sample to be included in the full 5 minute video.\n  Subgoal 6: Narrate a fast-forwarded hysteresis loop going over the various parts and why they are important to our magnetic characterization of materials.   ##### Achievable\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources? What “data” will you use to measure your goal or to determine if it has been met?\n Yes, I think this is a reasonable goal as I will be working with the VSM frequently in the lab and I have good experienced people to both advise me and also give me feedback. I do not currently have the video production skills but I have Christine Boyland and I can benefit from her experience. She has also already introduced me to software and instructional videos. I Just need to watch them and apply their lessons in a tangible way.\n  ##### Relevant\nDoes this particular goal align with broader project or personal goals? How is the outcome important?    Absolutely, creating this video will not only deepen my understanding of the VSM—a crucial tool for characterizing our samples and unraveling their magnetic properties—but also pique my personal interest in video production. As a consumer of YouTube content, I’m excited to explore this medium, particularly to share my experiences as someone with ADHD and spatial reasoning challenges who has successfully pursued a PhD in physics. By sharing my journey, I hope to inspire others who might face similar obstacles. Ultimately, I aim to create a valuable resource for future lab members, as well as high school students curious about the hands-on reality of scientific research. This goal is important to me because I want to contribute to the growth and support of the next generation of scientists.\n\n\nTime Bound\nWhat is the time frame for accomplishing the goal? Is it realistic?    I would like the timeframe to be by the conclusion of our program DSGF but I can also try to make it by the end of December if that is too late. I think towards the end of DSGF is more realistic as I will be much more skilled and proficient (and confidant) in executing the VSM by then but I will also be working throughout the Fall primarily on VSM measurement and data analysis specifically (at least this is the current goal of my research advisor.)"
   },
   {
     "objectID": "logs/charlie_goals_oct1.html",
@@ -417,74 +70,18 @@
     "text": "The final deliverable will be complete by the end of the year. I will consult with Alice and Jeff on workflow while in İstanbul. This may require a faster-paced schedule in the Fall Semester, or Zoom check-ins to ensure I am making progress while abroad.\n\n\nComplete ARCGIS tutorials on mapping and storymaps. Consult with Tessa and Alice on problem areas.\n\n\n\nIdentify which sites will be on the map and collect their coordinates. Enter location data in CSV file and create an unstyled base map.\n\n\n\nExplore possibilities for representing historical political boundaries. Use resources like Harvard’s Geospatial Library, or draw boundaries myself with vectors. Consult with Tessa and Alice if needed.\n\n\n\nStyle basemap with labels, custom icons, etc.\n\n\n\nFinal basemap due.\n\n\n\nFinal storymap due."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Digital Scholarship Graduate Fellows",
+    "objectID": "logs/jennifer-12-3-25.html",
+    "href": "logs/jennifer-12-3-25.html",
+    "title": "December 03 Log",
     "section": "",
-    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
+    "text": "I did make some progress since last time but not as tangible as I would like. I did watch some videos from Video Script Writing https://www.linkedin.com/learning/video-script-writing/welcome?resume=false&u=76958498 which was recommended by Christine Boyland. I also found that Canaday library has a greenscreen A/V room with Soundproofing which I believe after watching this Video Script Writing videos, that I may utilize in order to help visualize or discuss concepts of Vibrating Sample Magnetometry. However I was not able to start writing the script as My research Advisor has put me on a new project which required a lot of my time.\n\n\nWatched Video Script Scriting in order to better organize my ideas around an actual script so it is easier to manage the time in a 5 minute video (Which is what my research advisor would like for our lab group)\n\n\nNext semester I will not be A TA where I have to attend every class, and my research will be more clear and familiar now that I have learned the Vibrating Sample Magnetometer and done measurements. I effectively won’t be learning the instrument and trying to write about it at the same time. I will be in a better position to begin working on this video and getting feedback from May and Christine Boyland. Between Family Emergencies and TAing one of the hardest physics classes in the curriculum, I was inundated and unable to meet as much tangible objectives. I appreciate your patience and still believe that I can put the skills and workshop to at the very least come up with a script which I now know more about from watching the video course Video Script Writing."
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Digital Scholarship Graduate Fellows",
+    "objectID": "logs/jennifer-12-3-25.html#tangible-steps",
+    "href": "logs/jennifer-12-3-25.html#tangible-steps",
+    "title": "December 03 Log",
     "section": "",
-    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Digital Scholarship Graduate Fellows",
-    "section": "Quick links",
-    "text": "Quick links\n\nSyllabus\nGitHub Repository\nLast year’s program"
-  },
-  {
-    "objectID": "index.html#sessions",
-    "href": "index.html#sessions",
-    "title": "Digital Scholarship Graduate Fellows",
-    "section": "Sessions",
-    "text": "Sessions\nMeeting notes will appear below."
-  },
-  {
-    "objectID": "logs/index.html",
-    "href": "logs/index.html",
-    "title": "Logs",
-    "section": "",
-    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘update-alice.md’\n\nBecause the filename will generate the url for the post, it should contain only URL-safe characters (i.e. avoid spaces, special characters, and punctuation, but you can use hyphens). URLs are case-sensitive and I recommend using all lowercase letters.\n\nGive your log a YAML header that includes your name, the date, and a title (this should appear at the very beginning of your document).\n---\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\n---\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below. If it doesn’t appear, there may be an issue with the yaml header or filename.\nIf you would like to add your post as a ‘draft’ (so that it will be visible on GitHub but will not render on the public-facing website), add draft: true to the YAML front matter."
-  },
-  {
-    "objectID": "logs/index.html#instructions-for-adding-a-log-entry",
-    "href": "logs/index.html#instructions-for-adding-a-log-entry",
-    "title": "Logs",
-    "section": "",
-    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘update-alice.md’\n\nBecause the filename will generate the url for the post, it should contain only URL-safe characters (i.e. avoid spaces, special characters, and punctuation, but you can use hyphens). URLs are case-sensitive and I recommend using all lowercase letters.\n\nGive your log a YAML header that includes your name, the date, and a title (this should appear at the very beginning of your document).\n---\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\n---\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below. If it doesn’t appear, there may be an issue with the yaml header or filename.\nIf you would like to add your post as a ‘draft’ (so that it will be visible on GitHub but will not render on the public-facing website), add draft: true to the YAML front matter."
-  },
-  {
-    "objectID": "logs/index.html#updates",
-    "href": "logs/index.html#updates",
-    "title": "Logs",
-    "section": "Updates",
-    "text": "Updates"
-  },
-  {
-    "objectID": "logs/taylor-11-5.html",
-    "href": "logs/taylor-11-5.html",
-    "title": "November 5 Log",
-    "section": "",
-    "text": "I just got back from the annual Byzantine Studies Conference, where I presented my MA project, including some maps!\n\n\nSince my conference paper and this GIS project deal with the same subject, some last-minute additional research ahead of the conference proved very helpful for my mapping project.\n\n\nMy project deals with four icons in four Ethiopian monasteries. I was able to locate two of these monasteries on Google Maps without much trouble. Another monastery, named Getesmani Maryam, was mentioned in some academic publications, but proved difficult to find on Google Maps. Luckily, the Encyclopedia Aethiopica entry for Getesmani Maryam included coordinates: 11.10 N, 38.4 E. The last monastery, called Dabra Jamado Maryam, proved more illusive. I eventually determined that “Jamado” is an alternate transliteration of ዠመዱ, which is often instead transliterated as Žämmädu. (When the icons were first published in the early 70s, there was no standard system for transliterating Amharic and other Ethiopic languages.) I was able to find the location of Žämmädu Maryam on Google Maps.\n\n\n\nWith the locations of my monasteries finalized, I gathered the location data in a spreadsheet. I also included location data for the place of production of the icons (Candia/Herklion, Crete) and other sites that they may have treveled to before reaching Ethiopia. For each site, I included a column to specify whether the icons were known to have been at the site, or whether the connection is speculative. I then used this data to generate a map with ArcGIS online. I used conditional styling so that the known sites appeared in green and the speculative sites in yellow.\n\n\n\n\n\n\nAt the moment, if sites are too close together, their labels do not appear. After some searching online, I think I’ve determined that there is no good workaround to this in ArcGIS online, but Pro has features that allow for overlapping labels.\n\n\n\nI want to give my viewer a sense of the geopolitical boundaries that existed in this period (early 16th century), but these boundaries were unstable and in flux. I also have not been able to find a satisfactory map of 16th century Ethiopia, although I will continue searching. I will likely map these boundaries myself, with a polygon layer. Other projects, like Native Land Digital, have done so with great success."
-  },
-  {
-    "objectID": "logs/taylor-11-5.html#project-progress",
-    "href": "logs/taylor-11-5.html#project-progress",
-    "title": "November 5 Log",
-    "section": "",
-    "text": "Since my conference paper and this GIS project deal with the same subject, some last-minute additional research ahead of the conference proved very helpful for my mapping project.\n\n\nMy project deals with four icons in four Ethiopian monasteries. I was able to locate two of these monasteries on Google Maps without much trouble. Another monastery, named Getesmani Maryam, was mentioned in some academic publications, but proved difficult to find on Google Maps. Luckily, the Encyclopedia Aethiopica entry for Getesmani Maryam included coordinates: 11.10 N, 38.4 E. The last monastery, called Dabra Jamado Maryam, proved more illusive. I eventually determined that “Jamado” is an alternate transliteration of ዠመዱ, which is often instead transliterated as Žämmädu. (When the icons were first published in the early 70s, there was no standard system for transliterating Amharic and other Ethiopic languages.) I was able to find the location of Žämmädu Maryam on Google Maps.\n\n\n\nWith the locations of my monasteries finalized, I gathered the location data in a spreadsheet. I also included location data for the place of production of the icons (Candia/Herklion, Crete) and other sites that they may have treveled to before reaching Ethiopia. For each site, I included a column to specify whether the icons were known to have been at the site, or whether the connection is speculative. I then used this data to generate a map with ArcGIS online. I used conditional styling so that the known sites appeared in green and the speculative sites in yellow."
-  },
-  {
-    "objectID": "logs/taylor-11-5.html#next-steps",
-    "href": "logs/taylor-11-5.html#next-steps",
-    "title": "November 5 Log",
-    "section": "",
-    "text": "At the moment, if sites are too close together, their labels do not appear. After some searching online, I think I’ve determined that there is no good workaround to this in ArcGIS online, but Pro has features that allow for overlapping labels.\n\n\n\nI want to give my viewer a sense of the geopolitical boundaries that existed in this period (early 16th century), but these boundaries were unstable and in flux. I also have not been able to find a satisfactory map of 16th century Ethiopia, although I will continue searching. I will likely map these boundaries myself, with a polygon layer. Other projects, like Native Land Digital, have done so with great success."
+    "text": "Watched Video Script Scriting in order to better organize my ideas around an actual script so it is easier to manage the time in a 5 minute video (Which is what my research advisor would like for our lab group)\n\n\nNext semester I will not be A TA where I have to attend every class, and my research will be more clear and familiar now that I have learned the Vibrating Sample Magnetometer and done measurements. I effectively won’t be learning the instrument and trying to write about it at the same time. I will be in a better position to begin working on this video and getting feedback from May and Christine Boyland. Between Family Emergencies and TAing one of the hardest physics classes in the curriculum, I was inundated and unable to meet as much tangible objectives. I appreciate your patience and still believe that I can put the skills and workshop to at the very least come up with a script which I now know more about from watching the video course Video Script Writing."
   },
   {
     "objectID": "logs/taylor-12-19.html",
@@ -556,6 +153,28 @@
     "crumbs": [
       "Home",
       "Syllabus"
+    ]
+  },
+  {
+    "objectID": "expectations.html",
+    "href": "expectations.html",
+    "title": "Expectations",
+    "section": "",
+    "text": "To support your participation in this program, you will receive a stipend of $1000, paid in two installments. You will be expected to:\n\nParticipate in meetings and workshops\n\nWe will have 8 sessions that will include discussion and collaborative learning.\nIf you need to miss a meeting, please let the whole team know ASAP and take steps to make up the work.\nPrepare for each meeting as indicated (readings, tasks, workshop tasks).\n\nComplete a learning plan or project\n\nEach fellow will develop (in consultation with Alice and Jeff) a learning goal related to digital skill-building for research in your discipline.\nThis could take the shape of a small-scale digital scholarship project, or a set of tutorials/learning activities you intend to complete.\nYou will be responsible for developing a schedule for accomplishing your goal by the end of the DSGF program and sharing regular updates on your progress with the team.\n\nPresent at the DS Graduate Showcase in the Spring\n\nYour brief presentation (5-10 mins) could focus on your learning project or goal, an overview of digital methods in your discipline, a teaching or research tool demo, etc.",
+    "crumbs": [
+      "Home",
+      "Expectations"
+    ]
+  },
+  {
+    "objectID": "expectations.html#dsgf-program-requirements",
+    "href": "expectations.html#dsgf-program-requirements",
+    "title": "Expectations",
+    "section": "",
+    "text": "To support your participation in this program, you will receive a stipend of $1000, paid in two installments. You will be expected to:\n\nParticipate in meetings and workshops\n\nWe will have 8 sessions that will include discussion and collaborative learning.\nIf you need to miss a meeting, please let the whole team know ASAP and take steps to make up the work.\nPrepare for each meeting as indicated (readings, tasks, workshop tasks).\n\nComplete a learning plan or project\n\nEach fellow will develop (in consultation with Alice and Jeff) a learning goal related to digital skill-building for research in your discipline.\nThis could take the shape of a small-scale digital scholarship project, or a set of tutorials/learning activities you intend to complete.\nYou will be responsible for developing a schedule for accomplishing your goal by the end of the DSGF program and sharing regular updates on your progress with the team.\n\nPresent at the DS Graduate Showcase in the Spring\n\nYour brief presentation (5-10 mins) could focus on your learning project or goal, an overview of digital methods in your discipline, a teaching or research tool demo, etc.",
+    "crumbs": [
+      "Home",
+      "Expectations"
     ]
   },
   {
@@ -655,25 +274,51 @@
     ]
   },
   {
-    "objectID": "expectations.html",
-    "href": "expectations.html",
-    "title": "Expectations",
+    "objectID": "resources/markdown-guide.html",
+    "href": "resources/markdown-guide.html",
+    "title": "Markdown Guide",
     "section": "",
-    "text": "To support your participation in this program, you will receive a stipend of $1000, paid in two installments. You will be expected to:\n\nParticipate in meetings and workshops\n\nWe will have 8 sessions that will include discussion and collaborative learning.\nIf you need to miss a meeting, please let the whole team know ASAP and take steps to make up the work.\nPrepare for each meeting as indicated (readings, tasks, workshop tasks).\n\nComplete a learning plan or project\n\nEach fellow will develop (in consultation with Alice and Jeff) a learning goal related to digital skill-building for research in your discipline.\nThis could take the shape of a small-scale digital scholarship project, or a set of tutorials/learning activities you intend to complete.\nYou will be responsible for developing a schedule for accomplishing your goal by the end of the DSGF program and sharing regular updates on your progress with the team.\n\nPresent at the DS Graduate Showcase in the Spring\n\nYour brief presentation (5-10 mins) could focus on your learning project or goal, an overview of digital methods in your discipline, a teaching or research tool demo, etc.",
+    "text": "Markdown is a simple markup language that prioritizes human-readability as well as machine-readability.",
     "crumbs": [
       "Home",
-      "Expectations"
+      "Resources",
+      "Markdown Guide"
     ]
   },
   {
-    "objectID": "expectations.html#dsgf-program-requirements",
-    "href": "expectations.html#dsgf-program-requirements",
-    "title": "Expectations",
-    "section": "",
-    "text": "To support your participation in this program, you will receive a stipend of $1000, paid in two installments. You will be expected to:\n\nParticipate in meetings and workshops\n\nWe will have 8 sessions that will include discussion and collaborative learning.\nIf you need to miss a meeting, please let the whole team know ASAP and take steps to make up the work.\nPrepare for each meeting as indicated (readings, tasks, workshop tasks).\n\nComplete a learning plan or project\n\nEach fellow will develop (in consultation with Alice and Jeff) a learning goal related to digital skill-building for research in your discipline.\nThis could take the shape of a small-scale digital scholarship project, or a set of tutorials/learning activities you intend to complete.\nYou will be responsible for developing a schedule for accomplishing your goal by the end of the DSGF program and sharing regular updates on your progress with the team.\n\nPresent at the DS Graduate Showcase in the Spring\n\nYour brief presentation (5-10 mins) could focus on your learning project or goal, an overview of digital methods in your discipline, a teaching or research tool demo, etc.",
+    "objectID": "resources/markdown-guide.html#raw-markdown-syntax",
+    "href": "resources/markdown-guide.html#raw-markdown-syntax",
+    "title": "Markdown Guide",
+    "section": "Raw markdown syntax",
+    "text": "Raw markdown syntax\n# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
     "crumbs": [
       "Home",
-      "Expectations"
+      "Resources",
+      "Markdown Guide"
+    ]
+  },
+  {
+    "objectID": "resources/markdown-guide.html#rich-text",
+    "href": "resources/markdown-guide.html#rich-text",
+    "title": "Markdown Guide",
+    "section": "Rich text",
+    "text": "Rich text",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Markdown Guide"
+    ]
+  },
+  {
+    "objectID": "resources/markdown-guide.html#second-level-heading",
+    "href": "resources/markdown-guide.html#second-level-heading",
+    "title": "Markdown Guide",
+    "section": "Second-level heading",
+    "text": "Second-level heading\n\nOrdered list\nordered list\n\n\nUnordered list\nUnordered list\n\nUse multiple returns or consecutive lines will run together\nItalics or Bold\nHyperlinks: dsgf github site\nImages:",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Markdown Guide"
     ]
   },
   {
@@ -821,51 +466,420 @@
     ]
   },
   {
-    "objectID": "resources/markdown-guide.html",
-    "href": "resources/markdown-guide.html",
-    "title": "Markdown Guide",
+    "objectID": "resources/smart-goals.html",
+    "href": "resources/smart-goals.html",
+    "title": "SMART Goals",
     "section": "",
-    "text": "Markdown is a simple markup language that prioritizes human-readability as well as machine-readability.",
+    "text": "When you set goals, make sure they are SMART: Specific, Measurable, Achievable, Relevant, and Time-bound",
     "crumbs": [
       "Home",
       "Resources",
-      "Markdown Guide"
+      "SMART Goals"
     ]
   },
   {
-    "objectID": "resources/markdown-guide.html#raw-markdown-syntax",
-    "href": "resources/markdown-guide.html#raw-markdown-syntax",
-    "title": "Markdown Guide",
-    "section": "Raw markdown syntax",
-    "text": "Raw markdown syntax\n# First-level heading\n\n## Second-level heading\n\n1. Ordered list\n2. ordered list\n\n- Unordered list\n- Unordered list\n\nUse multiple returns or consecutive lines\nwill run together\n\n*Italics* or **Bold**\n\nHyperlinks: [dsgf github site](https://github.com/digbmc/dsgf-2021)\n\nImages:\n![Image of ENIAC](https://digbmc.github.io/dsgf-20-21/media/Eniac.jpg)",
+    "objectID": "resources/smart-goals.html#specific",
+    "href": "resources/smart-goals.html#specific",
+    "title": "SMART Goals",
+    "section": "Specific",
+    "text": "Specific\n\nWhat will be accomplished? What specific actions will you take?\nThink of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.",
     "crumbs": [
       "Home",
       "Resources",
-      "Markdown Guide"
+      "SMART Goals"
     ]
   },
   {
-    "objectID": "resources/markdown-guide.html#rich-text",
-    "href": "resources/markdown-guide.html#rich-text",
-    "title": "Markdown Guide",
-    "section": "Rich text",
-    "text": "Rich text",
+    "objectID": "resources/smart-goals.html#measurable",
+    "href": "resources/smart-goals.html#measurable",
+    "title": "SMART Goals",
+    "section": "Measurable",
+    "text": "Measurable\n\nWhat “data” will you use to measure your goal or to determine if it has been met?\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?\nMeasurement methods can be both quantitative and qualitative. Use the measurement form that best suites your specific goal.",
     "crumbs": [
       "Home",
       "Resources",
-      "Markdown Guide"
+      "SMART Goals"
     ]
   },
   {
-    "objectID": "resources/markdown-guide.html#second-level-heading",
-    "href": "resources/markdown-guide.html#second-level-heading",
-    "title": "Markdown Guide",
-    "section": "Second-level heading",
-    "text": "Second-level heading\n\nOrdered list\nordered list\n\n\nUnordered list\nUnordered list\n\nUse multiple returns or consecutive lines will run together\nItalics or Bold\nHyperlinks: dsgf github site\nImages:",
+    "objectID": "resources/smart-goals.html#achievable",
+    "href": "resources/smart-goals.html#achievable",
+    "title": "SMART Goals",
+    "section": "Achievable",
+    "text": "Achievable\n\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources?\nIf you don’t currently have the skills need to achieve the goal, how will you acquire them? These can be some of your measurable milestones.",
     "crumbs": [
       "Home",
       "Resources",
-      "Markdown Guide"
+      "SMART Goals"
     ]
+  },
+  {
+    "objectID": "resources/smart-goals.html#relevant",
+    "href": "resources/smart-goals.html#relevant",
+    "title": "SMART Goals",
+    "section": "Relevant",
+    "text": "Relevant\n\nDoes this particular goal align with broader project or personal goals?\nHow is the outcome important?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "resources/smart-goals.html#time-bound",
+    "href": "resources/smart-goals.html#time-bound",
+    "title": "SMART Goals",
+    "section": "Time-bound",
+    "text": "Time-bound\n\nWhat is the time frame for accomplishing this goal?\nIs it realistic?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "SMART Goals"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html",
+    "href": "resources/ds-project-planning.html",
+    "title": "Project Planning Guide",
+    "section": "",
+    "text": "This document is for the purposes of inspiring discussion, clarifying expectations, and surfacing values and assumptions about a given digital scholarship project. The questions are meant as a guide to discussions around important issues related to the project. Responses or notes made by the assigned DS team member will contribute to the creation of a Project Charter.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#goalsobjectives",
+    "href": "resources/ds-project-planning.html#goalsobjectives",
+    "title": "Project Planning Guide",
+    "section": "Goals/Objectives",
+    "text": "Goals/Objectives\nWhat are the goals/objectives for this project?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#deliverables",
+    "href": "resources/ds-project-planning.html#deliverables",
+    "title": "Project Planning Guide",
+    "section": "Deliverables",
+    "text": "Deliverables\nWhat will this project produce?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#schedule",
+    "href": "resources/ds-project-planning.html#schedule",
+    "title": "Project Planning Guide",
+    "section": "Schedule",
+    "text": "Schedule\nWhat are the major milestones for the project? And when will they be completed?\nWhen are appropriate points for reporting back to DS/TLR regarding the status of the project? (use actual dates whenever possible)",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#audience",
+    "href": "resources/ds-project-planning.html#audience",
+    "title": "Project Planning Guide",
+    "section": "Audience",
+    "text": "Audience\nWho is the intended audience of this project?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#team-members",
+    "href": "resources/ds-project-planning.html#team-members",
+    "title": "Project Planning Guide",
+    "section": "Team Members",
+    "text": "Team Members\nWho are the team members? And what are their roles and responsibilities for this project?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#technical-requirements",
+    "href": "resources/ds-project-planning.html#technical-requirements",
+    "title": "Project Planning Guide",
+    "section": "Technical Requirements",
+    "text": "Technical Requirements\nWhat hardware and software are necessary for this project? When will they be needed? Who on the team will be responsible for training, maintenance, etc.?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#communication",
+    "href": "resources/ds-project-planning.html#communication",
+    "title": "Project Planning Guide",
+    "section": "Communication",
+    "text": "Communication\nHow will team members communicate? And how frequently?\nex. Director will check in with team members weekly via email and report updates out to entire team via weekly email\nex. Through updates at monthly meetings about the project\nex. Via Slack as issues, questions, development arise",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#credit-attribution-and-intellectual-property",
+    "href": "resources/ds-project-planning.html#credit-attribution-and-intellectual-property",
+    "title": "Project Planning Guide",
+    "section": "Credit, Attribution, and Intellectual Property",
+    "text": "Credit, Attribution, and Intellectual Property\nHow should the project be cited?\nHow will team members be credited in the project?\nex. All team members will be listed on the project website with their roles and dates of working on the project. When referring to individual contributions, a team member can speak of that contribution as his or hers. When referring to the whole project, team members should always credit the team. We encourage everyone to share with the team when they make public mentions of the project.\nWho will retain the intellectual property for this project?\nHow will the IP of the project be licensed?\nex. Creative Commons Attribution-NonCommercial International 4.0\nex. Patent\nex. MIT license",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#preservation-and-long-term-access",
+    "href": "resources/ds-project-planning.html#preservation-and-long-term-access",
+    "title": "Project Planning Guide",
+    "section": "Preservation and Long-Term Access",
+    "text": "Preservation and Long-Term Access\nHow long should the project be actively maintained? Who is responsible for updating project content? Who is responsible for updating hardware/software for this project?\nHow will the project be archived? What restrictions (if any) should there be to access the project now? In future?\nWhat documentation about the project is required? Who will create it? Where will it be stored?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#outside-of-scope",
+    "href": "resources/ds-project-planning.html#outside-of-scope",
+    "title": "Project Planning Guide",
+    "section": "Outside of Scope",
+    "text": "Outside of Scope\nWhat is outside of the scope of this project?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "resources/ds-project-planning.html#dependencies-concerns",
+    "href": "resources/ds-project-planning.html#dependencies-concerns",
+    "title": "Project Planning Guide",
+    "section": "Dependencies & Concerns",
+    "text": "Dependencies & Concerns\nWhat does the completion of this project depend on?\nWhat concerns do team members have about this project?",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Project Planning Guide"
+    ]
+  },
+  {
+    "objectID": "meetings/mapping.html",
+    "href": "meetings/mapping.html",
+    "title": "Mapping & GIS",
+    "section": "",
+    "text": "Workshop session\nUpdates and reminders",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Mapping & GIS"
+    ]
+  },
+  {
+    "objectID": "meetings/mapping.html#agenda",
+    "href": "meetings/mapping.html#agenda",
+    "title": "Mapping & GIS",
+    "section": "",
+    "text": "Workshop session\nUpdates and reminders",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Mapping & GIS"
+    ]
+  },
+  {
+    "objectID": "meetings/mapping.html#meeting-notes",
+    "href": "meetings/mapping.html#meeting-notes",
+    "title": "Mapping & GIS",
+    "section": "Meeting notes",
+    "text": "Meeting notes\nSession leader: Tessa Eisen\n\nMapping & GIS\nDigital Mapping: ArcGIS Online and Experience Builder slides - Non-technological points - Cartography is the science of map making. - Key principles of sucessful cartograpy: clarity, consistency, & simplicity - Map-making = making choices about what spatial information to highlight or minimize - Technological points: - Geographic Information Systems (GIS): Technology used to create, manage, store, analyze, and map data. It’s a digital means of doing cartography. - ArcGIS: one of the most popular GIS platforms available. It is a paid service, but you have complimentary access at this link - ArcGIS will let you build several different types of maps using its component apps. Consult the presentations for information on how to use them: - StoryMaps: for narrative-driven mapping experiences where you want to guide users through information - Experience Builder: if you want to build your own app experience for users - Dashboard: for when you also want to display the underlying data in a map (e.g., how stats change over time0 - Instant Apps: if you want to use app tempaltes to create your user experience (e.g., creating an image gallery) - Once finished, you can use ArcGIS to publish your map. - Contact information and tutorials: look to the end of the presentation for this info!",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Mapping & GIS"
+    ]
+  },
+  {
+    "objectID": "meetings/mapping.html#review-of-project-updates",
+    "href": "meetings/mapping.html#review-of-project-updates",
+    "title": "Mapping & GIS",
+    "section": "Review of Project Updates",
+    "text": "Review of Project Updates\nCharlie - In a great place, as they’ve found geographic information on their sites and added it to a map within ArcGIS online. - Next steps involve upgrading to ArcGIS Pro to deal with overlapping labels and adding a layer showing pre-modern political boundaries. They haven’t found a map layer that provides the latter, so they may need to make it on their own using a polygon layer in ArcGIS. This may be another feature limited to ArcGIS Pro\nJennifer - She’s been distracted by a presentation proposal and personal matters. Jeff reminds her and Charlie that it’s okay if there projects need to put on pause or if goals need to be donwsized due to other things they have going on in their lives! - Tangible progress was made in other ways. Jennifer got measurements from the VSM and is almost done drafting the SOP that will inform her video on lab procedures. - Next steps will involve meeting with Chris Boyland from EAST about video production.",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Mapping & GIS"
+    ]
+  },
+  {
+    "objectID": "meetings/mapping.html#reminders-and-action-items",
+    "href": "meetings/mapping.html#reminders-and-action-items",
+    "title": "Mapping & GIS",
+    "section": "Reminders and action items",
+    "text": "Reminders and action items\n\nAdd your updates - November 21\nPrepare for next session\n\nInstall software\n\nText editor: Visual Studio Code\nFor a PC: install git bash using these instructions\n\nWatch all 6 Code.org videos on how computers work if you haven’t already.\nOptional: read “Hello, World” by Meredith Broussard (from Artificial Unintelligence, MIT 2018). NB: if direct link doesn’t work, use TriPod link\n\nSend schedule for Spring 2026",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Mapping & GIS"
+    ]
+  },
+  {
+    "objectID": "meetings/computational-thinking.html",
+    "href": "meetings/computational-thinking.html",
+    "title": "Computational Thinking",
+    "section": "",
+    "text": "Updates & sharing SMART goals\nDiscussion: How Computers Work\nIntroduction to the Command Line Workshop",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Computational Thinking"
+    ]
+  },
+  {
+    "objectID": "meetings/computational-thinking.html#agenda",
+    "href": "meetings/computational-thinking.html#agenda",
+    "title": "Computational Thinking",
+    "section": "",
+    "text": "Updates & sharing SMART goals\nDiscussion: How Computers Work\nIntroduction to the Command Line Workshop",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Computational Thinking"
+    ]
+  },
+  {
+    "objectID": "meetings/computational-thinking.html#meeting-notes",
+    "href": "meetings/computational-thinking.html#meeting-notes",
+    "title": "Computational Thinking",
+    "section": "Meeting notes",
+    "text": "Meeting notes\nNote-taker: Jeff\n\nUpdates & SMART Goals\n\nCharlie: They have made progress on their shape file for ancient political boundaries. The borders are hand-drawn, however, so they want to find something more precise.\nJennifer: She hasn’t had as much time for working on the project. However, she has watched videos from Chris Boyland and creating videos. As a result, she feels more prepared to start with video-making next semster when she’ll have more time.\n\n\n\nCommand line\n\nJennifer & Charlie both have limited experience using command line, but it’s limited.\nKnowing how to use command line opens up a wider world of specialized software packages that people have developed without dealing with a Graphic User Interface (GUI)\nAlice emphasizes that learning command line also helps someone better understand file structures on their computer.\n\n\nCommand line resources\n\nIntroduction to the Command Line Workshop, Tri-Co DSRI adapted from DHRI @ CUNY.\nIntroduction to the Bash Command Line, Ian Milligan and James Baker, The Programming Historian\nSoftware Carpentry’s tutorial on the Unix Shell (for more advanced tutorials, see the “Loops” and “Shell Scripts” sections)\nTerminus command line game (a fantasy choose-your-own adventure like game) (good for getting use to navigating file structures–uses only a few commands)\n\n\n\n\nSpring Planning\n\nCharlie will have a 7-hour time difference. Which can be worked around, but only so much. They may only be able to come to certain sessions\nJennifer doesn’t know her schedule for the spring. She won’t know until closer to the start date for class (Jan. 20th).\nTenataive schedule for spring sessions is posted in the syllabus. Jeff & Alice will double check it to make sure nothing needs to be substituted for new topics.\n\nDigital storytelling & data visualization may get combined into one session.\nIn its place, we may put a generative AI session. This may also be something open to the community.\n## Action items\n\nUpdates to logs due on 12/19\nCommand line follow-up\n\nFinish going through the Command Line Tutorial & post any questions to Slack\nOptional: look at the other command line resources\n\nLogs\n\nUpdate your logs by 12/19\n\nGeneral Reminders\n\nSet up a meeting with Alice or Jeff via Zoom Scheduler if you need any help.\nSend your spring schedule when you have it",
+    "crumbs": [
+      "Home",
+      "Meetings",
+      "Computational Thinking"
+    ]
+  },
+  {
+    "objectID": "SMART Goal Jennifer Rittenhouse.html",
+    "href": "SMART Goal Jennifer Rittenhouse.html",
+    "title": "SMART Goal",
+    "section": "",
+    "text": "SMART Goal\n\nSpecific\nCreate an informational video for using the Vibrating Sample Magnetometer (VSM) that is informative, interesting and generates enthusiasm for what we do in the Nanomaterials and Spintronics Lab at QMSEC (Quantum Materials, Sensing and Education Center.)\n\n\nMeasurable\nWhat “data” will you use to measure your goal or to determine if it has been met?\n  I am fortunate to have the guidance of my exceptional research advisor, Dr. Xuemei May Cheng, and the valuable insights of Christine Boyland. Christine has kindly shared her expertise on video storytelling and showed me some techiques through WeVideo so far. Furthermore, I have the benefit of a diverse lab community consisting of individuals with varying age ranges and educational backgrounds—including undergraduates and graduates—who I believe would be willing to offer their feedback as well.\nIf this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it? What “data” will you use to measure your goal or to determine if it has been met?\n  Subgoal 1: Before proceeding with the video, I will ensure that my advisor approves the Standard Operating Procedure I’ve been developing. This document incorporates helpful visuals and critical information but still requires some refinement. Obtaining my advisor’s feedback will guarantee that I am accurately demonstrating each step and setting a strong example for viewers. Although I’m still fairly new to operating the VSM, it will be my primary measurement equipment in the lab until December, so this video project provides an excellent opportunity to further refine my skills and knowledge.\n  Subgoal 2: I need to make a video and have Christine look at it and approve it. It needs to be an easier project so I can start to confirm I’ve gotten some of the technical details and nuances of video production.\n  Subgoal 3: I need to understand lighting and recording on site in my lab to get the best video. This will require working more with Christine and fleshing out my ideas.\n  Subgoal 4: Work on off camera narration and footage. I will want to explain some of the physics principles and narrate them. Example “VSM employs Faraday’s law….VSM measures (among other things) Hysteresis loops   they are….etc.\n  Subgoal 5: Record one segment of the video, maybe scenes of mounting the sample to be included in the full 5 minute video.\n  Subgoal 6: Narrate a fast-forwarded hysteresis loop going over the various parts and why they are important to our magnetic characterization of materials.   ##### Achievable\nCan you reasonably accomplish the goal? Do you have the necessary skills or resources? What “data” will you use to measure your goal or to determine if it has been met?\n Yes, I think this is a reasonable goal as I will be working with the VSM frequently in the lab and I have good experienced people to both advise me and also give me feedback. I do not currently have the video production skills but I have Christine Boyland and I can benefit from her experience. She has also already introduced me to software and instructional videos. I Just need to watch them and apply their lessons in a tangible way.\n  ##### Relevant\nDoes this particular goal align with broader project or personal goals? How is the outcome important?    Absolutely, creating this video will not only deepen my understanding of the VSM—a crucial tool for characterizing our samples and unraveling their magnetic properties—but also pique my personal interest in video production. As a consumer of YouTube content, I’m excited to explore this medium, particularly to share my experiences as someone with ADHD and spatial reasoning challenges who has successfully pursued a PhD in physics. By sharing my journey, I hope to inspire others who might face similar obstacles. Ultimately, I aim to create a valuable resource for future lab members, as well as high school students curious about the hands-on reality of scientific research. This goal is important to me because I want to contribute to the growth and support of the next generation of scientists.\n\n\nTime Bound\nWhat is the time frame for accomplishing the goal? Is it realistic?    I would like the timeframe to be by the conclusion of our program DSGF but I can also try to make it by the end of December if that is too late. I think towards the end of DSGF is more realistic as I will be much more skilled and proficient (and confidant) in executing the VSM by then but I will also be working throughout the Fall primarily on VSM measurement and data analysis specifically (at least this is the current goal of my research advisor.)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "",
+    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "",
+    "text": "This site is a hub for the Digital Scholarship Graduate Fellows Program at Bryn Mawr College, AY 2025-2026. The program is led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "Quick links",
+    "text": "Quick links\n\nSyllabus\nGitHub Repository\nLast year’s program"
+  },
+  {
+    "objectID": "index.html#sessions",
+    "href": "index.html#sessions",
+    "title": "Digital Scholarship Graduate Fellows",
+    "section": "Sessions",
+    "text": "Sessions\nMeeting notes will appear below."
+  },
+  {
+    "objectID": "logs/taylor-4-10.html",
+    "href": "logs/taylor-4-10.html",
+    "title": "April 10 Log",
+    "section": "",
+    "text": "Earlier in the semester, I drew a pen-and-paper wireframe for my storymap, and I have spent the past two weeks translating my wireframe to ArcGIS’s StoryMaps app. You can view my progress here. The interface of ArcGIS StoryMaps is straightforward and easy to use, with the drawback that I have limited control over the design of individual elements on the site. Still, the ability to design a guided tour that takes users through my map and give detailed information about each location is a huge plus. ## Writing text for storymap I have begun writing informational text to accompany the storymap and give users necessary background to understand the map. I have tried to take language from my thesis and adjust it to better suit a non-specialist audience. I’d appreciate any feedback on the writing: if it’s clear, easy to follow, doesn’t use too much jargon, etc. # Next steps I hope to have a full “draft” site by April 24. This will mostly involve writing the remaining sections of text, as well as incorporating any feedback on the layout of the site. I hope that I can then integrate any remaining feedback into a final, polished version of the storymap."
+  },
+  {
+    "objectID": "logs/taylor-4-10.html#wireframing-and-site-development",
+    "href": "logs/taylor-4-10.html#wireframing-and-site-development",
+    "title": "April 10 Log",
+    "section": "",
+    "text": "Earlier in the semester, I drew a pen-and-paper wireframe for my storymap, and I have spent the past two weeks translating my wireframe to ArcGIS’s StoryMaps app. You can view my progress here. The interface of ArcGIS StoryMaps is straightforward and easy to use, with the drawback that I have limited control over the design of individual elements on the site. Still, the ability to design a guided tour that takes users through my map and give detailed information about each location is a huge plus. ## Writing text for storymap I have begun writing informational text to accompany the storymap and give users necessary background to understand the map. I have tried to take language from my thesis and adjust it to better suit a non-specialist audience. I’d appreciate any feedback on the writing: if it’s clear, easy to follow, doesn’t use too much jargon, etc. # Next steps I hope to have a full “draft” site by April 24. This will mostly involve writing the remaining sections of text, as well as incorporating any feedback on the layout of the site. I hope that I can then integrate any remaining feedback into a final, polished version of the storymap."
+  },
+  {
+    "objectID": "logs/taylor-11-5.html",
+    "href": "logs/taylor-11-5.html",
+    "title": "November 5 Log",
+    "section": "",
+    "text": "I just got back from the annual Byzantine Studies Conference, where I presented my MA project, including some maps!\n\n\nSince my conference paper and this GIS project deal with the same subject, some last-minute additional research ahead of the conference proved very helpful for my mapping project.\n\n\nMy project deals with four icons in four Ethiopian monasteries. I was able to locate two of these monasteries on Google Maps without much trouble. Another monastery, named Getesmani Maryam, was mentioned in some academic publications, but proved difficult to find on Google Maps. Luckily, the Encyclopedia Aethiopica entry for Getesmani Maryam included coordinates: 11.10 N, 38.4 E. The last monastery, called Dabra Jamado Maryam, proved more illusive. I eventually determined that “Jamado” is an alternate transliteration of ዠመዱ, which is often instead transliterated as Žämmädu. (When the icons were first published in the early 70s, there was no standard system for transliterating Amharic and other Ethiopic languages.) I was able to find the location of Žämmädu Maryam on Google Maps.\n\n\n\nWith the locations of my monasteries finalized, I gathered the location data in a spreadsheet. I also included location data for the place of production of the icons (Candia/Herklion, Crete) and other sites that they may have treveled to before reaching Ethiopia. For each site, I included a column to specify whether the icons were known to have been at the site, or whether the connection is speculative. I then used this data to generate a map with ArcGIS online. I used conditional styling so that the known sites appeared in green and the speculative sites in yellow.\n\n\n\n\n\n\nAt the moment, if sites are too close together, their labels do not appear. After some searching online, I think I’ve determined that there is no good workaround to this in ArcGIS online, but Pro has features that allow for overlapping labels.\n\n\n\nI want to give my viewer a sense of the geopolitical boundaries that existed in this period (early 16th century), but these boundaries were unstable and in flux. I also have not been able to find a satisfactory map of 16th century Ethiopia, although I will continue searching. I will likely map these boundaries myself, with a polygon layer. Other projects, like Native Land Digital, have done so with great success."
+  },
+  {
+    "objectID": "logs/taylor-11-5.html#project-progress",
+    "href": "logs/taylor-11-5.html#project-progress",
+    "title": "November 5 Log",
+    "section": "",
+    "text": "Since my conference paper and this GIS project deal with the same subject, some last-minute additional research ahead of the conference proved very helpful for my mapping project.\n\n\nMy project deals with four icons in four Ethiopian monasteries. I was able to locate two of these monasteries on Google Maps without much trouble. Another monastery, named Getesmani Maryam, was mentioned in some academic publications, but proved difficult to find on Google Maps. Luckily, the Encyclopedia Aethiopica entry for Getesmani Maryam included coordinates: 11.10 N, 38.4 E. The last monastery, called Dabra Jamado Maryam, proved more illusive. I eventually determined that “Jamado” is an alternate transliteration of ዠመዱ, which is often instead transliterated as Žämmädu. (When the icons were first published in the early 70s, there was no standard system for transliterating Amharic and other Ethiopic languages.) I was able to find the location of Žämmädu Maryam on Google Maps.\n\n\n\nWith the locations of my monasteries finalized, I gathered the location data in a spreadsheet. I also included location data for the place of production of the icons (Candia/Herklion, Crete) and other sites that they may have treveled to before reaching Ethiopia. For each site, I included a column to specify whether the icons were known to have been at the site, or whether the connection is speculative. I then used this data to generate a map with ArcGIS online. I used conditional styling so that the known sites appeared in green and the speculative sites in yellow."
+  },
+  {
+    "objectID": "logs/taylor-11-5.html#next-steps",
+    "href": "logs/taylor-11-5.html#next-steps",
+    "title": "November 5 Log",
+    "section": "",
+    "text": "At the moment, if sites are too close together, their labels do not appear. After some searching online, I think I’ve determined that there is no good workaround to this in ArcGIS online, but Pro has features that allow for overlapping labels.\n\n\n\nI want to give my viewer a sense of the geopolitical boundaries that existed in this period (early 16th century), but these boundaries were unstable and in flux. I also have not been able to find a satisfactory map of 16th century Ethiopia, although I will continue searching. I will likely map these boundaries myself, with a polygon layer. Other projects, like Native Land Digital, have done so with great success."
+  },
+  {
+    "objectID": "logs/jennifer-11-7-25.html",
+    "href": "logs/jennifer-11-7-25.html",
+    "title": "November 7 Log",
+    "section": "",
+    "text": "I unfortunately have not made much tangible progress since our last meeting. My research advisor had suddenly mentioned the American Physical Society (APS) March Summit was March 15-20 2026, and we were to write an abstract due October 23rd. It was my first APS abstract that I had to write, I had to come up with my own travel budget and arrange to present in Denver Colorado, I’ve never done that before. On top of that I had two family emergencies including my uncle contracting stage 4 cancer.\n\n\nI have however made more measurements with the VSM (Vibrating Sample Magnetometry) and am nearly finished with my Standard Operating Procedure which my research advisor wants to approve before we can start talking about the video. I plan to have her look at it next week. I have worked with the undergraduates and gotten some of their feedback for my understanding and teaching about the VSM. I also did get my equipment, I just haven’t opened it up and began trying to film with it.\n\n\nI need to really put more tangible deadlines going forward and touch base again with Christine Boyland about the video editing process. I’m very sorry that I was derailed this past month. It has been a very hard month both in terms of workload and emotionally. I will try to look at the project management slides again and reassess how I’m fitting in this video with everything else."
+  },
+  {
+    "objectID": "logs/jennifer-11-7-25.html#tangible-steps",
+    "href": "logs/jennifer-11-7-25.html#tangible-steps",
+    "title": "November 7 Log",
+    "section": "",
+    "text": "I have however made more measurements with the VSM (Vibrating Sample Magnetometry) and am nearly finished with my Standard Operating Procedure which my research advisor wants to approve before we can start talking about the video. I plan to have her look at it next week. I have worked with the undergraduates and gotten some of their feedback for my understanding and teaching about the VSM. I also did get my equipment, I just haven’t opened it up and began trying to film with it.\n\n\nI need to really put more tangible deadlines going forward and touch base again with Christine Boyland about the video editing process. I’m very sorry that I was derailed this past month. It has been a very hard month both in terms of workload and emotionally. I will try to look at the project management slides again and reassess how I’m fitting in this video with everything else."
+  },
+  {
+    "objectID": "logs/index.html",
+    "href": "logs/index.html",
+    "title": "Logs",
+    "section": "",
+    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘update-alice.md’\n\nBecause the filename will generate the url for the post, it should contain only URL-safe characters (i.e. avoid spaces, special characters, and punctuation, but you can use hyphens). URLs are case-sensitive and I recommend using all lowercase letters.\n\nGive your log a YAML header that includes your name, the date, and a title (this should appear at the very beginning of your document).\n---\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\n---\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below. If it doesn’t appear, there may be an issue with the yaml header or filename.\nIf you would like to add your post as a ‘draft’ (so that it will be visible on GitHub but will not render on the public-facing website), add draft: true to the YAML front matter."
+  },
+  {
+    "objectID": "logs/index.html#instructions-for-adding-a-log-entry",
+    "href": "logs/index.html#instructions-for-adding-a-log-entry",
+    "title": "Logs",
+    "section": "",
+    "text": "Log in to GitHub and navigate to the logs folder: https://github.com/digbmc/dsgf/tree/main/logs\nSelect Add file -&gt; Create new file. Give it a filename that is unique and ends with the suffix ‘.md’ (for markdown): e.g. ‘update-alice.md’\n\nBecause the filename will generate the url for the post, it should contain only URL-safe characters (i.e. avoid spaces, special characters, and punctuation, but you can use hyphens). URLs are case-sensitive and I recommend using all lowercase letters.\n\nGive your log a YAML header that includes your name, the date, and a title (this should appear at the very beginning of your document).\n---\ntitle: My update\ndate: 2025.09.17\nauthor: Alice\n---\nFollow the markdown guide for formatting. For advanced features, please see the authoring section of the Quarto guide.\nOnce your post is deployed, you will see your entry below. If it doesn’t appear, there may be an issue with the yaml header or filename.\nIf you would like to add your post as a ‘draft’ (so that it will be visible on GitHub but will not render on the public-facing website), add draft: true to the YAML front matter."
+  },
+  {
+    "objectID": "logs/index.html#updates",
+    "href": "logs/index.html#updates",
+    "title": "Logs",
+    "section": "Updates",
+    "text": "Updates"
   }
 ]
